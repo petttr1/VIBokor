@@ -31,7 +31,7 @@ if __name__ == "__main__":
             for i in range(NUM_WORKERS)]
     xml_processor.start()
     index_writer.start()
-    with Pool(8) as p:
+    with Pool(4) as p:
         p.map(run, args)
     xml_processor.join()
     index_writer.join()
