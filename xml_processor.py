@@ -29,6 +29,10 @@ class XMLProcessor:
             if elem.tag.split('}')[-1] == 'page':
                 # find title and text tags and extract their text
                 for child in elem.iterchildren():
+                    # we can skip non-article (ns != 0) pages
+                    if child.tag.split('}')[-1] == 'ns':
+                        if int(child.text) != 0:
+                            continue
                     if child.tag.split('}')[-1] == 'title':
                         title = child.text
                     if child.tag.split('}')[-1] == 'revision':

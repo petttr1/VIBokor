@@ -36,18 +36,4 @@ if __name__ == "__main__":
     xml_processor.join()
     index_writer.join()
 
-
-# import requests
-
-# URL = "http://ftp.acc.umu.se/mirror/wikimedia.org/dumps/aawiki/20190101/dumpruninfo.txt"
-
-
-# MAX_COUNT = 5
-# file_data = ''
-# with requests.get(URL, stream=True) as r:
-#     for chunk in r.iter_content(chunk_size=50):
-#         file_data += chunk.decode('utf-8')
-#         count = file_data.count('name')
-#         if count >= MAX_COUNT:
-#             print(file_data)
-#             break
+# en_wiki = https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles-multistream12.xml-p7054860p8554859.bz2-rss.xml
