@@ -12,13 +12,15 @@ class Worker:
         source_queue (multiprocessing.Queue): queue to get data from
         target_queue (multiprocessing.Queue): queue to write processed data to
         logging (bool): whether to log this processes activity
+        lang (str): language to use
     """
 
-    def __init__(self, id, source_queue, target_queue, logging):
+    def __init__(self, id, source_queue, target_queue, logging, lang):
         self.source_queue = source_queue
         self.target_queue = target_queue
         self.id = id
         self.logging = logging
+        self.lang = lang
 
     def do_work(self):
         """
@@ -53,7 +55,7 @@ class Worker:
         Args:
             page (str): text of the page.
         """
-        # if the page contains a #redirect clause, return the rext in [[brackets]]
+        # if the page contains a #redirect clause, return the text in [[brackets]]
         match = self._contains_redirect(page)
         if match != None:
             return self._parse_redirect(str(match.string))
@@ -83,7 +85,7 @@ class Worker:
         Args:
             match (str): matched redirect pattern
         """
-        return match.split('[')[-1][:-2]
+        return match.split('{')[0].split('[')[-1][:-2]
 
     def _contains_infobox(self, page):
         """Function used to find out whether the text contains an infobox
@@ -99,7 +101,10 @@ class Worker:
         Args:
             page (str): Text of an Infobox
         """
-        return len(re.findall(r"(Natívny názov|Rodné meno|Plné meno|Celý názov|Krátky miestny názov|Dlhý miestny názov|Natívny názov).*", match)) > 0
+        if self.lang == 'svk':
+            return len(re.findall(r"(Natívny názov|Rodné meno|Plné meno|Celý názov|Krátky miestny názov|Dlhý miestny názov).*", match)) > 0
+        elif self.lang == 'eng':
+            return len(re.findall(r"(official_name|nickname|name|native_name|pseudonym|conventional_long_name|conventional_short_name|fullname|altname).*", match)) > 0
 
     def _parse_alt_infobox(self, match):
         """Function used to parse alt title in infobox
@@ -108,8 +113,12 @@ class Worker:
             page (str): Text of an Infobox
         """
         alt_titles = []
-        for single_match in re.findall(r"(Natívny názov|Rodné meno|Plné meno|Celý názov|Krátky miestny názov|Dlhý miestny názov|Natívny názov).*", match):
-            alt_titles.append(single_match.split('=')[-1])
+        if self.lang == 'svk':
+            for single_match in re.findall(r"(Natívny názov|Rodné meno|Plné meno|Celý názov|Krátky miestny názov|Dlhý miestny názov).*", match):
+                alt_titles.append(single_match.split('=')[-1])
+        elif self.lang == 'eng':
+            for single_match in re.findall(r"(official_name|nickname|name|native_name|pseudonym|conventional_long_name|conventional_short_name|fullname|altname).*", match):
+                alt_titles.append(single_match.split('=')[-1])
 
     # def _parse_first_sentence(self, page):
     #     """Function used to parse the alt title from the forst sentence of a wiki page

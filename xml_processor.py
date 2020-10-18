@@ -1,4 +1,5 @@
 from lxml import etree
+from bz2 import BZ2File
 
 
 class XMLProcessor:
@@ -22,7 +23,8 @@ class XMLProcessor:
             queue (multiprocessing.Queue): Queue used to pass extracted data downstream.
         """
         # iteratively parse the XML (stream process)
-        for _, elem in etree.iterparse(self.xml_file, events=("start",), remove_blank_text=True):
+        bzfile = BZ2File(self.xml_file)
+        for _, elem in etree.iterparse(bzfile, events=("start",), remove_blank_text=True):
             title = ""
             text = ""
             # if "page" tag is found:

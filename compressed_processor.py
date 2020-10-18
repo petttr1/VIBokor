@@ -2,8 +2,8 @@ from bz2 import BZ2File
 from itertools import islice
 from lxml import etree
 
-INDEX_FILE = "wiki_dump/skwiki-latest-pages-articles-multistream-index.txt"
-WIKI_FILE = "wiki_dump/skwiki-latest-pages-articles-multistream.xml.bz2"
+INDEX_FILE = "wiki_dump/enwiki-latest-pages-articles-multistream-index.txt"
+WIKI_FILE = "wiki_dump/enwiki-latest-pages-articles-multistream.xml.bz2"
 
 BZ_FILE = BZ2File(WIKI_FILE)
 
