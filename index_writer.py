@@ -1,4 +1,6 @@
 import time
+from collections import OrderedDict
+import json
 
 
 class IndexWriter:
@@ -23,18 +25,17 @@ class IndexWriter:
         """
         # Open the file for writing
         with open(self.index_file, mode='w', encoding='utf-8') as file:
-            file.write('[')
             while True:
                 try:
                     # get an entry from queue
                     entry = queue.get()
                     # if it is a kill signal quit
                     if entry == 'kill process':
-                        file.write(']')
+                        self.__cleaup_index()
                         return
                     # else write the data to a file
-                    file.write("""{{title: {}, alt_titles: {}}}, \n""".format(
-                        entry['title'], entry['alt_title']))
+                    file.write("""{}:{} \n""".format(
+                        entry['title'].strip(' []\n'), entry['alt_title'].strip(' []\n')))
                     if self.logging:
                         print('INDEX_WRITER:',
                               "Title: {}".format(entry['title']))
@@ -42,3 +43,19 @@ class IndexWriter:
                 except Exception as e:
                     print('QUEUE EMPTY', e)
                     time.sleep(1)
+
+    def __cleaup_index(self):
+        with open(self.index_file, mode='r', encoding='utf-8') as file:
+            index_dict = {}
+            for line in file:
+                try:
+                    alt_title, title = line.strip(' []\n').split(':')
+                except:
+                    print(line, line.split(':'))
+                    continue
+                try:
+                    index_dict[title].append(alt_title)
+                except:
+                    index_dict[title] = [alt_title]
+        with open(self.index_file, mode='w', encoding='utf-8') as file:
+            json.dump(index_dict, file, ensure_ascii=False)
