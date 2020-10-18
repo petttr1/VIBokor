@@ -40,22 +40,22 @@ if __name__ == '__main__':
     else:
         raise Exception("Language not supported")
 
-    # xml_queue = man.Queue()
-    # index_queue = man.Queue()
-    # xml_processor = Process(
-    #     target=XMLProcessor(
-    #         wiki_dump, NUM_WORKERS).parse_xml, args=(xml_queue,))
-    # index_writer = Process(
-    #     target=IndexWriter(
-    #         tmp_file, LOGGING).write, args=(index_queue,))
-    # args = [{'id': i, 'xml_queue': xml_queue, 'index_queue': index_queue}
-    #         for i in range(NUM_WORKERS)]
-    # xml_processor.start()
-    # index_writer.start()
-    # with Pool(processes=NUM_WORKERS) as p:
-    #     p.map(run, args)
-    # xml_processor.join()
-    # index_writer.join()
+    xml_queue = man.Queue()
+    index_queue = man.Queue()
+    xml_processor = Process(
+        target=XMLProcessor(
+            wiki_dump, NUM_WORKERS).parse_xml, args=(xml_queue,))
+    index_writer = Process(
+        target=IndexWriter(
+            tmp_file, LOGGING).write, args=(index_queue,))
+    args = [{'id': i, 'xml_queue': xml_queue, 'index_queue': index_queue}
+            for i in range(NUM_WORKERS)]
+    xml_processor.start()
+    index_writer.start()
+    with Pool(processes=NUM_WORKERS) as p:
+        p.map(run, args)
+    xml_processor.join()
+    index_writer.join()
     print('SORTING INDEX')
     p = Pool(NUM_WORKERS)
     with open(tmp_file, mode='r', encoding='utf-8') as file:
