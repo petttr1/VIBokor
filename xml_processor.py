@@ -31,6 +31,8 @@ class XMLProcessor:
                 for child in elem.iterchildren():
                     # we can skip non-article (ns != 0) pages
                     if child.tag.split('}')[-1] == 'ns':
+                        if child.text == None:
+                            continue
                         if int(child.text) != 0:
                             continue
                     if child.tag.split('}')[-1] == 'title':

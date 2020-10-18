@@ -36,4 +36,4 @@ if __name__ == "__main__":
     xml_processor.join()
     index_writer.join()
 
-# en_wiki = https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles-multistream12.xml-p7054860p8554859.bz2-rss.xml
+# en_wiki = https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles-multistream.xml.bz2
