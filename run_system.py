@@ -7,8 +7,8 @@ import os
 
 NUM_WORKERS = 4
 LOGGING = False
-LANG = 'eng'
-# LANG = 'svk'
+# LANG = 'eng'
+LANG = 'svk'
 
 
 def run(args):

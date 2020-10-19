@@ -77,7 +77,7 @@ class Worker:
         Args:
             page (str): text of a wiki page
         """
-        return re.search(r"(#REDIRECT|#redirect){1}\ ?\[{2}[A-Za-zá-žÁ-Ž]*\]{2}", page)
+        return re.search(r"(#REDIRECT|#redirect){1}\ ?\[{2}[A-Za-zá-žÁ-Ž[A-Za-zá-žÁ-Ž$&+,:;=?@#|'\"<>.^*()%!\]-]*\]{2}", page)
 
     def _parse_redirect(self, match):
         """Function used to parse the #redirect clause of a wiki page
