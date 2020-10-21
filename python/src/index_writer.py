@@ -1,5 +1,4 @@
 import time
-from collections import OrderedDict
 
 
 class IndexWriter:
@@ -38,6 +37,5 @@ class IndexWriter:
                         print('INDEX_WRITER:',
                               "Title: {}".format(entry['title']))
                 # if the queue is empty, wait for a second
-                except Exception as e:
-                    print('QUEUE EMPTY', e)
+                except:
                     time.sleep(1)

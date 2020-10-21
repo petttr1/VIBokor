@@ -44,8 +44,7 @@ class Worker:
                         print("WORKER {}:".format(self.id),
                               page['title'], page['alt_title'])
             # if the queue is empty, wait for a second
-            except Exception as e:
-                print('ERROR', e)
+            except:
                 time.sleep(1)
 
     def _process_page(self, page):
@@ -67,9 +66,6 @@ class Worker:
                 # if yes, parse and return it
                 return self._parse_alt_infobox(str(match.string))
         return None
-        # else:
-        #     # else, try to parse the first sentence
-        #     self._parse_first_sentence(page)
 
     def _contains_redirect(self, page):
         """Function used to find out whether the text contains a #redirect clause
@@ -117,13 +113,5 @@ class Worker:
             for single_match in re.findall(r"(Natívny názov|Rodné meno|Plné meno|Celý názov|Krátky miestny názov|Dlhý miestny názov).*", match):
                 alt_titles.append(single_match.split('=')[-1])
         elif self.lang == 'eng':
-            for single_match in re.findall(r"(official_name|nickname|name|native_name|pseudonym|conventional_long_name|conventional_short_name|fullname|altname).*", match):
+            for single_match in re.findall(r"(official_name|nickname|name|native_name|pseudonym|conventional_long_name|conventional_short_name|fullname|altname|aka|alias).*", match):
                 alt_titles.append(single_match.split('=')[-1])
-
-    # def _parse_first_sentence(self, page):
-    #     """Function used to parse the alt title from the forst sentence of a wiki page
-
-    #     Args:
-    #         page (str): text of a wiki page
-    #     """
-    #     return ""

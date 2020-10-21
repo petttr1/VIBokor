@@ -69,7 +69,6 @@ Sobrance (mesto):Sobrance
 Päť kníh Mojžišových:Pentateuch 
 PRaM:Robot 
 Machabejci:Makabejci 
-MPEG2:MPEG-2 
 Drugeth:Drugetovci 
 Druget:Drugetovci 
 Encyklopedisti:Encyklopedista 
@@ -86,8 +85,8 @@ Aerogel:Aerogél
 Tta:TTA 
 Medzinárodná sústava jednotiek:SI 
 Pythagoras:Pytagoras 
-François-Marie Arouet:Voltaire 
 François Marie Voltaire:Voltaire 
+François-Marie Arouet:Voltaire 
 AU:Au 
 Wikipédia:Anotovaný článok (Mesto):Lučenec 
 Hospodárstvo:Ekonomika 
@@ -153,8 +152,8 @@ Primátoidy:primáty
 Ľudoop:ľudoopice 
 Toscana:Toskánsko 
 Florence:Florencia 
-Firenze:Florencia 
 Tuscany:Toskánsko 
+Firenze:Florencia 
 Príslnie:Perihélium 
 Odslnie:Afélium 
 Proconsul:Prokonzul 
@@ -177,37 +176,19 @@ Dionýzopitekorodé:Gibonovité
 Biofakt:Ekofakt 
 Etnografia:etnológia 
 Wikipédia:Templates:Wikipédia:Šablóny 
-Wikipédia:Templates/Údržba:Wikipédia:Šablóny/Údržba 
-Wikipédia:Templates/Obsahy:Wikipédia:Šablóny/Obsahy 
-Wikipédia:Templates/Zdroje:Wikipédia:Šablóny/Zdroje 
-Wikipédia:Templates/Biografia:Wikipédia:Šablóny/Biografia 
-Wikipédia:Templates/Geografia:Wikipédia:Šablóny/Geografia 
-Wikipédia:Templates/Chémia:Wikipédia:Šablóny/Chémia 
-Wikipédia:Templates/Informatika:Wikipédia:Šablóny/Informatika 
-Wikipédia:Templates/Biológia:Wikipédia:Šablóny/Biológia 
-Wikipédia:Templates/Astronómia:Wikipédia:Šablóny/Astronómia 
-Wikipédia:Templates/Kalendár:Wikipédia:Šablóny/Kalendár 
-Wikipédia:Templates/Kultúra:Wikipédia:Šablóny/Kultúra 
-Wikipédia:Templates/Psychológia:Wikipédia:Šablóny/Psychológia 
-Wikipédia:Templates/História:Wikipédia:Šablóny/História 
-Wikipédia:Templates/Iné:Wikipédia:Šablóny/Iné 
 SELECT:Select 
-Wikipédia:Hlasovania/Externe:Wikipédia:Hlasovanie/Externe 
 Wikipédia:Obrázky:Pomoc:Obrázok 
 Toruń:Toruň 
 Publius Vergilius Maro:Vergílius 
 Zwittau:Svitavy 
 Kolín (Nemecko):Kolín 
-IPng:IPv6 
-AAAA záznam:IPv6 
-A6 záznam:IPv6 
 Ilium:Trója 
-Ílion:Trója 
 Ílios:Trója 
+Ílion:Trója 
 Hissarlik:Trója 
 Aldehydy:Aldehyd 
-Hydroxideriváty:Hydroxyderivát 
 Ketóny:Ketón 
+Hydroxideriváty:Hydroxyderivát 
 Stoici:Stoicizmus 
 Alkoholy:Alkohol 
 Morrigan:Mórrígan 
@@ -239,8 +220,8 @@ Bononia:Bologna
 Bulaggna:Bologna 
 Venice:Benátky 
 Benátky (región):Benátsko 
-Pozsony:Bratislava 
 Prešporek:Prešporok 
+Pozsony:Bratislava 
 WP:WP:Project:WP 
 WP:P:Wikipédia:Príručka 
 WP:V:Project:Vandalizmus 
@@ -253,8 +234,8 @@ Diferenciálna diagnostika:Diagnóza
 Sväté písmo:Biblia 
 Hemoroid:Hemoroidy 
 Zlatá žila:Hemoroidy 
-Wikipédia:Babel:Wikipédia:Babylon 
 WP:BBL:Wikipédia:Babylon 
+Wikipédia:Babel:Wikipédia:Babylon 
 E 101:riboflavín 
 Vitamín B2:riboflavín 
 Dažďové zrážky:Dážď 
@@ -262,8 +243,8 @@ Dažďové zrážky:Dážď
 Pi:Pí 
 WP:H:Wikipédia:Hlasovania 
 WP:%:Wikipédia:Hodnotenie 
-Kchung-c‘:Konfucius 
 Kchung Fu-c‘:Konfucius 
+Kchung-c‘:Konfucius 
 Kchung-fu-c’:Konfucius 
 Táles z Milétu:Táles 
 Diaspora:Diaspóra 
@@ -315,14 +296,14 @@ Pokemon:Pokémon
 Centaurus:Kentaur 
 Prokyón A:Prokyón 
 Prokyón B:Prokyón 
-Sírius B:Sírius 
 Sírius A:Sírius 
+Sírius B:Sírius 
 Arcturus:Arktúr 
 Árpád:Arpád 
 Býčie oko:Aldebaran 
 Stella polaris:Polárka 
-Cynosura:Polárka 
 Phoenice:Polárka 
+Cynosura:Polárka 
 Tramontana:Polárka 
 Navigatoria:Polárka 
 Yilduz:Polárka 
@@ -340,13 +321,13 @@ Centriol:Centriola
 Antacidá:Antacidum 
 DVD-R:DVD 
 DVD-ROM:DVD 
-DVD-9:DVD 
 DVD-5:DVD 
-DVD-14:DVD 
+DVD-9:DVD 
 DVD-10:DVD 
 DVD-18:DVD 
-DVD-RW:DVD 
+DVD-14:DVD 
 DVD R:DVD 
+DVD-RW:DVD 
 DVD RW:DVD 
 Hera:Héra 
 Prometheus:Prometeus 
@@ -382,8 +363,8 @@ Menkab:Menkar
 Marchab:Markab 
 Alphard:Alfard 
 Alamach:Alamak 
-Gamma Cassiopeiae:Cih 
 Gamma Centauri:Muhlifain 
+Gamma Cassiopeiae:Cih 
 Eltanin:Etamin 
 Karnotaurus:Carnotaurus 
 Viking:Vikingovia 
@@ -402,8 +383,6 @@ Lipidy:lipid
 Farizeji:Farizej 
 Saduceji:Saducej 
 Hermés:Hermes 
-M40:WNC4 
-Winnecke 4:WNC4 
 Avicena:Avicenna 
 Blesková vojna:Blitzkrieg 
 Antipyretiká:Antipyretikum 
@@ -428,21 +407,21 @@ Procesor CPU:CPU
 CPJ:CPU 
 Centrálny procesor:CPU 
 Zeta Persei:Menkib 
-Zeta Ursae Majoris:Mizar 
 Delta Orionis:Mintaka 
 Beta Andromedae:Mirach 
+Zeta Ursae Majoris:Mizar 
 Gama Cygni:Sadr 
 Kappa Orionis:Saiph 
-Lambda Scorpii:Shaula 
 Alfa Cephei:Alderamin 
+Lambda Scorpii:Shaula 
 Gama Geminorum:Alhena 
+Epsilon Ursae Majoris:Alioth 
 Epsilon Orionis:Alnilam 
 Zeta Orionis:Alnitak 
-Epsilon Ursae Majoris:Alioth 
 Iota Carinae:Aspidiske 
 Gama Orionis:Bellatrix 
-Beta Cassiopeiae:Caph 
 Gama Draconis:Etamin 
+Beta Cassiopeiae:Caph 
 Alfa Ceti:Menkar 
 Beta Ursae Majoris:Menkar 
 Beta Carinae:Miaplacidus 
@@ -450,10 +429,10 @@ Sigma Sagittarii:Nunki
 Beta Pegasi:Scheat 
 Delta Canis Majoris:Wezen 
 Alfa Librae:Zubenelgenubi 
-Delta Ursae Majoris:Megrez 
 Beta Ursae Minoris:Kochab 
-Beta Canis Minoris:Gomeisa 
+Delta Ursae Majoris:Megrez 
 Alfa Arietis:Hamal 
+Beta Canis Minoris:Gomeisa 
 Beta Leonis:Denebola 
 Epsilon Carinae:Avior 
 Trojhviezdy:Trojhviezda 
@@ -496,8 +475,8 @@ Guayana:Guyana
 Chválospev Panny Márie:Magnifikat 
 Alfa Ursae Majoris:Dubhe 
 Alfa Cancri:Acubens 
-Staršia doba kamenná:paleolit 
 Staršia kamenná doba:paleolit 
+Staršia doba kamenná:paleolit 
 Stará kamenná doba:paleolit 
 Alfa Capricorni:Algiedi 
 Theta Eridani:Acamar 
@@ -522,17 +501,17 @@ Beta Scorpii:Akrab
 Delta Librae:Zubenelakribi 
 E925:Chlór 
 E 925:Chlór 
-E941:Dusík 
 E 941:Dusík 
-E939:Hélium 
-E938:Argón 
+E941:Dusík 
 E 938:Argón 
+E938:Argón 
 E 939:Hélium 
+E939:Hélium 
 NSR:Nemecko 
 Drotárstvo:Drotár 
 St paul de vence:Saint-Paul-de-Vence 
-Alsace:Alsasko 
 Strasbourg:Štrasburg 
+Alsace:Alsasko 
 Cyanophyta:sinice 
 Essex (Anglicko):Essex 
 Analeptiká:Analeptikum 
@@ -609,8 +588,8 @@ Beta Canis Majoris:Murzim
 Mirzam:Murzim 
 Somelier:Someliér 
 Hypernovy:Hypernova 
-Alfa Cassiopeiae:Schedar 
 Theta Scorpii:Sargas 
+Alfa Cassiopeiae:Schedar 
 Gama Boötis:Seginus 
 Kappa Aquarii:Situla 
 Lambda Velorum:Suhail 
@@ -625,8 +604,8 @@ Práter:Prater
 Theta Pegasi:Baham 
 Omikron1 Eridani:Beid 
 Sigma Librae:Brachium 
-Alfa Trianguli:Elmuthalleth 
 Iota Draconis:Edasich 
+Alfa Trianguli:Elmuthalleth 
 Gama Cephei:Alrai 
 Errai:Alrai 
 Zeta Canis Majoris:Furud 
@@ -696,8 +675,8 @@ Vadúz:Vaduz
 Antananarive:Antananarivo 
 Beta1 Sagittarii:Arkab 
 Beta2 Sagittarii:Arkab 
-Zeta Virginis:Heze 
 Beta Sagittarii:Arkab 
+Zeta Virginis:Heze 
 Zeta Pegasi:Homam 
 Eta Pegasi:Matar 
 Epsilon Geminorum:Mebsuta 
@@ -720,11 +699,11 @@ Alfa Aquarii:Sadalmelik
 Beta Aquarii:Sadalsuud 
 Alfa Delphini:Sualocin 
 Beta Delphini:Rotanev 
-Alfa Pegasi:Markab 
 Omikron Ursae Majoris:Muscida 
+Alfa Pegasi:Markab 
 Beta Boötis:Nekkar 
-Gama Andromedae:Alamak 
 Alfa Andromedae:Alpheratz 
+Gama Andromedae:Alamak 
 Gama Crucis:Gacrux 
 Ksí Persei:Menchib 
 Mí Leonis:Rasalas 
@@ -740,16 +719,16 @@ Mí Lyrae:Alathfar
 Pí Sagittarii:Albaldah 
 ASTP:Apollo-Sojuz 
 Eta Boötis:Mufrid 
-Graffias:Grafias 
 Omega2 Cygni:Ruchba 
+Graffias:Grafias 
 Gama Centauri:Muhlifain 
 Alfa Coronae Borealis:Gemma 
 Xi Puppis:Asmidiske 
 Ksí Puppis:Asmidiske 
 Pi3 Orionis:Tabit 
 Rajčianka:Rajčanka 
-Päťkostolie:Pécs 
 Komárno (Maďarsko):Komárom 
+Päťkostolie:Pécs 
 Upsilon Scorpii:Lesath 
 Nu Scorpii:Jabbah 
 Upsilon Orionis:Thabit 
@@ -838,9 +817,6 @@ Thrákia:Trácia
 Živočích:Živočíchy 
 Horské pásmo:Pohorie 
 Persepolis:Perzepolis 
-2M1207 b:2M1207 
-OGLE-TR-111 b:OGLE-TR-111 
-OGLE-TR-10 b:OGLE-TR-10 
 Usb:USB 
 GIOVE A:GIOVE-A 
 Skalárna veličina:skalár 
@@ -848,12 +824,12 @@ Južné Kaukazsko:Zakaukazsko
 Južný Kaukaz:Zakaukazsko 
 Transkripcia:prepis 
 Mechanika (odbor):Mechanika 
-Laickosť:Laicita 
 Laický:laicita 
+Laickosť:Laicita 
 C Plus Plus:C++ 
 Malvíny:Falklandy 
-Ezofagus:pažerák 
 Oesophagus:pažerák 
+Ezofagus:pažerák 
 Zúbkozobec:Husotvaré 
 Pascal (jednotka):Pascal 
 Chabówka:Habovka 
@@ -879,8 +855,8 @@ Chudokrvnosť:anémia
 Bucholz:Buchholz 
 Armoriál:Armáles 
 Powerbook:PowerBook 
-Henri Marie Beyle:Stendhal 
 Standal:Stendhal 
+Henri Marie Beyle:Stendhal 
 Vikipédia:Wikipédia 
 Daiči:Daichi 
 ALOS:Daichi 
@@ -936,7 +912,6 @@ Neptún (planéta):Neptún
 Torino:Turín 
 Turin:Turín 
 Giove-A:GIOVE-A 
-61P/Shajn-Schaldach:61P/Šajn-Schaldach 
 Spevácky zbor Tirnavia:Tirnavia 
 ASTRO-F:Akari 
 Hygiea:Hygieia 
@@ -993,7 +968,6 @@ Koníček:hobby
 Zelóti:Zelóta 
 Zelót:Zelóta 
 Biochemik:biochémia 
-Blink 182:Blink-182 
 KoЯn:Korn 
 Therapy:Therapy? 
 Rembrandt Harmenszoon van Rijn:Rembrandt 
@@ -1009,12 +983,12 @@ Ghanská republika:Ghana
 Kapverdská republika:Kapverdy 
 Beninská republika:Benin 
 Namíbijská republika:Namíbia 
-Botswanská republika:Botswana 
 Lesothské kráľovstvo:Lesotho 
-Tuniská republika:Tunisko 
-Egyptská arabská republika:Egypt 
-Marocké kráľovstvo:Maroko 
+Botswanská republika:Botswana 
 Sudánska republika:Sudán 
+Tuniská republika:Tunisko 
+Marocké kráľovstvo:Maroko 
+Egyptská arabská republika:Egypt 
 Alžírska demokratická ľudová republika:Alžírsko 
 Mauritánska islamská republika:Mauritánia 
 Hypotalamus:Podlôžko 
@@ -1028,14 +1002,14 @@ Cicavec:Cicavce
 Antabus:Disulfiram 
 Nigérijská federatívna republika:Nigéria 
 Nigerská republika:Niger 
-Togská republika:Togo 
 Senegalská republika:Senegal 
+Togská republika:Togo 
 Faktuálna veta:fakt 
 Právo veta:veto 
 Burundská republika:Burundi 
-Tanzánijská zjednotená republika:Tanzánia 
 Džibutská republika:Džibutsko 
 Afar a Issa:Džibutsko 
+Tanzánijská zjednotená republika:Tanzánia 
 Eritrejský štát:Eritrea 
 Kenská republika:Keňa 
 Zemeguľa:Zem 
@@ -1071,19 +1045,19 @@ Hydrogen:Vodík
 Hydrogenium:Vodík 
 Nitrium:Dusík 
 Carboneum:Uhlík 
-Lithium:Lítium 
 Beryllium:Berýlium 
-Borum:Bór 
 Oxygenium:Kyslík 
+Borum:Bór 
+Lithium:Lítium 
 Neon:Neón 
 Argon:Argón 
 Natrium:Sodík 
 Magnesium:Horčík 
 Alluminium:Hliník 
 Silicium:Kremík 
-Phosphorus:Fosfor 
-Sulphur:Síra 
 Chloros:Chlór 
+Sulphur:Síra 
+Phosphorus:Fosfor 
 Ružová (farba):Ružová 
 Štvorspolok:Quadruplealliance 
 Breslau:Vroclav 
@@ -1104,8 +1078,6 @@ Plaz:Plazy
 Dinosaurus:Dinosaury 
 Variagovia:Varjagovia 
 Gekón:Gekóny 
-Schwassmann-Wachmann 3:73P/Schwassmann-Wachmann 
-SW3:73P/Schwassmann-Wachmann 
 Husiti:Husitstvo 
 Sýrska arabská republika:Sýria 
 Chrysomelidae:Liskavkovité 
@@ -1125,11 +1097,11 @@ THC:Tetrahydrokanabinol
 Al-Aajún:El-Aaiún 
 Laâyoune:El-Aaiún 
 Hexactinellidea:Košovky 
-Eumetazoa:Epitelovce 
 Epitelozoa:Epitelovce 
+Eumetazoa:Epitelovce 
 Coelenterata:Mechúrniky 
-Diblastica:Mechúrniky 
 Radiata:Mechúrniky 
+Diblastica:Mechúrniky 
 Diploblastica:Mechúrniky 
 Cnidaria:Pŕhlivce 
 WiFi:Wi-Fi 
@@ -1145,18 +1117,18 @@ Myxozoa:Výtrusníky
 Rybomory:Myxospóry 
 Dánske kráľovstvo:Dánsko 
 Actinomyxidia:Červomory 
+Štvorhranovce:Štvorhranky 
 Cubomedusae:Štvorhranky 
 Cubozoa:Štvorhranky 
 Scyphozoa:Medúzovce 
-Štvorhranovce:Štvorhranky 
 Semaeostomeae:Tanierovky 
 Semaeostomatida:Tanierovky 
 Semeostomatida:Tanierovky 
 Vergilius:Vergílius 
 Rhizostomatida:Rúrkoústovky 
 Rhizostomeae:Rúrkoústovky 
-Stauromedusae:Kalichovky 
 Lucernarida:Kalichovky 
+Stauromedusae:Kalichovky 
 Onkos:Nádor 
 Tyreotropný hormón:Tyreotropín 
 TSH:Tyreotropín 
@@ -1177,18 +1149,18 @@ Actiniaria:Sasanky
 Ceriantharida:Sasankovky 
 Ceriantharia:Sasankovky 
 Bilateralia:Dvojstranovce 
-Triblastica:Dvojstranovce 
 Triploblastica:Dvojstranovce 
+Triblastica:Dvojstranovce 
 Labyrinthomorpha:Labyrintky 
 Leukocytopénia:Leukopénia 
 Monera:Prokaryoty 
 Prvojadrové organizmy:Prokaryoty 
 Jadrové organizmy:eukaryoty 
 Bacteria:Baktérie 
-Plantae:Rastliny 
 Eukarya:eukaryoty 
-Eukaryota:eukaryoty 
 Prokaryota:prokaryoty 
+Plantae:Rastliny 
+Eukaryota:eukaryoty 
 Vírusy:vírus 
 Nukleobionty:Eukaryoty 
 Cambs:Cambridgeshire 
@@ -1214,15 +1186,15 @@ Cézarea:Caesarea
 Kaisareia:Caesarea 
 Protostomia:prvoústovce 
 Gastroneuralia:prvoústovce 
-Polycytozoa:živočíchy 
 Prokarya:Prokaryoty 
 Hexacoralia:šesťlúčovky 
+Polycytozoa:živočíchy 
 Myxosporidia:Myxospóry 
 Anthozoa:koralovce 
 Rastlina:Rastliny 
 Tvorba kryštálov:Kryštalizácia 
-Sinus mammarum:Kategória:Anatómia 
 Sulcus inframammalis:Kategória:Anatómia 
+Sinus mammarum:Kategória:Anatómia 
 Papilla mammae:Kategória:Anatómia 
 Glandula areolaris:Kategória:Anatómia 
 Glandula mammae:Kategória:Anatómia 
@@ -1244,8 +1216,8 @@ Turbellaria:Ploskule
 Xenoturbellida:Xenoturbella 
 Xenoturbellidae:Xenoturbella 
 Macrostomida:Veľkoústky 
-Seriata:Lalokočrevné 
 Neorhabdocoela:Rovnočrevovky 
+Seriata:Lalokočrevné 
 Monogenea:Motolicovce 
 Trematodes:Motolice 
 Multiplexer:Multiplexor 
@@ -1266,8 +1238,8 @@ Stigmy:Stigma
 Poriadok (právo):Zákonník 
 Codex:kódex 
 Brvoústky:Symbion 
-Eucycliophora:Symbion 
 Cycliophora:Symbion 
+Eucycliophora:Symbion 
 Symbiida:Symbion 
 Myzostomida:Myzostómy 
 Somity:Somit 
@@ -1275,11 +1247,10 @@ Machovce:Pamachovky
 Entoprocta:Pamachovky 
 Tentaculata:Chytadlovce 
 Ectoprocta:Chytadlovce 
-Phoronidae:Chytadlovité 
 Chytadlovky:Chytadlovité 
+Phoronidae:Chytadlovité 
 Phoronidea:Chytadlovité 
 Phoroneidea:Chytadlovité 
-KV 1:KV1 
 Pomoc:Obrázky:Pomoc:Obrázok 
 Bryozoa:Machovky 
 Antonio Pisano:Pisanello 
@@ -1290,8 +1261,8 @@ Filmový scenár:Scenár
 Páskovce:Pásnice 
 Nemertini:Pásnice 
 Nemertina:Pásnice 
-Nemertinea:Pásnice 
 Nemertea:Pásnice 
+Nemertinea:Pásnice 
 Anopla:Nebodavce 
 Enopla:Bodavce 
 Mollusca:Mäkkýše 
@@ -1313,11 +1284,11 @@ Cypraeidae:Porcelánovcovité
 Muricidae:Ostrankovité 
 Conidae:Homôlkovité 
 Šablóna:Clear:Šablóna:- 
-Opisthobranchia:Zadožiabrovce 
 Zadnožiabrovce:Zadožiabrovce 
+Opisthobranchia:Zadožiabrovce 
 Pulmonata:Pľúcnatce 
-Basommatophora:Vodniaky 
 Spodnooké:Vodniaky 
+Basommatophora:Vodniaky 
 Ancylidae:Čiapočkovité 
 Lymnaeidae:Vodniakovité 
 Planorbidae:Kotúľkovité 
@@ -1336,11 +1307,11 @@ Valloniidae:Valóniovité
 Bradybaenidae:Bacuľkovité 
 Helicidae:Slimákovité 
 Ikterus:Žltačka 
-Lamellibranchia:Lastúrniky 
 Bivalia:Lastúrniky 
+Lamellibranchia:Lastúrniky 
+Pteriomorphia:Vláskožiabrovce 
 Pteriomorpha:Vláskožiabrovce 
 Filibranchia:Vláskožiabrovce 
-Pteriomorphia:Vláskožiabrovce 
 Cephalopoda:Hlavonožce 
 Tetrabranchia:Štvoržiabrovce 
 Dibranchia:Dvojžiabrovce 
@@ -1363,8 +1334,8 @@ Polychaeta:Mnohoštetinavce
 Oligochaeta:Máloštetinavce 
 Hirudinea:Pijavice 
 Gibraltár (mesto):Gibraltár 
-Agana:Hagåtña 
 Agaña:Hagåtña 
+Agana:Hagåtña 
 Hagatna:Hagåtña 
 Alvin Nathaniel Joiner:Xzibit 
 Vševeda:pansofia 
@@ -1410,11 +1381,11 @@ Pogonophora:Pogonofóry
 Purpurové ostrovy:Madeira 
 Catia:CATIA 
 Chobotnáče:chobotnatce 
-Zajacovce:dvojitozubce 
 Slony:chobotnatce 
+Zajacovce:dvojitozubce 
 Zajacotvaré:dvojitozubce 
-Myšotvaré:hlodavce 
 Piskorotvaré:hmyzožravce 
+Myšotvaré:hlodavce 
 Vajcorodé:vajcorodce 
 Ceratopia:Ceratopsy 
 Menševik:menševizmus 
@@ -1438,24 +1409,24 @@ Crinoidea:ľaliovky
 Eleutherozoa:bezstopkavce 
 Ophiuroidea:hadovice 
 Echinoidea:ježovky 
-Hemichordata:polochordáty 
 Holothuroidea:holotúrie 
+Hemichordata:polochordáty 
 Pterobranchia:krídložiabrovce 
 Ascidiacea:ascídie 
 Thaliacea:salpy 
 Appendicularia:vršovky 
-Larvacea:vršovky 
 Copelata:vršovky 
+Larvacea:vršovky 
 Stylophora:Kalcichordáty 
-Stelleroidea:hviezdovce 
 Stellaroidea:hviezdovce 
+Stelleroidea:hviezdovce 
 Echinodermata:ostnatokožce 
 Ostnokožce:ostnatokožce 
 Diprotodontia:kengury 
 Fudžijama:Fudžisan 
 Koralový atol:atol 
-Nevodič:Dielektrikum 
 Ha:Hektár 
+Nevodič:Dielektrikum 
 Koralový ostrov:atol 
 Assembler:Asembler 
 Kazuárotvaré:Kazuárovité 
@@ -1464,8 +1435,8 @@ Ihlan (geometria):Ihlan
 Nematoda:Hlístovce 
 Chemoluminescencia:Chemiluminiscencia 
 Bezčrepovce:kopijovce 
-Acraniata:kopijovce 
 Cephalochordata:kopijovce 
+Acraniata:kopijovce 
 Acrania:kopijovce 
 Vertebrata:stavovce 
 Basel:Bazilej 
@@ -1474,9 +1445,9 @@ Basilea:Bazilej
 Craniata:stavovce 
 Mihuľotvaré:mihule 
 Prvoúste:prvoústovce 
+Sliznatkotvaré:Sliznatky 
 Diplorhina:Pteraspidy 
 Hyperotreti:sliznatky 
-Sliznatkotvaré:Sliznatky 
 Myxinoidea:sliznatky 
 Myxini:sliznatky 
 Cephalaspidomorphi:štítohlavovce 
@@ -1511,8 +1482,8 @@ Strongyloidea:Mechovce
 Dracunculoidea:Dracunculida 
 Filarida:Vlasovce 
 Filaroidea:Vlasovce 
-Trichiurida:Nitkovky 
 Trichiuroidea:Nitkovky 
+Trichiurida:Nitkovky 
 Dioctophymida:Obličkovce 
 Dioctophymoidea:Obličkovce 
 INCOTERMS:Incoterms 
@@ -1550,16 +1521,16 @@ Ihlotvaré:pichľavkotvaré
 Ihly:pichľavkotvaré 
 Pichľavky:pichľavkotvaré 
 Gasterosteiformes:pichľavkotvaré 
-Acanthopterygii:tŕňoplutvovce 
 Syngnathiformes:pichľavkotvaré 
+Acanthopterygii:tŕňoplutvovce 
 Čerty:čertotvaré 
 Lophiiformes:čertotvaré 
-Bahniakovcotvaré:amiotvaré 
 Amie:amiotvaré 
-Amiiformes:amiotvaré 
+Bahniakovcotvaré:amiotvaré 
 Bahniakovce:amiotvaré 
-Plutváňotvaré:Cladistia 
+Amiiformes:amiotvaré 
 Plutváne:Cladistia 
+Plutváňotvaré:Cladistia 
 Polypteriformes:Cladistia 
 Brachiopterygii:Cladistia 
 Aravany:aravanotvaré 
@@ -1576,13 +1547,13 @@ Sasánovci:Sásánovci
 Sasán:Sásán 
 Cypriniformes:kaprotvaré 
 Lososy:Losos 
-Protacanthopterygii:lososotvaré 
-Striebristkotvaré:lososotvaré 
 Salmoniformes:lososotvaré 
+Protacanthopterygii:lososotvaré 
 Striebristky:lososotvaré 
+Striebristkotvaré:lososotvaré 
 Argentiniformes:lososotvaré 
-Charaxy:charaxotvaré 
 Tetrotvaré:charaxotvaré 
+Charaxy:charaxotvaré 
 Tetry:charaxotvaré 
 Characiformes:charaxotvaré 
 Kapre:kaprotvaré 
@@ -1602,17 +1573,17 @@ Moliere:Molière
 SM Liiga:SM-liiga 
 Stachr:Istachr 
 Sardinna:Sardínia 
-Sardinnia:Sardínia 
 Sardigna:Sardínia 
 Sardegna:Sardínia 
+Sardinnia:Sardínia 
 Hip hop:Hip-hop 
 Externality v doprave:Externalita 
 Minoha:mihule 
 Hlbočianska dolina:Hlboča 
 Dolina hlboče:Hlboča 
 Pštros:pštrosy 
-Zúbkozobce:Husotvaré 
 Prízemný ozón:ozón 
+Zúbkozobce:Husotvaré 
 Dravec:dravce 
 Tinamy:Tinamotvaré 
 Tinamovité:tinamotvaré 
@@ -1622,8 +1593,8 @@ Nandutvaré:nandu
 Kazuárovce:Kazuárovité 
 Kiwi:kivi 
 Rúrkonosce:Víchrovníkotvaré 
-Stepiare:Stepiarotvaré 
 Veslonožce:Pelikánotvaré 
+Stepiare:Stepiarotvaré 
 Stepiar:Stepiarotvaré 
 Stepiarovité:stepiarotvaré 
 Potápky:Potápkotvaré 
@@ -1651,23 +1622,23 @@ Nanduovité:Nandu
 Paleognathia:bežce 
 Paleognathae:bežce 
 Struthioniformes:pštrosotvaré 
-Rheides:nandu 
 Struthionidae:pštrosovité 
+Rheides:nandu 
 Rheidae:Nandu 
-Casuariidae:kazuárovité 
 Tinamiformes:tinamotvaré 
+Casuariidae:kazuárovité 
 Neognathae:letce 
 Neognathia:letce 
 Strassburg:Štrasburg 
 Kury:kura 
 Hrabavce:kurotvaré 
+Galliformes:Kurotvaré 
 Anseriformes:husotvaré 
 Anatiformes:husotvaré 
-Galliformes:Kurotvaré 
 Žeriavy:žeriavotvaré 
 Chriašteľotvaré:žeriavotvaré 
-Gruiformes:žeriavotvaré 
 Chriaštele:žeriavotvaré 
+Gruiformes:žeriavotvaré 
 Ralliformes:žeriavotvaré 
 Kaguy:kaguotvaré 
 Rhynochetiformes:kaguotvaré 
@@ -1676,8 +1647,8 @@ Eurypigiformes:pachriašteľotvaré
 Pachriaštele:pachriašteľotvaré 
 Eurypigides:pachriašteľotvaré 
 Eurypigae:pachriašteľotvaré 
-Chriaštely:žeriavotvaré 
 Dropy:dropotvaré 
+Chriaštely:žeriavotvaré 
 Otidiformes:dropotvaré 
 Otidides:dropotvaré 
 Cariamae:kariamy 
@@ -1685,14 +1656,14 @@ Pteroclidiformes:stepiarotvaré
 Pteroclides:stepiarotvaré 
 Fauvismus:Fauvizmus 
 Bahniaky:kulíkotvaré 
-Charadriiformes:kulíkotvaré 
 Dlhokrídlovce:kulíkotvaré 
 Charadriides:kulíkotvaré 
+Charadriiformes:kulíkotvaré 
 Plameniaky:plameniakotvaré 
 Phoenicopteriformes:plameniakotvaré 
 Phoenicopteroidea:plameniakotvaré 
-Podicipediformes:potápkotvaré 
 Podicipedida:potápkotvaré 
+Podicipediformes:potápkotvaré 
 Podicipedidae:potápkotvaré 
 Potápkovité:potápkotvaré 
 Brodivce:bocianotvaré 
@@ -1734,16 +1705,16 @@ Holubovce:holubotvaré
 Columbiformes:holubotvaré 
 Psittaciformes:papagájotvaré 
 Hoacínotvaré:hoacinotvaré 
-Hoacíny:hoacinotvaré 
 Hoaciny:hoacinotvaré 
+Hoacíny:hoacinotvaré 
 Hoacin:hoacinotvaré 
 Hoacín:hoacinotvaré 
 Hoacínovité:hoacinotvaré 
 Hoacin chochlatý:hoacinotvaré 
 Hoacín chochlatý:hoacinotvaré 
-Opisthocomidae:hoacinotvaré 
-Opisthocomus hoazin:hoacinotvaré 
 Opisthocomiformes:hoacinotvaré 
+Opisthocomus hoazin:hoacinotvaré 
+Opisthocomidae:hoacinotvaré 
 Kukučky:Kukučka 
 Cuculiformes:kukučkotvaré 
 Myšovce:myšovcotvaré 
@@ -1763,15 +1734,15 @@ Strigiformes:sovotvaré
 Lelky:lelkotvaré 
 Caprimulgiformes:Lelkotvaré 
 Dážďovníky:dážďovníkotvaré 
-Apodiformes:dážďovníkotvaré 
 Krátkonožce:dážďovníkotvaré 
+Apodiformes:dážďovníkotvaré 
 Krakle:krakľotvaré 
-Krakľovce:krakľotvaré 
 Coraciiformes:krakľotvaré 
+Krakľovce:krakľotvaré 
 Trogóny:trogónotvaré 
 Trogónovité:trogónotvaré 
-Trogonidae:trogónotvaré 
 Trogoniformes:trogónotvaré 
+Trogonidae:trogónotvaré 
 Bucerotiformes:Dutinovce 
 Ďatle:Ďateľ 
 Ďatlovce:Ďatľotvaré 
@@ -1810,23 +1781,20 @@ Chimérovce:Chiméra
 Masmédia:masmédium 
 Chersonésos:Chersonézos 
 Chersonesus:Chersonézos 
-GPIB:IEEE-488 
-HPIB:IEEE-488 
-HP-IB:IEEE-488 
 Postscript:PostScript 
 Telegram:telegraf 
 Scanner:skener 
 Pätkový font:serif 
-Bezpätkový font:serif 
 Font s pätkami:serif 
+Bezpätkový font:serif 
 Médovia:Médi 
 Kimerijci:Kimerovia 
 Kimeri:Kimerovia 
 Kimmeriovia:Kimerovia 
 Tenista:Tenis 
-Futbalista:Futbal 
 Tenistka:Tenis 
 Futbalistka:Futbal 
+Futbalista:Futbal 
 Tiraspoľ:Tiraspol 
 Bender:Bendery 
 Tigina:Bendery 
@@ -1842,8 +1810,8 @@ Démosthenes:Demostenes
 Jehova:JHVH 
 Endost:okostica 
 Berešit:be-rešit 
-Va-jikra:Levitikus 
 Šemot:Exodus 
+Va-jikra:Levitikus 
 Be-midbar:Numeri 
 Devarim:Deuteronómium 
 Polorajovité:Polorajotvaré 
@@ -1854,11 +1822,11 @@ Ornitopod:Ornitopody
 Squatinotvaré:polorajotvaré 
 Squatinovité:polorajotvaré 
 Poloraja:polorajotvaré 
-Squatiniformes:polorajotvaré 
 Squatina:polorajotvaré 
+Squatiniformes:polorajotvaré 
 Squatinidae:polorajotvaré 
-Rhinidae:polorajotvaré 
 Spaľovanie:Horenie 
+Rhinidae:polorajotvaré 
 Motorka:motocykel 
 Vysoká sloha:Altostratus 
 Rádiový ďalekohľad:Rádioteleskop 
@@ -1875,7 +1843,6 @@ Jarmulka:Kipa
 Kippah:Kipa 
 Cyberpunk:Kyberpunk 
 Dynamosaurus:Tyranosaurus 
-STS 121:STS-121 
 Cifra:číslica 
 Djerba:Džerba 
 Veľryba:Veľryby 
@@ -1901,13 +1868,13 @@ Moslimovia:moslim
 SS:Schutzstaffel 
 Po nemecky:nemčina 
 Exobiológia:astrobiológia 
-Xenobiológia:astrobiológia 
 Bioastronómia:astrobiológia 
+Xenobiológia:astrobiológia 
 Oświęcim:Osvienčim 
 Kanaan:Kanaán 
 Athotis II.:Džer 
-Usafais:Den 
 Udimu:Den 
+Usafais:Den 
 Po slovensky:slovenčina 
 Elektrina a magnetizmus:elektromagnetizmus 
 Dugongidae:dugongovité 
@@ -1919,8 +1886,8 @@ Waffen SS:Waffen-SS
 Kaskády:Kaskáda 
 Cynocephalidae:letuchovité 
 Cynocephalus:letuchovité 
-Lagomorpha:dvojitozubce 
 Rastlinožravec:bylinožravec 
+Lagomorpha:dvojitozubce 
 Teoretická astrofyzika:astrofyzika 
 Aqua-lung:Akvalung 
 Násobky veličín:SI#Predpony 
@@ -1929,8 +1896,6 @@ Elagabal:Heliogabalus
 Domitián:Domicián 
 Arcadius:Arkadios 
 Hostilián:Hostilianus 
-7Zip:7-Zip 
-7zip:7-Zip 
 REIKI:Rejki 
 Inklings:Inklingovia 
 Astrofyzik:astrofyzika 
@@ -1948,8 +1913,8 @@ Antiochea:Antiochia
 Prvohory:Paleozoikum 
 Treťohory:Terciér 
 Štvrtohory:Kvartér 
-Antropozoikum:Kvartér 
 Kvaternér:Kvartér 
+Antropozoikum:Kvartér 
 Antropogén:Kvartér 
 Starovek Zeme:paleozoikum 
 Madonna Louise Veronica Ciccone:Madonna 
@@ -2008,9 +1973,9 @@ Ablatívny:ablatív
 Abnormálny:abnormalita 
 Abnormný:abnormita 
 Abolicionista:abolicionizmus 
+Abolicionistický:abolicionizmus 
 Aboličný:abolícia 
 Abolovať:abolícia 
-Abolicionistický:abolicionizmus 
 Abonent:abonovanie 
 Abonentný:abonovanie 
 Abonentský:abonovanie 
@@ -2044,8 +2009,8 @@ Absolútum:absolútno
 Achaia:Achája 
 Achaea:Achája 
 Stupňovanie samohlások:ablaut 
-Metafónia:ablaut 
 Apofónia:ablaut 
+Metafónia:ablaut 
 Acarológia:Akarológia 
 Abscedovať:absces 
 Acidifikácia:Okyslenie 
@@ -2053,9 +2018,9 @@ Okysľovanie:okyslenie
 Hlboko-širokomorský:Hlboko-širkomorský 
 Abysopelagický:Hlboko-širkomorský 
 Abonovať:Abonovanie 
-Absenteizmus:Absentizmus 
 Abstraktivizmus:abstrakcionizmus 
 Abs:ABS 
+Absenteizmus:Absentizmus 
 Acheuléenska kultúra:acheuléen 
 Adaptabilita:prispôsobivosť 
 Adolescent:adolescencia 
@@ -2137,14 +2102,14 @@ Cukry:Sacharid
 Činiteľ:faktor 
 Podnikateľská činnosť:podnikanie 
 Albertizmus:albertinizmus 
-Adduktor:Priťahovač 
 Človekorok:osobohodina 
+Adduktor:Priťahovač 
 Darwinizmus:darvinizmus 
 Etický datív:Datív 
 Dekalóg:Desatoro 
 Deontologický:deontológia 
-Design:dizajn 
 Designát:Denotát 
+Design:dizajn 
 Deskripcia:opis 
 Determinačný:determinácia 
 Determinista:Determinizmus 
@@ -2186,8 +2151,8 @@ Etylchlorid:Chlóretán
 Eumenidy:Erínye 
 Eurocentrizmus:Europocentrizmus 
 Evidentný:evidentnosť 
-Evokovať:evokácia 
 Evocatio:evokácia 
+Evokovať:evokácia 
 Existentia:Existencia 
 Exkomunikovať:exkomunikácia 
 Expanzivita:expanzívnosť 
@@ -2250,8 +2215,8 @@ Gravitačná interakcia hmotných objektov:gravitácia
 Ireverzibilita:Nevratnosť 
 Jednotka času:Čas 
 Izotopy:Izotop 
-Taxonomická jednotka:taxón 
 Systematická jednotka:taxón 
+Taxonomická jednotka:taxón 
 Jednotlivé:individuálne 
 Jestvovanie:bytie 
 Jestvujúcno:súcno 
@@ -2431,8 +2396,8 @@ Prezerač:prehliadač
 Progres:Pokrok 
 Proklitika:Predklonka 
 Priateľstvo:priateľ 
-Príbuzenstvo:príbuznosť 
 Približný:približnosť 
+Príbuzenstvo:príbuznosť 
 Príbuzný:príbuznosť 
 Príčina pohybu:sila 
 Promptný:rýchlosť 
@@ -2576,8 +2541,8 @@ Užitočnosť:úžitkovosť
 Universalia:Univerzálie 
 Univerzália:Univerzálie 
 Tvorenie:tvorba 
-Užívateľ:Užívanie 
 Ostrý uhol:Uhol 
+Užívateľ:Užívanie 
 Usiá:substancia 
 Uznávanie:uznanie 
 Ustanovizeň:inštitúcia 
@@ -2589,8 +2554,8 @@ Ukrutný:Krutosť
 Nereduktívne usúvzťažňovanie:synkrisis 
 Útek:únik 
 Univoce:jednoznačnosť 
-Verzatilný:verzatilita 
 Tyrkysový:Tyrkysová 
+Verzatilný:verzatilita 
 Univocita:jednoznačnosť 
 Univokačný:Jednoznačnosť 
 Utopický:utópia 
@@ -2620,11 +2585,11 @@ Mladá kamenná doba:neolit
 Mladšia kamenná doba:neolit 
 Mladšia doba kamenná:neolit 
 Stredná kamenná doba:mezolit 
-Konečný paleolit:mezolit 
 Stredná doba kamenná:mezolit 
+Konečný paleolit:mezolit 
 Samohlásky:samohláska 
-Eós:Éós 
 Auróra:Aurora 
+Eós:Éós 
 Eos (rozlišovacia stránka):Eos 
 Konsonant:spoluhláska 
 Ásana:Ásána 
@@ -2646,7 +2611,6 @@ Mount Scopus:Skopus
 Mt. Scopus:Skopus 
 Elvisaurus:Cryolophosaurus 
 Fylaktéria:Tfilin 
-Špagin:PPŠ-41 
 Metlačenie:Headbanging 
 Klitoris:Dráždec 
 Raffaello Sanzio:Raffael 
@@ -2665,8 +2629,8 @@ Predkambrium:Prekambrium
 Predprvohory:prekambrium 
 Progonozoikum:prekambrium 
 Kryptozoikum:prekambrium 
-Pravek Zeme:prekambrium 
 Prahory:Archaikum 
+Pravek Zeme:prekambrium 
 Mladšie štvrtohory:holocén 
 Staršie štvrtohory:pleistocén 
 Plistocén:pleistocén 
@@ -2678,8 +2642,8 @@ Kondóm:prezervatív
 Anterus:Anter 
 Analogon:Analogón 
 Letopisy:anály 
-Boshington:BosWash 
 Bosnywash:BosWash 
+Boshington:BosWash 
 Reserpín:Rezerpín 
 Pierre Garand:Garou 
 Sobotár:adventizmus 
@@ -2702,14 +2666,12 @@ Micvot:micva
 Aromaterapia:Arómoterapia 
 Scansoriopteryx:Epidendrosaurus 
 Apologéti:Apologéta 
-SMART 1:SMART-1 
-Smart 1:SMART-1 
 Adjustáž:adjustácia 
 Adjustovanie:adjustácia 
 Opengl:OpenGL 
 Galovia:Kelti 
-Druidi:Druid 
 Gali:Kelti 
+Druidi:Druid 
 Ambivalentný:ambivalentnosť 
 Maximálna kĺzavosť:Kĺzavosť 
 Annuella:Anuela 
@@ -2718,8 +2680,8 @@ Aššur-báni-apli:Aššurbanipal
 Sardanapal:Aššurbanipal 
 Ašoka:Ašóka 
 Ašókavardhana:Ašóka 
-Dévánámprija Prijadaršin:Ašóka 
 Dévánampija Pijadasí:Ašóka 
+Dévánámprija Prijadaršin:Ašóka 
 Ba-midbar:Numeri 
 Dvarim:Deuteronómium 
 Zodiak:zvieratník 
@@ -2802,8 +2764,8 @@ Solidarity:Solidarita
 Solidárnosť:solidarita 
 Velia:Elea 
 Elaia:Elea 
-Varka:Uruk 
 Erech:Uruk 
+Varka:Uruk 
 Melafýr:Bazalt 
 Elbe:Labe 
 Baktra:Balch 
@@ -2811,49 +2773,48 @@ Asana:ásána
 Asána:ásána 
 Karajmovia:Karaiti 
 Belšasar:Bél-šar-usur 
-Karait:karaiti 
 Karaim:karaiti 
+Karait:karaiti 
 Karaimovia:karaiti 
 Karajm:karaiti 
 Abortus:abort 
 Ind:Indovia 
 Bháratovia:Indovia 
 Amerindovia:Indiáni 
-Nikotínamid:niacín 
 Vitamín B3:Niacín 
 Vitamín PP:niacín 
+Nikotínamid:niacín 
 Antipelagrový faktor:niacín 
 Vitamín I:Biotín 
 Vitamín G:riboflavín 
 Ovoflavín:riboflavín 
 Laktoflavín:riboflavín 
-Axeroftol:retinol 
 Vitamín B4:adenín 
+Axeroftol:retinol 
 Aneurín:tiamín 
 Iónovia:Ióni 
 Fokaia:Fókaia 
-Miškovanie:kastrácia 
 Viching:Wiching 
-STS 115:STS-115 
+Miškovanie:kastrácia 
 Athlon XP:Athlon 
 AMD Athlon:Athlon 
 AMD Duron:Duron 
 Východná čerkeština:kabardčina 
 Kaaba:Kába 
-Bayerische Motoren Werke AG:BMW 
 Kališníci:kališníctvo 
-Bayerische Motoren Werke:BMW 
+Bayerische Motoren Werke AG:BMW 
 Ultrakvisti:kališníctvo 
 BMW AG:BMW 
+Bayerische Motoren Werke:BMW 
 Bayerische Motorenwerke AG:BMW 
 Bayerische Motorenwerke:BMW 
 Mosasaury:Mosasauridae 
-Drevný lieh:Metanol 
 Karbinol:Metanol 
+Drevný lieh:Metanol 
 Intel Celeron:Celeron 
 Metylakohol:metanol 
-Perverznosť:perverzia 
 Pervezita:perverzia 
+Perverznosť:perverzia 
 Kolchis:Kolchida 
 Gamliel:Gamaliel 
 Davista:davisti 
@@ -2865,7 +2826,6 @@ K Desktop Environment:KDE
 Supertux:SuperTux 
 Lucius Caecilius Firmianus Lactantius:Lactantius 
 GNU Hurd:Hurd 
-I386:IA-32 
 Sardis:Sardy 
 Phacd:Phekda 
 Phad:Phekda 
@@ -2877,7 +2837,6 @@ Staroseverský jazyk:Staroseverčina
 Staroseverské jazyky:Staroseverčina 
 Anthelmintikum:Antihelmintikum 
 Nothosauria:Notosaury 
-AMD64:X86-64 
 Mikva:Mikve 
 Beracha:Bracha 
 Nothosauroidea:Notosaury 
@@ -2885,8 +2844,8 @@ Svaly:sval
 Québec:Quebec 
 Cinnabarit:Cinabarit 
 Glosolália:Glosolalia 
-Dióna:Dióné 
 Diona:Dióné 
+Dióna:Dióné 
 Dione:Dióné 
 Duodecilión:dodecilión 
 Bandhy:Bandha 
@@ -2898,8 +2857,8 @@ Bibliognózia:bibliológia
 Bibliosofia:bibliológia 
 Čárváka:lókájata 
 Mahájánový budhizmus:mahájána 
-Vadžrajánový budhizmus:vadžrajána 
 Pátaliputra:Patna 
+Vadžrajánový budhizmus:vadžrajána 
 Binárny:Binárnosť 
 Byzantológ:byzantológia 
 Ústrojný:organický 
@@ -2913,8 +2872,8 @@ Tipitaka:Tripitaka
 Interpunkčné znamienko:interpunkcia 
 Ľudový odev:Kroj 
 Xiva:Chiva 
-Bylinožravce:Bylinožravec 
 Alexandria (Egypt):Alexandria 
+Bylinožravce:Bylinožravec 
 Tantrajána:vadžrajána 
 Serrekunda:Serekunda 
 Cirka:circa 
@@ -2924,12 +2883,11 @@ Cryosat:CryoSat
 Brazílska federatívna republika:Brazília 
 Ekumenické hnutie:ekumenizmus 
 Lámka:Dna 
-Podagra:Dna 
 Pakostnica:Dna 
+Podagra:Dna 
 Elastickosť:elasticita 
 De-:De 
 Dhjánibudhovia:Dhjánibudha 
-Havária raketoplánu Challenger:STS-51-L 
 Djaus Pitar:Djaus 
 Eleuterius:Eleutherius 
 Eleuterus:Eleutherius 
@@ -2937,7 +2895,6 @@ Obeta:obeť
 Sótér:sotér 
 Trávy:lipnicovité 
 Poaceae:lipnicovité 
-D8:D-8 
 Religionista:religionistika 
 Teológ:teológia 
 Bohoslovie:teológia 
@@ -2962,8 +2919,8 @@ Straka (rozlišovacia stránka):straka
 Farby:Farba 
 Sedatíva:Sedatívum 
 Kóšer:kašrut 
-Portál:Biografia:Portál:Ľudia 
 Portál:Biografie:Portál:Ľudia 
+Portál:Biografia:Portál:Ľudia 
 Biografický Portál:Portál:Ľudia 
 Biografický portál:Portál:Ľudia 
 WINE:Wine 
@@ -2996,7 +2953,6 @@ Warszawa:Varšava
 Gdańsk:Gdansk 
 Mezoderm:Mezoderma 
 Eliza:ELIZA 
-Simone:S1m0ne 
 Lekárnictvo:Farmácia 
 Riadiace koleso:Volant 
 Precipitačné spevnenie:Vytvrdzovanie 
@@ -3087,27 +3043,27 @@ Ohmický odpor:rezistancia
 Burišský jazyk:Buriština 
 Burušaski:buriština 
 Burušaskí:buriština 
+Kandžutčina:buriština 
 Chadžuná:buriština 
 Veršický jazyk:buriština 
-Kandžutčina:buriština 
 Kauzálny nexus:príčinnosť 
 Baroko:barok 
-Kamma:karma 
 Karman:karma 
+Kamma:karma 
 Olmécka kultúra:Olmékovia 
 Jaguárí Indiáni:Olmékovia 
 Olduwai:olduvai 
 Oldowai:olduvai 
 Oldoway:olduvai 
 Oldowan:olduvan 
-Oldowanská kultúra:olduvan 
+Oldovan:olduvan 
 Olduvaien:olduvan 
 Oldovanská kultúra:olduvan 
-Oldovan:olduvan 
-Olduvaiská kultúra:olduvan 
+Oldowanská kultúra:olduvan 
 Olduvajská kultúra:olduvan 
-Olduvanská kultúra:olduvan 
+Olduvaiská kultúra:olduvan 
 Laventská kultúra:Olmékovia 
+Olduvanská kultúra:olduvan 
 Staré indické jazyky:sanskrit 
 Stará indičtina:sanskrit 
 Jazyk véd:Védčina 
@@ -3121,11 +3077,11 @@ Kauzálna súvislosť:príčinnosť
 Príčinná súvislosť:príčinnosť 
 Romaiki:dimotiki 
 Sefardčina:ladino 
-Sefardská španielčina:ladino 
 Židovská španielčina:ladino 
+Sefardská španielčina:ladino 
 Tirolská rétorománčina:ladinčina 
-Furlandčina:friulčina 
 Furlančina:friulčina 
+Furlandčina:friulčina 
 Analytická metóda:analýza 
 Gjalwa karmapa:Karmapa 
 Nekovy:Nekov 
@@ -3147,8 +3103,8 @@ Relatívnosť:relativita
 Rentabilnosť:rentabilita 
 Medziľadová doba:interglaciál 
 Flandr:Holocén 
-Ribozómy:Ribozóm 
 Rolňa:rola 
+Ribozómy:Ribozóm 
 Judezmo:ladino 
 Hviezdice:Hviezdovky 
 Morská hviezdica:Hviezdovky 
@@ -3182,7 +3138,6 @@ Zastupiteľstvo samosprávneho kraja:Zastupiteľstvo
 Jednobožstvo:monoteizmus 
 Ikonoklazmus:obrazoborectvo 
 FLASH-OFDM:Flash-OFDM 
-2.5G:2,5G 
 Medúzy:Medúza 
 Amarti:Borawli 
 Postlúdium:Dohra 
@@ -3222,11 +3177,9 @@ Cantique suisse:Schweizerpsalm
 Psalm svizzer:Schweizerpsalm 
 Melizmatický spev:Melizma 
 Zástupka:tróp 
-Nepriame pomenovanie:tróp 
 Obrazné pomenovanie:tróp 
+Nepriame pomenovanie:tróp 
 Básnické pomenovanie:tróp 
-K-1:K1 
-K-2:K2 
 Halogenidy:Halogenid 
 Szeged:Segedín 
 Diairesis:Dieréza 
@@ -3247,7 +3200,6 @@ Trilobit:trilobity
 Rýchla železnica:rýchlodráha 
 Povodia:Povodie 
 Fág:Bakteriofág 
-STS 2:STS-2 
 Tkm:TKM 
 Cíger (priezvisko):Cíger 
 Prímestská železnica:rýchlodráha 
@@ -3263,7 +3215,6 @@ Nátrium:Sodík
 Alumínium:Hliník 
 Helium:Hélium 
 Slavónia:Slavónsko 
-Mp3:MP3 
 Polyamory:Polyamoria 
 Pumpa:Čerpadlo 
 Kyoto:Kjóto 
@@ -3282,8 +3233,8 @@ Organum vestibulocochleare:ucho
 Telekinéza:psychokinéza 
 Organum statoacusticum:ucho 
 Predsieňovoslimákový orgán:ucho 
-Rovnovážny a sluchový orgán:ucho 
 Statoakustický aparát:ucho 
+Rovnovážny a sluchový orgán:ucho 
 Polohovosluchový aparát:ucho 
 Senica nad Myjavou:Senica 
 Drevorytectvo:drevoryt 
@@ -3292,8 +3243,8 @@ Swot:SWOT
 Astroarcheológia:Archeoastronómia 
 Vafer:Wafer 
 Guadaloupe:Guadeloupe 
-Milujúce oči:Avalókitéšvara 
 Kolúry:Kolúr 
+Milujúce oči:Avalókitéšvara 
 Randevú:rendezvous 
 Rande:rendezvous 
 BIOS:Bios 
@@ -3312,7 +3263,6 @@ Antikvark:Kvark
 KYOGRE:Kyogre 
 Pripjať:Pripiať 
 Astronautika:Kozmonautika 
-Fereidoun M. Esfandiary:FM-2030 
 Hydromagnetika:magnetohydrodynamika 
 ECO:Eco 
 Braşov:Brašov 
@@ -3329,15 +3279,15 @@ Sverdlovsk:Jekaterinburg
 Almeisan:Alhena 
 Mikromechanika:MEMS 
 Dichlorid karbonylu:fosgén 
+Chlorid karbonylu:fosgén 
 Karbonyldichlorid:fosgén 
 Oxychlorid uhličitý:fosgén 
-Chlorid karbonylu:fosgén 
-Chlorid kyseliny chlórmetanovej:fosgén 
 Karbonylchlorid:fosgén 
+Chlorid kyseliny chlórmetanovej:fosgén 
 Dichlorid kyseliny uhličitej:fosgén 
 Jekaterinoslav:Dnipro 
-S.O.S.:SOS 
 Al Kaff:Kaffaljidhm 
+S.O.S.:SOS 
 Azimutálna kružnica:Almukantarát 
 Ob:OB 
 Alphecca:Gemma 
@@ -3356,29 +3306,29 @@ Misery Peak:Liamuiga
 Theta Serpentis:Alya 
 Alwaid:Rastaban 
 Delta Pegasi:Alpheratz 
-Al’faret:Alpheratz 
 Alpherat:Alpheratz 
+Al’faret:Alpheratz 
 Al’ferats:Alpheratz 
 Merach:Mirach 
 Mirac:Mirach 
-Mirakh:Mirach 
 Mirar:Mirach 
-Mirath:Mirach 
+Mirakh:Mirach 
 Mirax:Mirach 
+Mirath:Mirach 
 El Mizar:Mirach 
 Al Mizar:Mirach 
 Almach:Alamak 
 Almaach:Alamak 
-Almak:Alamak 
 Alamac:Alamak 
+Almak:Alamak 
 Sadalsud:Sadalsuud 
 Sad es Saud:Sadalsuud 
 Sadalsund:Sadalsuud 
-Saad el Sund:Sadalsuud 
 Sadal Melik:Sadalmelik 
+Sadalmelek:Sadalmelik 
+Saad el Sund:Sadalsuud 
 Sadlamulk:Sadalmelik 
 El Melik:Sadalmelik 
-Sadalmelek:Sadalmelik 
 Saad el Melik:Sadalmelik 
 Vidina:halucinácia 
 Prelud:halucinácia 
@@ -3399,8 +3349,8 @@ Belize (štát):Belize
 Precedensy:precedens 
 Indolentný:Indolencia 
 Indolentnosť:Indolencia 
-Arkab Prior:Arkab 
 Arkab Posterior:Arkab 
+Arkab Prior:Arkab 
 Amaltea:Amalthea 
 Alpha Bootis:Arktúr 
 Alfa Bootis:Arktúr 
@@ -3432,11 +3382,10 @@ Apollón:Apolón
 Wikipédia:Tabuľky:Pomoc:Tabuľky 
 Tiranë:Tirana 
 Létó:Léto 
-The 4400:4400 
 Moor:Mór 
 Laxatívum:Preháňadlo 
-Laxancium:preháňadlo 
 Laxans:preháňadlo 
+Laxancium:preháňadlo 
 Cerro de Las Petacas:Petacas 
 Azimech:Spika 
 Spinosauroidea:Megalosauroidea 
@@ -3455,17 +3404,16 @@ Okda:Alrischa
 Alresha:Alrischa 
 Predložky:predložka 
 Príslovky:príslovka 
-Slovesá:sloveso 
 Zámená:zámeno 
+Slovesá:sloveso 
 Číslovky:číslovka 
 Adverbium:príslovka 
 Prepozícia:predložka 
-ESRO 1 A:ESRO-1A 
 Galeja:galéra 
 Koffice:KOffice 
 R.A.R.:RAR 
-Tektity:Tektit 
 Australit:Tektit 
+Tektity:Tektit 
 Australity:Tektit 
 Auwa:Auva 
 Minelauva:Auva 
@@ -3480,12 +3428,10 @@ Cholekalciferol:Kalciol
 Small Computer System Interface:SCSI 
 Skazi:SCSI 
 Budapest:Budapešť 
-Stockholm:Štokholm 
 Lisboa:Lisabon 
+Stockholm:Štokholm 
 Bucureşti:Bukurešť 
 Wikipédia:Povolené zdroje:Wikipédia:Zdroje 
-Wikipédia:Zdroje/ea:Wikipédia:Zdroje/EA 
-Wikipédia:Zdroje/osud:Wikipédia:Zdroje/OSUD 
 Bogotá:Bogota 
 HMX:oktogén 
 RDX:hexogén 
@@ -3500,11 +3446,8 @@ Alláh:Alah
 Hematológ:hematológia 
 Filológ:filológia 
 Telenovely:telenovela 
-Melinit:2,4,6-trinitrofenol 
 Lekér:Hronovce 
-Kyselina pikrová:2,4,6-trinitrofenol 
 Trinitroglycerín:Nitroglycerín 
-VH-1:VH1 
 Mangostan:Mangostána 
 Kalkulačný stroj:kalkulačka 
 Minikalkulačka:kalkulačka 
@@ -3569,8 +3512,8 @@ Kapitalistická spoločnosť:kapitalizmus
 Výhybky:výhybka 
 Náklady:Náklad 
 The Enemy:Enemy 
-Faktorial:faktoriál 
 Efekty:efekt 
+Faktorial:faktoriál 
 Aryballos:Arybalos 
 Oľšava:Olšava 
 Elektrická induktancia:induktancia 
@@ -3588,9 +3531,9 @@ Dielektrická konštanta:permitivita
 TESLA:Tesla 
 Olivíny:Olivín 
 Princíp tália:tálio 
-Ius talionis:tálio 
 Princíp tálionu:tálio 
 Zásada tália:tálio 
+Ius talionis:tálio 
 Bioindikácia:bioindikátor 
 Tučnota:Obezita 
 Lollingit:Löllingit 
@@ -3605,8 +3548,8 @@ Zeleň:Pika
 Skin efekt:skinefekt 
 Volcán Lanín:Lanín 
 Anunnaki:Anunna 
-Anunnakkú:Anunna 
 Anunnakú:Anunna 
+Anunnakkú:Anunna 
 Igigú:Anunna 
 Enunaki:Anunna 
 Aforistika:aforizmus 
@@ -3621,8 +3564,8 @@ Half life:Half-Life
 Wu-vei:Wu-wej 
 Chamuel:kamael 
 Kemuel:Kamael 
-Wu wei:Wu-wej 
 Aforistiká:aforizmus 
+Wu wei:Wu-wej 
 Michael:Michal 
 Skupina olivínu:Olivín 
 Ajatolláh Chomejní:Chomejní 
@@ -3641,7 +3584,6 @@ Typ frazeologizácie:frazeologizácia]] '''typ frazeologizácie'''
 Druhotná frazeologizácia:frazeologizácia 
 Sekundárna frazeologizácia:frazeologizácia 
 Český granát:Pyrop 
-STS 45:STS-45 
 Transurány:Transurán 
 Abukumalit:Britolit-(Y) 
 Britholit-(Y):Britolit-(Y) 
@@ -3690,14 +3632,13 @@ Al-Ismá’ílijja:Al-Ismáílíja
 Sóhág:Sawhádž 
 Sóhádž:Sawhádž 
 Suhadž:Sawhádž 
-STS 76:STS-76 
 Berinmadú (Há Alif):Berinmadú 
 Bárah (Há Alif):Bárah 
-Hatifusi (Há Alif):Hatifusi 
 Filladú (Há Alif):Filladú 
-Hórafusi (Há Alif):Hórafusi 
+Hatifusi (Há Alif):Hatifusi 
 Ihavandú (Há Alif):Ihavandú 
 Kelá (Há Alif):Kelá 
+Hórafusi (Há Alif):Hórafusi 
 Hylemorfizmus:hylémorfizmus 
 Márandú (Há Alif):Márandú 
 Muladú (Há Alif):Muladú 
@@ -3721,8 +3662,8 @@ Superaktinoidy:Superaktinoid
 Transaktinoidy:Transaktinoid 
 Hahnium:Dubnium 
 Unnilpentium:Dubnium 
-Unnilseptium:Bohrium 
 Unnilhexium:Seaborgium 
+Unnilseptium:Bohrium 
 Unnilquadium:Rutherfordium 
 Kurčatovium:Rutherfordium 
 Cycadophyta:cykasorasty 
@@ -3733,24 +3674,24 @@ Unniltrium:lawrencium
 Feynmanium:untriseptium 
 Unnilnilium:fermium 
 Gymnophiona:Červoňotvaré 
-Baťovany:Partizánske 
 Červoň:červoňotvaré 
+Baťovany:Partizánske 
 Umelý potrat:interrupcia 
 Umelé prerušenie tehotenstva:interrupcia 
 Umelé prerušenie ťarchavosti:interrupcia 
 Kanček:kanec 
 17. skupina:halogény 
 Halogén:Halogény 
-Chalkogén:Chalkogény 
 16. skupina:chalkogény 
+Chalkogén:Chalkogény 
 15. skupina:Pentely 
-Pentel:pentely 
 Pniktidy:pentely 
+Pentel:pentely 
 Pniktid:pentely 
 Pnictidy:pentely 
 Pnictid:pentely 
-14. skupina:Tetrely 
 Tetrel:tetrely 
+14. skupina:Tetrely 
 13. skupina:Triely 
 Triel:triely 
 Endoderm:Endoderma 
@@ -3761,7 +3702,6 @@ Lipicán:Lipican
 Euro Valley:Eurovalley 
 Györ:Győr 
 Durrës:Drač 
-STS 79:STS-79 
 Rabbuni:Rabín 
 Rabbúni:Rabín 
 Ginkgophyta:ginkorasty 
@@ -3775,7 +3715,6 @@ Sládečkovce:Močenok
 Egyptský jazyk:egyptčina 
 Dubovce (okres Skalica):Dubovce 
 Nvidia:NVIDIA 
-3Dfx:3dfx 
 Bryophytae:Machorasty 
 Cs:CS 
 Lyginodendrophyta:lyginodendrorasty 
@@ -3802,18 +3741,16 @@ Dobermann:Doberman
 Vilňus:Vilnius 
 Duriče:Durič 
 Ontario:Ontário 
-Gnetophyta:Lianovcorasty 
 Gnétorasty:Lianovcorasty 
+Gnetophyta:Lianovcorasty 
 Araucariaceae:Araukáriovité 
 Brundisium:Brindisi 
 Maďarovce:Santovka 
 Antwerpen:Antverpy 
 Anvers:Antverpy 
 Ku-Klux-Klan:Kukluxklan 
-WP:AP:Wikipédia:Pravidlá/Arbitráž 
 Ku Klux Klan:Kukluxklan 
 Porfyria:Porfýria 
-Wikipédia:Arbitráž:Wikipédia:Pravidlá/Arbitráž 
 PH (chémia):Kyslosť 
 Reichenberg:Liberec 
 Libercis:Liberec 
@@ -3847,8 +3784,8 @@ Fares:Fares-Mátodá
 Mátodá:Fares-Mátodá 
 Piraeus:Pireus 
 Systém stabilizácie exportných príjmov:Stabex 
-Spoločný trh juhu:Mercosur 
 Mercosul:Mercosur 
+Spoločný trh juhu:Mercosur 
 Pronormoblast:proerytroblast 
 Maratón:Marathón 
 Nyíregyháza:Níreďháza 
@@ -3878,19 +3815,19 @@ Bydhošť:Bydgoszcz
 -:spojovník 
 Háranie:ruja 
 Honcovanie:ruja 
-Behanie sa:ruja 
 Horovanie:ruja 
+Behanie sa:ruja 
 Kvokanie:ruja 
-Pojímanie sa:ruja 
 Rujnosť:ruja 
+Pojímanie sa:ruja 
 Simónia:Svätokupectvo 
 Zasihlianka:Zásihlianka 
 Veľký Varadín:Oradea 
 CAT:Cat 
 Imbecil:Imbecilita 
 Blbosť:sprostosť 
-Kraków:Krakov 
 Akvitánia:akvitánsko 
+Kraków:Krakov 
 Aarah:Árah 
 Kublaj:Chubilaj 
 Kubilaj:Chubilaj 
@@ -3909,7 +3846,6 @@ Portabilný:Portabilita
 Prenositeľný:Prenositeľnosť 
 Prenosný:prenosnosť 
 Sony Playstation:PlayStation 
-MP-40:MP40 
 East Coast Hockey League:ECHL 
 Gyanafalva:Jennersdorf 
 Ženavci:Jennersdorf 
@@ -3917,8 +3853,8 @@ Zwettl:Zwettl-Niederösterreich
 Modling:Mödling 
 Ganserndorf:Gänserndorf 
 Gmund:Gmünd 
-Belemity:Belemnity 
 Fengchuang:Feng-chuang 
+Belemity:Belemnity 
 Kamfor:Gáfor 
 Spirulida:Spiruly 
 Octobrachia:Osmonohy 
@@ -3929,8 +3865,8 @@ Neftekhimik Nizhnekamsk:Neftechimik
 Badensko:Bádensko 
 Metylbenzén:Toluén 
 Fenylmetán:Toluén 
-Propanón:Acetón 
 Dimetylketón:Acetón 
+Propanón:Acetón 
 Írska republika:Írsko 
 Terorista:Terorizmus 
 Papilionidae:Vidlochvostovité 
@@ -4000,8 +3936,8 @@ Vysťahovalec:vysťahovalectvo
 Hĺbková vrstevnica:izobata 
 Prisťahovalec:prisťahovalectvo 
 Nakladateľstvo:nakladateľ 
-Jog:joga 
 Pejoratívny:Pejoratívum 
+Jog:joga 
 Cassini–Huygens:Cassini-Huygens 
 Carbon-60:Fullerén 
 Groupe Danone:Danone 
@@ -4036,19 +3972,19 @@ Oncidium:Oncídium
 Miltonia:Miltónia 
 Paphiopedilum:Črievičkovec 
 Phalaenopsis:Lišajovec 
-Orchidey:vstavačovité 
 Bilishti:Bilisht 
+Orchidey:vstavačovité 
 Altajská republika:Altajsko 
 Karelská republika:Karelsko 
 Tatárska republika:Tatársko 
-Kalmycká republika:Kalmycko 
 Kabardsko-balkarská republika:Kabardsko-Balkarsko 
+Kalmycká republika:Kalmycko 
 Ingušská republika:Ingušsko 
 Chakaská republika:Chakasko 
 Dagestanská republika:Dagestan 
-Čečenská republika:Čečensko 
 Čuvašská republika:Čuvašsko 
 Baškirská republika:Baškirsko 
+Čečenská republika:Čečensko 
 Adygejská republika:Adygejsko 
 Karačajsko-čerkeská republika:Karačajsko-Čerkesko 
 Edikt:vyhláška 
@@ -4057,9 +3993,9 @@ Mordvianska republika:Mordviansko
 Chantyjsko-mansijský autonómny okruh:Chantyjsko-Mansijsko 
 Koriacky autonómny okruh:Koriacko 
 AGA:Aga 
+Nenecký autonómny okruh:Nenecko 
 Jamalskonenecký autonómny okruh:Jamalsko 
 Tuva:Tuviansko 
-Nenecký autonómny okruh:Nenecko 
 Mordva:Mordviansko 
 Usťordský buriatsky autonómny okruh:Usť-Orda 
 Usťordynský buriatsky autonómny okruh:Usť-Orda 
@@ -4067,8 +4003,8 @@ Evenkovský autonómny okruh:Evenkovsko
 Tajmýrsky autonómny okruh:Tajmýrsko 
 Francúzska republika:Francúzsko 
 Buriatska republika:Buriatsko 
-Oranie:Orba 
 Jakutská republika:Jakutsko 
+Oranie:Orba 
 Jamalsko-nenecký autonómny okruh:Jamalsko 
 Héraklés:Herakles 
 Pygmalion:Pygmalión 
@@ -4093,8 +4029,8 @@ Gaim:Pidgin
 CD ROM:CD-ROM 
 Dosbox:DOSBox 
 Biosector conquest:Biosector 
-Biosector battlegrounds:Biosector 
 Bio.sector:Biosector 
+Biosector battlegrounds:Biosector 
 Agatho:Agato 
 Adeodatus:Adeodat 
 Blucher:Blücher 
@@ -4137,8 +4073,8 @@ Eusebios:Eusébius
 Starcraft:StarCraft 
 Ba:BA 
 Sc:SC 
-Lobovanie:lobing 
 Lobbing:Lobing 
+Lobovanie:lobing 
 Lobizmus:lobing 
 Lobbizmus:lobing 
 Irfanview:IrfanView 
@@ -4192,8 +4128,6 @@ Zarja:Zaria
 Iustitia:Justitia 
 Elektroencefalograf:Elektroencefalografia 
 Elektroencefalogram:elektroencefalografia 
-Maschinenpistole 40:MP40 
-MP 40:MP40 
 Zeta (písmeno):Zéta 
 Eta (písmeno):Éta 
 Beta (písmeno):Beta 
@@ -4219,21 +4153,21 @@ Mozilla Bugzilla:Bugzilla
 Kerrang:Kerrang! 
 LS:Ls 
 Záplavová vlna:Cunami 
-Ja-lu-cang-pu-ťiang:Brahmaputra 
 Maquan He:Brahmaputra 
+Ja-lu-cang-pu-ťiang:Brahmaputra 
 Orleáns:Orléans 
 Backhand:Bekhend 
 Forehand:Forhend 
 Tuat:Duat 
 Amenthes:Duat 
 Akert:Duat 
-Poleva:email 
 Glazúra:email 
+Poleva:email 
 CENTROPE:Centrope 
 Cepit:CEPIT 
 Dlžobný úpis:dlhopis 
-Chufev:Chufu 
 Cheops:Chufu 
+Chufev:Chufu 
 Tiflis:Tbilisi 
 Tifflis:Tbilisi 
 Cerkov:Cerkev 
@@ -4249,8 +4183,8 @@ Tury:tur
 Škorpióny:škorpión 
 Čerieslová kosť:Čerieslo 
 Vomer:Čerieslo 
-Kostrčná kosť:Kostrč 
 Os coccygis:Kostrč 
+Kostrčná kosť:Kostrč 
 Theta:Théta 
 Zéta (písmeno):Zéta 
 Digamma:Digama 
@@ -4265,14 +4199,13 @@ Girba:Džerba
 Kget:KGet 
 Dzéta:Zéta 
 Ný:Ní 
-STS 117:STS-117 
 Memfis:Mennofer 
 Mennefer:Mennofer 
 Trénovanie:tréning 
 Rendez:Východné 
 Hierkanopolis:Nechen 
-Provensálsko:Provensalsko 
 Hierakonpolis:Nechen 
+Provensálsko:Provensalsko 
 Provensálčina:Provensalčina 
 Homosexuálna orientácia:Homosexualita 
 Homosexuálna preferencia:Homosexualita 
@@ -4298,7 +4231,6 @@ Joël:Joel
 Drakula:Dracula 
 Charlotte (Severná Karolína):Charlotte 
 Mesa (Arizona):Mesa 
-Plus 44:+44 
 Åland:Alandy 
 Landskapet Åland:Alandy 
 Ahvenanmaa:Alandy 
@@ -4308,7 +4240,6 @@ Omaha (Nebraska):Omaha
 Wichita (Kansas):Wichita 
 AK-47S:AKS 
 Necyklopédia:Uncyclopedia 
-+ 44:+44 
 Hugenot:Hugenoti 
 Systém zápisu:Písmo 
 Vlastný životopis:Autobiografia 
@@ -4335,8 +4266,8 @@ Annapolis (Maryland):Annapolis
 Lansing (Michigan):Lansing 
 Apollinarianizmus:apollinarizmus 
 Lāhainā (Havaj):Lahaina 
-Lahaina (Havaj):Lahaina 
 Lāhainā:Lahaina 
+Lahaina (Havaj):Lahaina 
 EA:Ea 
 Bobovišča:Bobovišća 
 Ložišča:Ložišća 
@@ -4354,8 +4285,8 @@ Daikondi:Dájkundí
 Hílmand:Hilmand 
 Dájkondí:Dájkundí 
 Hírmand:Hilmand 
-Harirud:Herírúd 
 Harírúd:Herírúd 
+Harirud:Herírúd 
 Tedžen:Tejen 
 Zosvetštenie:sekularizácia 
 A Fire Inside:AFI 
@@ -4368,24 +4299,23 @@ Galveston (Texas):Galveston
 Velasco (Texas):Velasco 
 Ríša Veľkých Mughalov:Mughali 
 Ríša Mughalov:Mughali 
-Veľkí Mughali:Mughali 
 Moguli:Mughali 
+Veľkí Mughali:Mughali 
 Veľkí Moguli:Mughali 
 Ríša Mogulov:Mughali 
-Mughalská ríša:Mughali 
 Ríša Veľkých Mogulov:Mughali 
+Mughalská ríša:Mughali 
 Mogulská ríša:Mughali 
 Timur Lenk:Tímúr 
 Tímúr Lenk:Tímúr 
 Tamerlán:Tímúr 
 Timurova ríša:Tímúr 
-Tímúrova ríša:Tímúr 
 Tamerlánova ríša:Tímúr 
-Tímúr Lang:tímúr 
+Tímúrova ríša:Tímúr 
 Tímúr Gurkání:Tímúr 
+Tímúr Lang:tímúr 
 Tímúr Leng:tímúr 
 Gitarista:gitara 
-(+44):+44 
 Norwalk (Connecticut):Norwalk 
 Yaoi:Jaoi 
 Rádiolokátor:Radar 
@@ -4427,16 +4357,15 @@ Skvama:šupina
 Komančovia:Komanči 
 Bus:Autobus 
 Chmúnev:Chemenu 
-Chmún:Chemenu 
 Hermopolis Parva:Hermopolis 
 Hermopolis Mikra:Hermopolis 
-Šablóna:Hiero/egypt/bgcolour:Šablóna:Hiero/Egypt/background 
-Icq:ICQ 
+Chmún:Chemenu 
 Blizzard:blizard 
+Icq:ICQ 
 Nílsky kríž:anch 
 Kríž života:anch 
-Crux ansata:anch 
 Kľúč života:anch 
+Crux ansata:anch 
 Subgenus:podrod 
 New York (okres):Manhattan 
 Rozklad na činitele:Faktorizácia 
@@ -4463,8 +4392,8 @@ Pisaq:Písac
 Ullantaytampusa:Ollantaytambo 
 Qenco:Kenko 
 Qenko:Kenko 
-Kosovský autonómny kraj:Kosovo 
 Autonómny kraj Kosovo a Metohija:Kosovo 
+Kosovský autonómny kraj:Kosovo 
 Prishtinë:Priština 
 Vojvodinský autonómny kraj:Vojvodina 
 Autonómna pokrajina Vojvodina:Vojvodina 
@@ -4477,8 +4406,8 @@ Imúthés:Imhotep
 Königsthal:Mládzovo 
 Vanské kráľovstvo:Urartu 
 Severná Rodézia:Zambia 
-Zimbabwe-Rodézia:Zimbabwe 
 Južná Rodézia:Zimbabwe 
+Zimbabwe-Rodézia:Zimbabwe 
 Zvolensko:Podpoľanie 
 Horné Pohronie:Horehronie 
 Bichon Frisé:Bišon 
@@ -4507,8 +4436,8 @@ Karlovac:Karlovec
 Janakpur:Džanakpur 
 SETI:Seti 
 Sagarmatha:Sagarmáthá 
-Mechi:Mečhí 
 Setí:Seti 
+Mechi:Mečhí 
 Mahakali:Mahákálí 
 Gandak:Gandakí 
 Dhawalagiri:Dhawalágiri 
@@ -4517,8 +4446,8 @@ Mičinoku:Tóhoku
 Llivia:Llívia 
 Hokuriku (región):Hokuriku 
 Seamonkey:SeaMonkey 
-Radiant meteorického roja:Radiant 
 Lietavica:Meteor 
+Radiant meteorického roja:Radiant 
 Rjúkjú:Rjúkju 
 Tokio (prefektúra):Tokio 
 Tepelná fyzika:Termika 
@@ -4560,8 +4489,8 @@ Hoplon:Aspis
 Klajpeda:Klaipėda 
 Kogajadžima:Kogadža-džima 
 Gaja-džima:Gadža-džima 
-Kogaja-džima:Kogadža-džima 
 Gadžadžima:Gadža-džima 
+Kogaja-džima:Kogadža-džima 
 Vádí:wádí 
 Olštýn:Olsztyn 
 Zhorelec:Görlitz 
@@ -4575,9 +4504,9 @@ Aethelstan:Athelstan
 Derringer:Deringer 
 Pí mezón:Pión 
 Mezón pí:Pión 
-K-mezón:Kaón 
 K mezón:Kaón 
 Mezón K:Kaón 
+K-mezón:Kaón 
 Antitauón:tauón 
 Antimión:mión 
 Reactos:ReactOS 
@@ -4593,7 +4522,6 @@ Leukozafír:korund
 Limburg:Limbursko 
 Ab-:Ab 
 Malayálamčina:Malajálamčina 
-K9:k-9 
 Bialystok:Białystok 
 Aleutské ostrovy:Aleuty 
 Tatešina:Tate-šina 
@@ -4612,12 +4540,12 @@ Diosek:Sládkovičovo
 Lepidoptera:motýle 
 SN:Sn 
 Hygrometer:vlhkomer 
-Zem (elektronika):Uzemnenie 
 Zemnenie:uzemnenie 
 Zemnič:uzemnenie 
+Zem (elektronika):Uzemnenie 
 Uzemňovač:uzemnenie 
-Litoral:Litorál 
 Litorálne pásmo:litorál 
+Litoral:Litorál 
 Trákovia:Tráci 
 Creatin:Kreatín 
 Yankton (Južná Dakota):Yankton 
@@ -4646,7 +4574,6 @@ Lastfm:Last.fm
 PEN klub:PEN 
 Pen Klub:PEN 
 Medzinárodný PEN:PEN 
-STS 118:STS-118 
 Spacex:SpaceX 
 Dhau:Feluka 
 La Marseillaise:Marseillaisa 
@@ -4658,13 +4585,12 @@ Vesuvio:Vezuv
 Vesuvius:Vezuv 
 Herkulanum:Herculaneum 
 Kerozín:Petrolej 
-Bruxelles:Brusel 
-Brussels:Brusel 
 Brüssel:Brusel 
+Brussels:Brusel 
+Bruxelles:Brusel 
 Brussel:Brusel 
 Mašťov (okres Chomutov):Mašťov 
 Canicula:Sírius 
-SPDIF:S/PDIF 
 Proboštov (okres Teplice):Proboštov 
 Fenylethylamin:Fenyletylamín 
 Behemót:Behemot 
@@ -4709,8 +4635,8 @@ Tardigrada:Pomalky
 Onychophora:Pazúrikavce 
 Arthropoda:Článkonožce 
 Džedet:Mendes 
-Per-Benebdžedet:Mendes 
 Anpet:Mendes 
+Per-Benebdžedet:Mendes 
 Amandibulata:Bezhryzadlovce 
 Mandibulata:Hryzadlovce 
 Chelicerata:Klepietkavce 
@@ -4726,9 +4652,8 @@ Hypochonder:hypochondria
 Allah:Alah 
 Glutén:Lepok 
 Mesothelae:Liphistiomorpha 
-16-bitový:16-bit 
-Mygalomorphae:Štvorpľúcne 
 Theraphosomoropha:Štvorpľúcne 
+Mygalomorphae:Štvorpľúcne 
 Tetrapneumones:Štvorpľúcne 
 Orthognatha:Štvorpľúcne 
 Araneomorpha:Dvojpľúcne 
@@ -4736,8 +4661,8 @@ Araneomorphae:Dvojpľúcne
 Dipneumones:Dvojpľúcne 
 Labidognatha:Dvojpľúcne 
 Eresidae:Stepníkovité 
-Amaurobioidea:Cedivkovité 
 Amaurobiidae:Cedivkovité 
+Amaurobioidea:Cedivkovité 
 Cedivky:Cedivkovité 
 Pretoria:Pretória 
 Volapuk:Volapük 
@@ -4748,8 +4673,8 @@ Provincia Mikawa:Mikawa
 Mikawa (provincia):Mikawa 
 Provincia Tótómi:Tótómi 
 Plateau:plató 
-Srodmiescie:Śródmieście 
 Sródmiescie:Śródmieście 
+Srodmiescie:Śródmieście 
 XBox:Xbox 
 X11Amp:XMMS 
 AnimeCon:Animecon 
@@ -4758,11 +4683,11 @@ Röntgenové observatórium Chandra:Chandra
 Vnútorný cudzopasník:endoparazit 
 Nukleozidfosfát:nukleotid 
 Eurobankovky:Eurobankovka 
-Euro mince:Eurominca 
 Euro bankovky:Eurobankovka 
+Euro mince:Eurominca 
 Euro bankovka:Eurobankovka 
-Euro zóna:Eurozóna 
 Euro minca:Eurominca 
+Euro zóna:Eurozóna 
 Zakopane:Zakopané 
 Elektrobus:Trolejbus 
 NS:Normostrana 
@@ -4827,16 +4752,15 @@ Memelburg:Klaipėda
 Koryu:Korjú 
 Krovka:krovky 
 NASA:Nasa 
-Aggtelek-Baradla:Baradla 
 Stojaci kvapeľ:Stalagmit 
 Visiaci kvapeľ:Stalaktit 
+Aggtelek-Baradla:Baradla 
 Strechulec:Stalaktit 
 Visiak:Stalaktit 
 Stĺpový kvapeľ:Stalagnát 
 Hard core:Hardcore 
 AA:Aa 
 Comics:Komiks 
-U-2:U2 
 Desať Božích prikázaní:Desatoro 
 Baltský región:Pobaltie 
 Pobaltský región:Pobaltie 
@@ -4862,7 +4786,6 @@ Faidón:Faidon
 Afel:Afélium 
 Perihel:Perihélium 
 Jednokoľajnicová železnica:monorail 
-STS 120:STS-120 
 Kliešte:kliešť 
 Hygroskopická látka:Hygroskopia 
 Praha-Nebušice:Nebušice 
@@ -4929,8 +4852,8 @@ Cár kolokol:Car-kolokol
 Królewskie Stołeczne Miasto Kraków:Krakov 
 Zámka:zámok 
 Lénny systém:Léno 
-Lénny pán:léno 
 Lénnik:léno 
+Lénny pán:léno 
 Lénny vzťah:léno 
 Feudál:léno 
 Vazalstvo:vazal 
@@ -4943,19 +4866,19 @@ Pôrodnosť (štatistika):Pôrodnosť
 Realizovaná plodivosť:množivosť 
 Určenie:stanovenie 
 Umelá hmota:plast 
-Prežitie:prežívanie 
 Živý:život 
+Prežitie:prežívanie 
 Strávenie:trávenie 
 Toxikum:jed 
 Toxická látka:jed 
-Otravná látka:jed 
 Jedovatá látka:jed 
+Otravná látka:jed 
 Helsinky:Helsinki 
 Lúh:hydroxid 
 Livovia:Livónci 
 Primárny malabsorpčný syndróm:celiakia 
-Gluténová enteropatia:celiakia 
 Idiopatická steatorea:celiakia 
+Gluténová enteropatia:celiakia 
 Netropická sprue:celiakia 
 Herterova–Heubnerova choroba:celiakia 
 Intestinálny infantilizmus:celiakia 
@@ -4966,8 +4889,8 @@ Jednofarebný:jednofarebnosť
 Tuarangisaurus keyesi:tuarangisaurus 
 ALBAM:Albam 
 ATBAŠ:Atbaš 
-Rozlišovanie:Rozlíšenie 
 Diferencovanie:diferenciácia 
+Rozlišovanie:Rozlíšenie 
 Distingvovanie:rozlíšenie 
 UCUE:UCEU 
 Union of Capitals of the European Union:UCEU 
@@ -4986,7 +4909,6 @@ Sethlans (mytológia):Sethlans
 Bowden:Bovden 
 Bowdenovo lanko:bovden 
 Fabregased:Fábregas 
-Zaunkönig:G7es 
 Kilojoule na mol:Výhrevnosť 
 Riť:Anus 
 Rektum:konečník 
@@ -4996,8 +4918,8 @@ Exotický:exotickosť
 Sitcom:sitkom 
 Petraševovský krúžok:Petraševskovci 
 Kobylisy (Praha):Kobylisy 
-Ryniorasty:Rýniorasty 
 Rhyniophyta:Rýniorasty 
+Ryniorasty:Rýniorasty 
 Totalita (politika):Totalitarizmus 
 Tedom:TEDOM 
 Cafú:Cafu 
@@ -5069,7 +4991,6 @@ Habitát:habitat
 High Definition Video:HDV 
 Urmín:Mojmírovce 
 National Schiller museum:Schiller-Nationalmuseum 
-STS 122:STS-122 
 Itaipu:Itaipú 
 Pop art:Popart 
 Grafity:Graffiti 
@@ -5084,8 +5005,8 @@ Naruto Shippuuden:Naruto
 Mikrofón (počítač):Mikrofón 
 Spoločnosť ľubomúdrych:Ľubomúdri 
 Pokolenie:generácia 
-NOX:Nox 
 Klientsky systém:klientelizmus 
+NOX:Nox 
 Rovinný uhol:uhol 
 Donucovacie právo:prímus 
 Shinigami:Šinigami 
@@ -5113,11 +5034,9 @@ Büsingen am Hochrhein:Büsingen
 Methadon:Metadón 
 Metadon:Metadón 
 Coca cola:Coca-Cola 
-Coke:Coca-Cola 
 Coca Cola:Coca-Cola 
+Coke:Coca-Cola 
 Chránený areál Hate:Hate 
-2H Pozitív:2H+ 
-2h+:2H+ 
 Iracionálny:Iracionálnosť 
 Iracionalita:iracionálnosť 
 Ofidiofób:ofidiofóbia 
@@ -5130,19 +5049,18 @@ Lampropeltis:Hadiarka
 Korálovka:koralovka 
 Vákuová elektrónka:elektrónka 
 Bahomet:Bafomet 
-Bafumet:Bafomet 
 Bahumet:Bafomet 
+Bafumet:Bafomet 
 Babhomet:Bafomet 
 Sex appeal:Sexappeal 
 Pohlavná príťažlivosť:sexappeal 
 Sexepíl:sexappeal 
 Sexuálna príťažlivosť:sexappeal 
 Kastílsko:Kastília 
-Debitor:dlžník 
 Kreditor:veriteľ 
-3dfx Interactive:3dfx 
-Bunkové jadierko:jadierko 
+Debitor:dlžník 
 Nukleolus:jadierko 
+Bunkové jadierko:jadierko 
 Cammock:Camac 
 SiCKO:Sicko 
 Hadoblížne:hady 
@@ -5188,8 +5106,8 @@ Fenoplasty:Fenoplast
 Dragúň:Dragún 
 Bakufu:šógun 
 Loutková scéna:Loutkář 
-Československý loutkář:Loutkář 
 Český loutkář:Loutkář 
+Československý loutkář:Loutkář 
 Zprávy loutkářského soustředění:Loutkář 
 Bábkar:Bábkoherec 
 Trúchlohra:Tragédia 
@@ -5207,8 +5125,8 @@ Ibčina:igboština
 Iboština:igboština 
 Kabab:Kebab 
 Kebap:Kebab 
-Kabob:Kebab 
 Kibob:Kebab 
+Kabob:Kebab 
 Gyro:Gyros 
 Rozdeľovacie znamienka:interpunkcia 
 Pejoratíva:Pejoratívum 
@@ -5222,8 +5140,8 @@ Užovka bahenná:Seminatrix
 Ratramnius:Ratramnus 
 Clerambautov syndróm:Erotománia 
 Dvojlistovce:mechúrniky 
-Quenya:Quenijčina 
 Trojlistovce:dvojstranovce 
+Quenya:Quenijčina 
 Bahasa Indonesia:indonézština 
 Myopia:krátkozrakosť 
 Vitamín B17:amygdalín 
@@ -5280,8 +5198,8 @@ Jotei:Jótei
 Kosovo (Autonómna oblasť Kosovo):Kosovo 
 Causa:Kauza 
 Spleen:Splín 
-Dlhá chviľa:nuda 
 Bôľ:bolesť 
+Dlhá chviľa:nuda 
 Uniknutie:únik 
 Unikanie:únik 
 Suicídium:samovražda 
@@ -5311,8 +5229,8 @@ Fotoodpor:Fotorezistor
 Nikopoľ:Nikopol 
 Internátne Rozhlasové Štúdio:IRŠ 
 Autotransformátor:Transformátor#Autotransformátor 
-Maquiladoras:Maquiladora 
 Maquila:maquiladora 
+Maquiladoras:Maquiladora 
 Budapeštiansky obvod:Budapešť 
 Osemuholnik:Osemuholník 
 Kemeticizmus:Kemetizmus 
@@ -5327,7 +5245,6 @@ Zbrane SS:Waffen-SS
 Shenzhen:Šen-čen 
 Kaohsiung:Kao-siung 
 Wuhan:Wu-chan 
-STS 123:STS-123 
 Ing.:Inžinier 
 Dún Dealgan:Dundalk 
 Droichead Átha:Drogheda 
@@ -5351,7 +5268,6 @@ Hexaéder:kocka
 Reagencia:Činidlo 
 Reagent:činidlo 
 Reagens:činidlo 
-CXCL8:Interleukín-8 
 Innfield:Enfield 
 Slavcon:SlavCon 
 Lemúr:Lemur 
@@ -5389,14 +5305,14 @@ Spôsobenie:spôsobovanie
 Zapríčinenie:zapríčiňovanie 
 Fúzovanie:fúzia 
 Zlučovanie:zlúčenie 
-Frivolita:frivolnosť 
 Frivolný:Frivolnosť 
+Frivolita:frivolnosť 
 Geografia rastlinstva:fytogeografia 
 Rastlinný zemepis:fytogeografia 
 Aramil:Aramiľ 
 XFCE:Xfce 
-Imeni Arťoma:Arťomovskij 
 Jegoršino:Arťomovskij 
+Imeni Arťoma:Arťomovskij 
 Salamandridae:Salamandrovité 
 Veľhory:veľhornatina 
 Herbicídy:Herbicíd 
@@ -5407,8 +5323,8 @@ Jobagióni:jobagión
 Maderas (sopka):Maderas 
 Servienti:servient 
 Dorzeovia:Dorze 
-Letopisec:anály 
 Analisti:analista 
+Letopisec:anály 
 Zápoľský:Zápoľskovci 
 Děpoltici:Děpoltovci 
 Gebhart:Gebhard 
@@ -5417,10 +5333,10 @@ Berjozovskij:Beriozovskij
 Pseudohľuza:Pahľuza 
 Dasp:DASP 
 Zatlačenie:zatláčanie 
-Nahradenie:nahrádzanie 
 Nahradzovanie:nahrádzanie 
-Náhrada:nahrádzanie 
+Nahradenie:nahrádzanie 
 Uhradenie:úhrada 
+Náhrada:nahrádzanie 
 Velamen:Velámen 
 Alterovanie:alterácia 
 Gerón:geront 
@@ -5447,8 +5363,8 @@ Lokomočný pohyb:Lokomócia
 Dinophyta:Panciernatky 
 Panciernatka:Panciernatky 
 Pitvaros:Pitvaroš 
-Špiritista:špiritizmus 
 Euglény:červenoočká 
+Špiritista:špiritizmus 
 Špekulovanie:špekulácia 
 Menežment:manažment 
 Menedžment:manažment 
@@ -5458,43 +5374,43 @@ Ulugbek:Ulug-beg
 Refrakčný teleskop:Refraktor 
 Flagellata:Bičíkovce 
 Márianosztra:Márianostra 
-Csanádalberti:Alberti 
 Ősagárd:Agárd 
-Ambrózfalva:Ambrózka 
+Csanádalberti:Alberti 
 Bénye:Bíň 
+Ambrózfalva:Ambrózka 
 Bér:Bír 
 Bokor:Bukra 
 Csesztve:Častva 
-Bakonycsernye:Čerňa 
 Csömör:Čemer 
-Piliscsév:Čív 
 Csobánka:Čobanka 
 Csővár:Čuvár 
+Bakonycsernye:Čerňa 
+Piliscsév:Čív 
 Dabas:Dabaš 
 Epöl:Epel 
 Telekgerendás:Gerendáš 
 Örménykút:Irminčok 
-Isaszeg:Išaseg 
 Albertirsa:Irša 
+Isaszeg:Išaseg 
 Acsa:Jača 
-Erdőkürt:Kirť 
 Kesztölc:Kestúc 
-Kondoros:Kondoroš 
+Erdőkürt:Kirť 
 Nógrádkövesd:Kivešd 
-Lucfalva:Lucina 
+Kondoros:Kondoroš 
 Legénd:Legind 
+Lucfalva:Lucina 
 Medgyesegyháza:Medeš 
 Miske:Miške 
 Mogyorósbánya:Moďoroš 
-Nőtincs:Netejč 
 Nézsa:Nežovce 
 Níža:Nežovce 
 Oroszlány:Oroslán 
+Nőtincs:Netejč 
 Patvarc:Patvarec 
 Péteri:Peterka 
 Püspökhatvan:Pišpek 
-Sződ:Séď 
 Pilisszántó:Santov 
+Sződ:Séď 
 Sámsonháza:Šamšon 
 Sárisáp:Šáp 
 Sóskút:Šoškút 
@@ -5504,8 +5420,8 @@ Zsidó:Židov
 Mačkovitá šelma:Mačkovité 
 Diaryletény:Diaryletén 
 Dihydroazulény:Dihydroazulén 
-Azobenzény:Azobenzén 
 Fulgidy:Fulgid 
+Azobenzény:Azobenzén 
 Spiropyrány:Spiropyrán 
 Furylfulgidový derivát:Fulgid 
 Hypertyroidizmus:Hypertyreóza 
@@ -5514,14 +5430,13 @@ Retriever:Retríver
 Bájoslovie:mytológia 
 Arthritis uratica:Dna 
 Padúcnica:Epilepsia 
-Mp3Tag:Mp3tag 
 Mokrošová:Mokroš 
 Jantošovičová:Jantošovič 
 Kostrecová:Kostrec 
 Sámelová:Sámel 
 Lepšíková:Lepšík 
-Kenížová:Keníž 
 Karulová:Karul 
+Kenížová:Keníž 
 Finková:Finka 
 Medveďová:Medveď 
 Pavúková:Pavúk 
@@ -5552,8 +5467,8 @@ Rozrytie:rytie
 Rozrývanie:rytie 
 Zrytie:rytie 
 Zrývanie:rytie 
-Vyrytie:rytie 
 Vyrývanie:rytie 
+Vyrytie:rytie 
 Šnicľa:rezeň 
 Fotoelektrický násobič:fotonásobič 
 Násobič elektrónov:fotonásobič 
@@ -5567,11 +5482,11 @@ Neznajboh:ateizmus
 Obrobenie:obrábanie 
 Potláčanie:potlačenie 
 Potlačovanie:potlačenie 
-Potisnutie:potlačenie 
 Vytesňovanie:vytesnenie 
+Potisnutie:potlačenie 
 Potískanie:potlačenie 
-Pretlačovanie:pretláčanie 
 Pretlačenie:pretláčanie 
+Pretlačovanie:pretláčanie 
 Pretískanie:pretláčanie 
 Vytláčanie:vytlačenie 
 Vytisnutie:vytlačenie 
@@ -5584,23 +5499,23 @@ Bobtnanie:napúčanie
 Spájkovanie kovov:Spájkovanie 
 Country and Western:Country 
 Balážová:Baláž 
-Baranová:Baran 
 Biceková:Bicek 
+Baranová:Baran 
 Bondrová:Bondra 
+Chalupková:Chalupka 
 Chudíková:Chudík 
 Cígerová:Cíger 
-Chalupková:Chalupka 
 Dostálová:Dostál 
 Droppová:Droppa 
 Fajnorová:Fajnor 
 Gašparovičová:Gašparovič 
 Golonková:Golonka 
-Haščáková:Haščák 
 Hanzalová:Hanzal 
-Holubová:Holub 
+Haščáková:Haščák 
 Heretiková:Heretik 
-Hossová:Hossa 
+Holubová:Holub 
 Hrušovská:Hrušovský 
+Hossová:Hossa 
 Šťastná:Šťastný 
 Šoustalová:Šoustal 
 Šoucová:Šouc 
@@ -5609,23 +5524,23 @@ Kolníková:Kolník
 Konstantinidisová:Konstantinidis 
 Ďurišová:Ďuriš 
 Zamenhofová:Zamenhof 
-Lintnerová:Lintner 
 Vargová:Varga 
+Lintnerová:Lintner 
 Lukáčová:Lukáč 
-Uramová:Uram 
 Luptáková:Lupták 
-Mečířová:Mečíř 
+Uramová:Uram 
 Sýkorová:Sýkora 
+Mečířová:Mečíř 
 Mikulíková:Mikulík 
 Molnárová:Molnár 
-Musilová:Musil 
 Szabóová:Szabó 
+Musilová:Musil 
 Nagyová:Nagy 
-Nemcová:Nemec 
 Senková:Senko 
+Nemcová:Nemec 
 Nováková:Novák 
-Poliaková:Poliak 
 Pauková:Pauko 
+Poliaková:Poliak 
 Menyhértová:Menyhért 
 Šrubka:Skrutka 
 Šrób:Skrutka 
@@ -5638,11 +5553,11 @@ Vres obyčajný:vres
 Azalky:Azalka 
 Šablóna:CSK:Šablóna:TCH 
 Zichy:Zičiovci 
-Cryptophyceae:Kryptomonády 
 Cryptophyta:Kryptomonády 
+Cryptophyceae:Kryptomonády 
 Sorik Marapi:Sorikmarapi 
-Ophir:Talakmau 
 Talamau:Talakmau 
+Ophir:Talakmau 
 Preskupenie:preskupovanie 
 Malíšková:Malíšek 
 Úžitková vlastnosť:Úžitkovosť 
@@ -5674,15 +5589,15 @@ Ohýňanie:ohýbanie
 Zohýbanie:ohýbanie 
 Zohnutie:ohýbanie 
 Zohýňanie:ohýbanie 
-Käsmark:Kežmarok 
 Kesmárk:Kežmarok 
+Käsmark:Kežmarok 
 Zaškrabávanie:Ševingovanie 
 Cacaduidae:Kakaduorodé 
 Melopsittacus:Papagájec 
 Psittacidae:Papagájovité 
 Kakaduovité:kakaduorodé 
-Korely:korela 
 Korelorodé:korela 
+Korely:korela 
 Propyrrhura:Primolius 
 Mílétos:Milétos 
 Prodicus:Prodikos 
@@ -5691,16 +5606,16 @@ Lukián:Lucián
 Lucianus:Lucián 
 Uzud:Uzúd 
 Pseudogamia:merospermia 
-Lori:loriorodé 
 Loriovité:Loriorodé 
+Lori:loriorodé 
 Subfamilia:podčeľaď 
 Králik divý:Oryctolagus 
 Michaľovka:Michalovka 
-Agram:Záhreb 
 Zágráb:Záhreb 
+Agram:Záhreb 
 Sjamozero:Siamozero 
-Postupovanie:postup 
 Ductus:duktus 
+Postupovanie:postup 
 Postúpenie:postup 
 Bizonja:Bezenye 
 Mohács:Moháč 
@@ -5731,11 +5646,11 @@ Belemnit:Belemnity
 Maothail:Mohill 
 Sauria:jašter 
 Obrúčkovec:obrúčkovce 
-Amphisbaenia:obrúčkovce 
 Annulata:obrúčkovce 
+Amphisbaenia:obrúčkovce 
 Iguania:Leguány 
-Anguimorpha:slepúchy 
 Anguiformia:slepúchy 
+Anguimorpha:slepúchy 
 Scinciformata:scinky 
 Jaštery:Jašter 
 Varany:Varan 
@@ -5756,12 +5671,11 @@ Powiat Szczecin:Štetín
 Powiat Kraków:Krakov 
 Powiat Tarnów:Tarnów 
 Crocodylus:Crocodilus 
-STS 124:STS-124 
 Úžasná Plochozem:Plochozem 
 Korela chochlatá:korela 
 Kakadu:kakaduorodé 
-Invertebrata:bezstavovce 
 Avertebrata:bezstavovce 
+Invertebrata:bezstavovce 
 Discworld:Plochozem 
 Powiat Bydgoszcz:Bydgoszcz 
 Powiat Grudziądz:Grudziądz 
@@ -5788,8 +5702,8 @@ Powiat Konin:Konin
 Powiat Leszno:Leszno 
 Powiat Poznań:Poznaň 
 Powiat Bielsko-Biała:Bielsko-Biała 
-Powiat Chorzów:Chorzów 
 Powiat Bytom:Bytom 
+Powiat Chorzów:Chorzów 
 Powiat Gliwice:Gliwice 
 Powiat Jastrzębie-Zdrój:Jastrzębie-Zdrój 
 Powiat Jaworzno:Jaworzno 
@@ -5821,8 +5735,8 @@ Accra:Akkra
 Paralen:Paracetamol 
 Hohenau an der March:Cahnov 
 Angern an der March:Congr 
-Zistersdorf:Čistejov 
 Dürnkrut:Kruta 
+Zistersdorf:Čistejov 
 Ligašdorf:Ringelsdorf-Niederabsdorf 
 Lingaštorf:Ringelsdorf-Niederabsdorf 
 Bernhardsthal:Pernitál 
@@ -5840,8 +5754,8 @@ Veselová:Vesel
 Nábělková:Nábělek 
 Plošný rozmer:rozloha 
 Plošný rozsah:rozloha 
-Plošný obsah:rozloha 
 Obsah plochy:rozloha 
+Plošný obsah:rozloha 
 Volúmen:objem 
 Moáb:Moab 
 Mobilnosť:mobilita 
@@ -5864,26 +5778,26 @@ Slovenská agentúra pre rozvoj investícií a obchodu:SARIO
 1 Ursae Minoris:Polárka 
 Alpha Ursae Minoris:Polárka 
 SAO 308:Polárka 
-HD 8890:Polárka 
 Ješitnosť:márnomyseľnosť 
+HD 8890:Polárka 
 Juvenalis:Iuvenalis 
 Sprejer:graffiti 
 Liptovský Hrádok-Dovalovo:Dovalovo 
 Biológia druhu:bionómia 
 Sebaistota:sebadôvera 
 Samodôvera:sebadôvera 
-Sebavedomosť:sebadôvera 
 Namyslenosť:márnomyseľnosť 
+Sebavedomosť:sebadôvera 
 Samoľúbosť:márnomyseľnosť 
-Primadonskosť:márnomyseľnosť 
 Vysokomyseľnosť:márnomyseľnosť 
+Primadonskosť:márnomyseľnosť 
 Velikášstvo:márnomyseľnosť 
-Nafúkanosť:márnomyseľnosť 
 Nadutosť:márnomyseľnosť 
-Horenososť:márnomyseľnosť 
+Nafúkanosť:márnomyseľnosť 
 Horedržanosť:márnomyseľnosť 
-Bohorovnosť:márnomyseľnosť 
+Horenososť:márnomyseľnosť 
 Napuchrenosť:márnomyseľnosť 
+Bohorovnosť:márnomyseľnosť 
 Povýšenosť:márnomyseľnosť 
 Povýšeneckosť:márnomyseľnosť 
 Nadriadenosť:nadradenosť 
@@ -5899,8 +5813,8 @@ SN 437:Geminga
 Nymphalidae:Babôčkovité 
 Goodfellas:Mafiáni 
 Šváby:Šváb 
-Pošvatka:pošvatky 
 Plecoptera:pošvatky 
+Pošvatka:pošvatky 
 Perlodea:pošvatky 
 Saltatoria:rovnokrídlovce 
 Modlivka:modlivky 
@@ -5919,8 +5833,8 @@ Hmyzožravosť:mäsožravosť
 Insektivornosť:mäsožravosť 
 Mäsožravý živočích:mäsožravosť 
 Karnivor:mäsožravosť 
-Karnivorný živočích:mäsožravosť 
 Karnivornosť:mäsožravosť 
+Karnivorný živočích:mäsožravosť 
 Zoofágny živočích:mäsožravosť 
 Hmyzožravý živočích:mäsožravosť 
 Insektivor:mäsožravosť 
@@ -5933,12 +5847,11 @@ Orthoptera:rovnokrídlovce
 Kobylky:Kobylka 
 Koníky:Koník 
 Myjava (rozlišovacia stránka):Myjava 
-T-54:T-55 
 Prokyon:Prokyón 
 Softair:Airsoft 
 Dušan Vančo:Foolk 
-Prostoduchosť:naivita 
 Naivný:Naivita 
+Prostoduchosť:naivita 
 Prostomyseľnosť:naivita 
 Prostodušnosť:naivita 
 Nadzmyslový:Nadzmyslovosť 
@@ -5946,9 +5859,9 @@ Gerzeh:Gerza
 Ohraničovanie:ohraničenie 
 Napodobenie:napodobovanie 
 Napodobňovanie:napodobovanie 
-Opičenie sa:napodobovanie 
-Imitácia:imitovanie 
 Navigovanie:Navigácia 
+Imitácia:imitovanie 
+Opičenie sa:napodobovanie 
 Prehliadnutie:prehliadanie 
 Prezeranie:Prehliadanie 
 Prezretie:prehliadanie 
@@ -5961,11 +5874,11 @@ Nepodložený:Nepodloženosť
 Neológovia:Neológ 
 Nemenlivosť:nemennosť 
 Nepremennosť:nemennosť 
-Invariabilnosť:nemennosť 
-Fixnosť:nemennosť 
 Invariabilita:nemennosť 
-Novoscholasticizmus:novoscholastika 
+Fixnosť:nemennosť 
+Invariabilnosť:nemennosť 
 Neoscholasticizmus:novoscholastika 
+Novoscholasticizmus:novoscholastika 
 Nominovanie:nominácia 
 Nestorianizmus:nestoriánstvo 
 Neurčitý:Neurčitosť 
@@ -5976,8 +5889,8 @@ Aphaniptera:Blchy
 Blcha:blchy 
 Phasmatodea:pakobylky 
 Madonna (speváčka):Madonna 
-Naliehavosť:potrebnosť 
 Nutnosť:Potrebnosť 
+Naliehavosť:potrebnosť 
 Normálnosť:normalita 
 Nápravno-výchovné zariadenie:Väznica 
 Ústav na výkon trestu odňatia slobody:väznica 
@@ -6000,8 +5913,8 @@ Chilopoda:Stonôžky
 Severné Savo:Pohjois-Savo 
 Južné Savo:Etelä-Savo 
 Južná Karélia:Etelä-Karjala 
-Stredné Fínsko:Keski-Suomi 
 Severná Karélia:Pohjois-Karjala 
+Stredné Fínsko:Keski-Suomi 
 Severné Pohjanmaa:Pohjois-Pohjanmaa 
 Tauónové neutríno:Neutríno 
 Orebič:Orebić 
@@ -6019,8 +5932,8 @@ Common.css:MediaWiki:Common.css
 Monobook.js:MediaWiki:Monobook.js 
 Common.js:MediaWiki:Common.js 
 Xavier Hernández Creus:Xavi 
-Xavier Hernández:Xavi 
 Xavi Hernández:Xavi 
+Xavier Hernández:Xavi 
 Vulkanoidy:vulkanoid 
 Mariánske ostrovy:Mariány 
 Fínska hokejová liga:SM-liiga 
@@ -6035,8 +5948,8 @@ Histrión:histriónstvo
 Hymenoptera:Blanokrídlovce 
 Mahábharáta:Mahábhárata 
 Retrívre:Retríver 
-Prinášač:Retríver 
 Prinášače:Retríver 
+Prinášač:Retríver 
 Spolková republika Nemecko:Nemecko 
 Tepelná energia:Teplo 
 Main:Mohan 
@@ -6044,8 +5957,8 @@ Japonský jen:Jen
 Luís Enrique Martínez Rodríguez:Neco 
 Krásavica na Dunaji:Bratislava 
 CSKA Moskva:CSKA 
-Bipedný:Bipédia 
 Dvojnožec:bipédia 
+Bipedný:Bipédia 
 Inc.:Inc 
 EUROPOL:Europol 
 Eurodac:EURODAC 
@@ -6068,9 +5981,6 @@ Königswarte:Pottenburg
 Kráľovská vyhliadka:Pottenburg 
 Konigswarte:Pottenburg 
 Zemplínsky ostrov:zemplinikum 
-STS 82:STS-82 
-HST SM-2:STS-82 
-HST SM-1:STS-61 
 Lambda Orionis:Heka 
 Bilingválnosť:Bilingvizmus 
 Powiat Krosno:Krosno 
@@ -6116,13 +6026,12 @@ Kremičitany:Kremičitan
 Trieste:Terst 
 Abalienácia:Alienácia 
 Šablóna:Col-begin:Šablóna:Stĺpce-začiatok 
-Šablóna:Col-2:Šablóna:Stĺpce-2 
 Šablóna:Col-end:Šablóna:Stĺpce-koniec 
 Odôvodnený:Odôvodnenosť 
 Odchylnosť:rozdielnosť 
-Inosť:inakosť 
 Ontologický:Ontologickosť 
 Magnát:Veľmož 
+Inosť:inakosť 
 Cchinval:Cchinvali 
 Curia:kúria 
 Andulka vlnkovaná:Papagájec 
@@ -6161,25 +6070,24 @@ Aporocactus:Disocactus
 Linkedin:LinkedIn 
 OpenBC:Xing 
 Open Business Club:Xing 
-Wikipédia:Žiadosť o práva správcu/Wizzard (checkuser):Wikipédia:Hlasovania/CheckUser/Wizzard 
 Aporocereus:Disocactus 
 Bonifazia:Disocactus 
 Chiapasia:Disocactus 
 Disisocactus:Disocactus 
 Disocereus:Disocactus 
-Nopalxochia:Disocactus 
-Lobeira:Disocactus 
 Mediocereus:Disocactus 
+Lobeira:Disocactus 
+Nopalxochia:Disocactus 
 Pseudonopalxochia:Disocactus 
 Trochilocactus:Disocactus 
 Wittia:Disocactus 
 Wittiocactus:Disocactus 
 Anhalonium:Ariocarpus 
 Neogomesia:Ariocarpus 
-Neogomezia:Ariocarpus 
 Roseocactus:Ariocarpus 
-Stromatocactus:Ariocarpus 
+Neogomezia:Ariocarpus 
 Maierocactus:Astrofyt 
+Stromatocactus:Ariocarpus 
 Haseltonia:Hlavovec 
 Neodawsonia:Hlavovec 
 Pilocereus:Hlavovec 
@@ -6191,30 +6099,29 @@ Mammalia:Cicavce
 Srb:Srbi 
 Ohyb vlnenia:Difrakcia 
 Bulhar:Bulhari 
-Rakúšan:Rakúšania 
 Rumun:Rumuni 
+Rakúšan:Rakúšania 
 Recyklizácia:Recyklácia 
 Akersia:Kleistokaktus 
 Bolivicereus:Kleistokaktus 
 Borzicactella:Kleistokaktus 
 Borzicactus:Kleistokaktus 
 Borzicereus:Kleistokaktus 
-Cephalocleistocactus:Kleistokaktus 
 Cleistocereus:Kleistokaktus 
-Demnosa:Kleistokaktus 
+Cephalocleistocactus:Kleistokaktus 
 Clistanthocereus:Kleistokaktus 
+Demnosa:Kleistokaktus 
 Gymnanthocereus:Kleistokaktus 
 Hildewintera:Kleistokaktus 
 Maritimocereus:Kleistokaktus 
 Pseudoechinocereus:Kleistokaktus 
-Seticleistocactus:Kleistokaktus 
 Seticereus:Kleistokaktus 
+Seticleistocactus:Kleistokaktus 
 Winteria:Kleistokaktus 
 Winterocereus:Kleistokaktus 
 Pilocopiapoa:Copiapoa 
-Inia geoffrensis:Inia 
 Inia amazonská:Inia 
-STS 109:STS-109 
+Inia geoffrensis:Inia 
 Čnosť:cnosť 
 Paludžanka:Palúdžanka 
 Buzuq:Buzuk 
@@ -6232,11 +6139,11 @@ Korytnačie ostrovy:Galapágy
 Autonomistické hnutie:autonomizmus 
 Aulacothele:Coryphantha 
 Cumarinia:Coryphantha 
-Lepidocoryphantha:Coryphantha 
-Roseia:Coryphantha 
 Glandulifera:Coryphantha 
-Cephalocereus:Hlavovec 
+Roseia:Coryphantha 
+Lepidocoryphantha:Coryphantha 
 Astrophytum:Astrofyt 
+Cephalocereus:Hlavovec 
 Cereus:Fakľovec 
 Cleistocactus:Kleistokaktus 
 Vačkovec:vačkovce 
@@ -6269,17 +6176,16 @@ Gravidnosť:gravidita
 Samodruhosť:gravidita 
 Ťaršenosť:gravidita 
 Brezivosť:gravidita 
-Kotnosť:gravidita 
 Teľnosť:gravidita 
-Žrebnosť:gravidita 
-Nahúkanosť:gravidita 
+Kotnosť:gravidita 
 Prasnosť:gravidita 
+Nahúkanosť:gravidita 
+Žrebnosť:gravidita 
 Nabehanosť:gravidita 
 Nalámanosť:gravidita 
 Nabranosť:gravidita 
 Tisanovka:Tisoňovka 
 Wikipédia:Byrokrat:Wikipédia:Byrokrati 
-HST SM-3B:STS-109 
 Schon:Schön 
 Lopatov potok:Lopatov 
 Slow fox:Slowfox 
@@ -6298,13 +6204,13 @@ Okcitánske jazyky:okcitánčina
 Akordeonista:Akordeón 
 Digital video recorder:DVR 
 Čerňovice (okres Plzeň-sever):Čerňovice 
-PVR:DVR 
 Personal video recorder:DVR 
+PVR:DVR 
 Padajúca hviezda:meteor 
 Théta Eridani:Acamar 
 Močarina:Močiar 
-Močarisko:močiar 
 Bažina:močiar 
+Močarisko:močiar 
 Haumea II:Namaka 
 Sv. Atanáz:Atanáz 
 Praha-Lysolaje:Lysolaje 
@@ -6313,8 +6219,8 @@ Praha-Satalice:Satalice
 Muzikológ:Muzikológia 
 Etnomuzikológ:Etnomuzikológia 
 Evandro Adauto da Silva:Adauto 
-Teak:Tík 
 Tíkové drevo:tík 
+Teak:Tík 
 Tectona grandis:tík 
 Švajčiarska konfederácia:Švajčiarsko 
 Imitátor:imitovanie 
@@ -6322,14 +6228,14 @@ Karri:kari
 Lux (vysávač):vysávač 
 Mraznička:Chladnička 
 Absinth:Absint 
-Warty Warthog:Ubuntu#Verzie 
 Hoary Hedgehog:Ubuntu#Verzie 
-Dapper Drake:Ubuntu#Verzie 
+Warty Warthog:Ubuntu#Verzie 
 Breezy Badger:Ubuntu#Verzie 
+Gutsy Gibbon:Ubuntu#Verzie 
 Feisty Fawn:Ubuntu#Verzie 
 Edgy Eft:Ubuntu#Verzie 
-Gutsy Gibbon:Ubuntu#Verzie 
 Hardy Heron:Ubuntu#Verzie 
+Dapper Drake:Ubuntu#Verzie 
 Jaunty Jackalope:Ubuntu#Verzie 
 Intrepid Ibex:Ubuntu#Verzie 
 Grumpy Groundhog:Ubuntu 
@@ -6368,14 +6274,13 @@ Kocelj:Koceľ
 Gozil:Koceľ 
 Chozil:Koceľ 
 Zöstere:Susteren 
-Chezul:Koceľ 
 Chezilo:Koceľ 
+Chezul:Koceľ 
 Roostere:Roosteren 
 Warszawski Indeks Giełdowy:WIG 
 Menštruačný cyklus:Menštruácia 
 Gerusia:Gerúzia 
 Domenico Zampieri:Domenichino 
-Musiq 1:Musiq1 
 Operácia Northwoods:Northwoods 
 Víza:Vízum 
 Bezzubé veľryby:kosticovce 
@@ -6389,11 +6294,11 @@ Neobalenidae:Balaenoidea
 Neobalaenidae:Balaenoidea 
 Caperea marginata:Balaenoidea 
 Caperea:Balaenoidea 
-Vráskavcovité:Eschrichtiidae 
 Vráskavce:vráskavec 
-Veľryba trpasličia:Balaenoidea 
 Veľryba malá:Balaenoidea 
+Vráskavcovité:Eschrichtiidae 
 Polus Center:Polus 
+Veľryba trpasličia:Balaenoidea 
 Plavkyňa:Plávanie 
 Klec (okres Jindřichův Hradec):Klec 
 Základný:Základnosť 
@@ -6427,9 +6332,9 @@ Choanocyty:Choanocyt
 Pracovný odbor:profesia 
 Nevoľník:nevoľníctvo 
 Keynesiánska ekonómia:keynesovstvo 
+Keynesizmus:keynesovstvo 
 Keynesianizmus:Keynesovstvo 
 Keynesiánstvo:keynesovstvo 
-Keynesizmus:keynesovstvo 
 Keynesovská ekonómia:keynesovstvo 
 Keynesovská teória:keynesovstvo 
 Keynesovská škola:keynesovstvo 
@@ -6438,9 +6343,9 @@ Microbody:mikroteliesko
 Kanaanci:Kanaánci 
 Shetlandské ostrovy:Shetlandy 
 Republika Tatarstan:Tatársko 
+Poštátnenie:znárodnenie 
 Poštátňovanie:znárodnenie 
 Znárodňovanie:znárodnenie 
-Poštátnenie:znárodnenie 
 Nacionalizácia:znárodnenie 
 Sebaurčenie:samourčenie 
 Samourčovanie:samourčenie 
@@ -6476,8 +6381,8 @@ Plavebný kanál:Prieplav
 Istrijský polostrov:Istria 
 Virtuozita:virtuóz 
 Aristotelés:Aristoteles 
-Eskimák:Inuiti 
 Eskimáci:Inuiti 
+Eskimák:Inuiti 
 Inuit:Inuiti 
 Kezmarok:Kežmarok 
 Oblačnosť:Oblak 
@@ -6497,7 +6402,6 @@ Boloňa:Bologna
 Sebaukájanie:Masturbácia 
 Psychedelický:Psychedelickosť 
 S & M:S&M 
-Full HD:1080p 
 Denáry:denár 
 Jagdpanzer 38(t):Hetzer 
 Panzerjäger 38(t):Hetzer 
@@ -6520,16 +6424,15 @@ Hala Finlandia:Finlandia-talo
 Cappuccino:Kapučíno 
 Peugeot S.A.:Peugeot 
 Čarmander:Charmander 
-MPEG4:MPEG-4 
 DVD Audio:DVD-Audio 
 DVD-A:DVD-Audio 
-Video DVD:DVD-Video 
 Video-DVD:DVD-Video 
 DVD disk:DVD 
+Video DVD:DVD-Video 
 Hi-fi:Hi-Fi 
 High fidelity:Hi-Fi 
-Kleiofán:kleofán 
 Cramerit:Kleofán 
+Kleiofán:kleofán 
 VW:Volkswagen 
 Čarmeleon:Charmeleon 
 Čarizard:Charizard 
@@ -6538,9 +6441,8 @@ Salónik:Salón
 Vodnateľnosť:vodnatieľka 
 Hydropsia:vodnatieľka 
 IMI Uzi:Uzi 
-.7z:7-Zip 
-.DMG:.dmg 
 Zvar:Zváranie 
+.DMG:.dmg 
 .NET Framework:.NET 
 .qt:QuickTime 
 MPa:Pascal 
@@ -6555,8 +6457,8 @@ Ciliophora:Nálevníky
 Rétorstvo:rétorika 
 Variabilita:premenlivosť 
 Variabilnosť:premenlivosť 
-Premennosť:premenlivosť 
 Menlivosť:premenlivosť 
+Premennosť:premenlivosť 
 Nestálosť:premenlivosť 
 Meňavosť:premenlivosť 
 Menistosť:premenlivosť 
@@ -6566,8 +6468,8 @@ Labuť (rozlišovacia stránka):labuť
 Transcedentálny:Transcedentálnosť 
 Slovak Internet eXchange:SIX 
 Slovak Internet Exchange:SIX 
-Tsakončina:Cakončina 
 Tsakončania:Cakóni 
+Tsakončina:Cakončina 
 Romaioi:Rómaioi 
 Vlachovia:Vlasi 
 Vlach:Vlasi 
@@ -6586,8 +6488,8 @@ Etiópska federatívna demokratická republika:Etiópia
 Terebľa:Trebeľa 
 Eurové mince:Eurominca 
 ALE:Ale 
-Euromince:Eurominca 
 Eurová minca:eurominca 
+Euromince:Eurominca 
 Eurová bankovka:eurobankovka 
 Eurové bankovky:eurobankovka 
 Kupronikel:Medinikel 
@@ -6603,7 +6505,6 @@ Tetrazen:Tetrazén
 Leugaricio:Laugaricio 
 Leukaristos:Laugaricio 
 Čeľjabinsk:Čeľabinsk 
-Kvant 1:Kvant-1 
 Odliv:príliv 
 Sídlisko Tarča:Tarča 
 Zbojníctvo:zbojník 
@@ -6612,8 +6513,8 @@ Pretaktovávanie:Pretaktovanie
 Latgalovia:Latgalci 
 Latgali:Latgalci 
 Letgalovia:Latgalci 
-Výbežok lopatky:nadplecok 
 Akromion:nadplecok 
+Výbežok lopatky:nadplecok 
 Nadpažok:nadplecok 
 Halové prvky:Halogény 
 Halový prvok:Halogény 
@@ -6625,11 +6526,11 @@ Pevné presvedčenie:presvedčenie
 Podmienený:podmienenosť 
 Vytváranie pojmov:pojmotvorba 
 Tvorenie pojmov:pojmotvorba 
-Acanthuridae:Tŕňovcovité 
 Tŕnistochvostovité:Tŕňovcovité 
+Acanthuridae:Tŕňovcovité 
 Apogonidae:Apogonovité 
-Ľaden:Január 
 Malý sečeň:Február 
+Ľaden:Január 
 Hrudeň:September 
 Seveň:Október 
 Studeň:November 
@@ -6704,15 +6605,15 @@ Validita:platnosť
 Právna platnosť:platnosť 
 Prolongovanie:prolongácia 
 Korektnosť:správnosť 
-Exaktnosť:presnosť 
 Precíznosť:presnosť 
-Posvätné:Posvätnosť 
+Exaktnosť:presnosť 
 Profánny:Profánnosť 
+Posvätné:Posvätnosť 
 Prípravok:Preparát 
 Živiny:živina 
 Protichodný:Protichodnosť 
-Protikladnosť:protiklad 
 Antagonistickosť:antagonizmus 
+Protikladnosť:protiklad 
 Expresnosť:expres 
 Frišnosť:čerstvosť 
 Rapídnosť:rýchlosť 
@@ -6723,22 +6624,22 @@ Sámovia:Saamovia
 Afroameričania:Afroameričan 
 Prisudzovanie:prisúdenie 
 Konzervácia:konzervovanie 
-Konzervová plechovica:plechovka 
 Konzervová plechovka:plechovka 
+Konzervová plechovica:plechovka 
 Zeminy:zemina 
 Sloväni:Sloveni 
 Radiálny:Radiálnosť 
 Nežnosť:neha 
 Gobiidae:Býčkovité 
-Ajtólia:Aitólia 
 Aitolia:Aitólia 
+Ajtólia:Aitólia 
 Stará Podlužianka:Podlužianka 
 Infrared Astronomical Satelite:IRAS 
 Fokis:Fókis 
 Farba (heraldika):erb#Tinktúry 
 Usporiadanie figúr (heraldika):erb 
-Čiara (heraldika):erb 
 Zviera (heraldika):erb 
+Čiara (heraldika):erb 
 Aphidinea:Vošky 
 Aphidiinae:Vošky 
 Voška:Vošky 
@@ -6758,11 +6659,11 @@ Rhaita:Gajta
 Mizmar:Mizmár 
 Midžuiz:Midžwiz 
 Skrytý:Skrytie 
+Schovanie:skrytie 
 Skrývanie:Skrytie 
 Schovávanie:skrytie 
-Schovanie:skrytie 
-Ukrývanie:skrytie 
 Ukrytie:skrytie 
+Ukrývanie:skrytie 
 A-:An 
 Saponifikácia:Zmydelňovanie 
 Hormóny:hormón 
@@ -6780,8 +6681,8 @@ Komička:Komik
 Kikuju:Kikujčina 
 Poskytovateľ franchisingu:franchising 
 Poskytovateľ franšízy:franchising 
-Franchise-poskytovateľ:franchising 
 Franchisor:franchising 
+Franchise-poskytovateľ:franchising 
 Prijímateľ franchisingu:franchising 
 Nadobúdateľ franchisingu:franchising 
 Prijímateľ franšízy:franchising 
@@ -6789,8 +6690,8 @@ Nadobúdateľ franšízy:franchising
 Franchise-odberateľ:franchising 
 Franchisista:franchising 
 Franchisee:franchising 
-Franchise:franšíza 
 Schodište:Schodisko 
+Franchise:franšíza 
 Frančíza:franšíza 
 Skateboard:Skejtbord 
 Oceľobetón:Železobetón 
@@ -6809,8 +6710,8 @@ Zopätie:spínanie
 Didaxia:didaktickosť 
 Didaktizmus:didaktickosť 
 Vinš:Blahoželanie 
-Blahoprianie:blahoželanie 
 Gratulácia:blahoželanie 
+Blahoprianie:blahoželanie 
 Rock & roll:Rokenrol 
 Hofier:Želiar 
 Hofer:Želiar 
@@ -6833,8 +6734,8 @@ Andromacha:Andromaché
 Superaditivita:superaditívnosť 
 Sukcesívnosť:sukcesia 
 Subjektívnosť:subjektivita 
-Spojovanie:spojenie 
 Spojovateľnosť:spájateľnosť 
+Spojovanie:spojenie 
 Pesticídy:Pesticíd 
 Mocnosti:mocnosť 
 Antropofág:antropofágia 
@@ -6850,15 +6751,14 @@ Neokeynesovská ekonómia:neokeynesovstvo
 Neokeynesiánska ekonómia:neokeynesovstvo 
 Chronicita:chronickosť 
 Omerta:Omertà 
-AH-64 Apache:AH-64 
 Lyža:Lyže 
 Turkológ:Turkológia 
 Kofinálnosť:kofinál 
 Jiu jitsu:džiu-džicu 
 Jiu-jitsu:džiu-džicu 
 Arius:Areios 
-Hromadný oznamovací prostriedok:masmédium 
 Prostriedok hromadnej komunikácie:masmédium 
+Hromadný oznamovací prostriedok:masmédium 
 Prostriedok masovej komunikácie:masmédium 
 Masové médium:masmédium 
 Kalvíni:Kalvinizmus 
@@ -6869,8 +6769,8 @@ Vysporadúvanie:vyrovnanie
 Bobová dráha:boby 
 Justinus Martýr:Justinus 
 AllMusic:Allmusic 
-Kreovanie:kreácia 
 Vytvorenie:tvorba 
+Kreovanie:kreácia 
 Vytváranie:tvorba 
 Utvorenie:tvorba 
 Vyrábanie:výroba 
@@ -6881,8 +6781,8 @@ En gros:veľkoobchod
 Maloobchodník:maloobchod 
 Exkrečný:exkrécia 
 Somatickosť:sóma 
-Antisomatický:sóma 
 Somatický:sóma 
+Antisomatický:sóma 
 Antisomatickosť:sóma 
 Tematizovanie:tematizácia 
 Poľnohospodárska fyzika:Agrofyzika 
@@ -6933,8 +6833,8 @@ Cibona Tower:Cibona
 Spájkovaný spoj:Spájkovanie 
 Nitový spoj:Nitovanie 
 Jurgów:Jurgov 
-Kúnovia:Kumáni 
 Polovci:Kumáni 
+Kúnovia:Kumáni 
 Šchem:Náblus 
 Bernoláková:Bernolák 
 Tatarková:Tatarka 
@@ -6947,8 +6847,8 @@ Mliečny cukor:Laktóza
 Niveau:úroveň 
 Nivó:úroveň 
 Taj:tajomstvo 
-Tajnosť:tajomstvo 
 Slovenský Meder:Palárikovo 
+Tajnosť:tajomstvo 
 Stredisko:centrum 
 Ústredňa:centrála 
 Nadobúdanie:získanie 
@@ -6983,7 +6883,6 @@ Kopenhagen:Kodaň
 Adamec (priezvisko):Adamec 
 Adamcová:Adamec 
 Turbidimetra:Nefelometria 
-Dual-stack:IPv6 
 Butrinti:Butrint 
 Kabitka:kibitka 
 Ďuricová:Ďurica 
@@ -7026,8 +6925,8 @@ Biringerová:Biringer
 Hálová:Hála 
 Hochschornerová:Hochschorner 
 Riszdorferová:Riszdorfer 
-Bivalvia:Lastúrniky 
 Chordata:Chordáty 
+Bivalvia:Lastúrniky 
 Červy:Červ 
 Monocotyledonopsida:Jednoklíčnolistové 
 Monocotyledoneae:Jednoklíčnolistové 
@@ -7047,8 +6946,8 @@ Obšutová:Obšut
 Malachovská:Malachovský 
 Pašeková:Pašek 
 Pavlikovská:Pavlikovský 
-Narcissus:Narcis 
 Uhorský štát:Uhorsko 
+Narcissus:Narcis 
 Štátne cirkevníctvo:cézaropapizmus 
 Bartovič (priezvisko):Bartovič 
 Bartovičová:Bartovič 
@@ -7058,10 +6957,10 @@ Anderleová:Anderle
 Matiašková:Matiaško 
 Habšudová:Habšuda 
 Nezvalová:Nezval 
-Almášiová:Almáši 
 Almáši (priezvisko):Almáši 
-Červenoočko:Eugléna 
+Almášiová:Almáši 
 Euglena:Eugléna 
+Červenoočko:Eugléna 
 Zorbovanie:zorbing 
 Sphering:zorbing 
 Air ball:airball 
@@ -7075,8 +6974,8 @@ Plastidy:plastid
 Sabotér:sabotáž 
 Sabotovanie:sabotáž 
 Qutb:kutub 
-Kotb:kutub 
 Koteb:kutub 
+Kotb:kutub 
 Čaplovič (priezvisko):Čaplovič 
 Čaplovičová:Čaplovič 
 Haláková:Halák 
@@ -7102,8 +7001,8 @@ Bosovanie:bosáž
 Kúzelníctvo:kúzelník 
 Iluzionik:iluzionista 
 Forwardový kontrakt:forward 
-Forwardová operácia:forward 
 Forwardový obchod:forward 
+Forwardová operácia:forward 
 Futurita:futures 
 Kontrakt futures:futures 
 Futuritný kontrakt:futures 
@@ -7144,8 +7043,8 @@ Outlet store:outlet
 Windows Media Video:WMV 
 MKV:Matroska 
 Bükkium:Bükkikum 
-Ihličnan:Borovicorasty 
 Ihličnaté stromy:Borovicorasty 
+Ihličnan:Borovicorasty 
 Ihličnany:Borovicorasty 
 Bbl:Barel 
 Kp:Kilopond 
@@ -7154,8 +7053,8 @@ Ghándíva:Gándíva
 Chirokitia:choirokoitia 
 Hacking:Haker 
 Glubčice:Głubczyce 
-Hlubčice:Głubczyce 
 Už:Uh 
+Hlubčice:Głubczyce 
 Glivice:Gliwice 
 Oxidán:Voda 
 A-HA:a-ha 
@@ -7174,39 +7073,33 @@ Stomochorda:Polochordáty
 Insecta:Hmyz 
 Stratford nad Avonou:Stratford-upon-Avon 
 Diplodokus:Diplodocus 
-Chandrayaan-1:Čandraján-1 
 Billboard (magazine):Billboard 
-Čandraján 1:Čandraján-1 
 Adžarská autonómna sovietska socialistická republika:Adžarsko 
 Donžon:donjon 
-STS 32:STS-32 
-STS 50:STS-50 
-STS 89:STS-89 
-STS 87:STS-87 
 Kotovanie:kótovanie 
 Šaľa nad Váhom:Šaľa 
-Schala:Šaľa 
 Vágsellye:Šaľa 
+Schala:Šaľa 
 Galánta:Galanta 
 Gallandau:Galanta 
 Nyitra:Nitra 
 Neutra:Nitra 
-Parkáň:Štúrovo 
 Párkány:Štúrovo 
 Gockern:Štúrovo 
 Komorn:Komárno 
+Parkáň:Štúrovo 
 Losonc:Lučenec 
+Lizenz:Lučenec 
 Leutschau:Levoča 
 Lőcse:Levoča 
 Zólyom:Zvolen 
-Lizenz:Lučenec 
-Breznóbánya:Brezno 
 Altsohl:Zvolen 
-Briesen:Brezno 
+Breznóbánya:Brezno 
 Bries:Brezno 
+Briesen:Brezno 
 Kremnitz:Kremnica 
-Körmöcbánya:Kremnica 
 Cremnicium:Kremnica 
+Körmöcbánya:Kremnica 
 Bártfa:Bardejov 
 Bartfeld:Bardejov 
 Thot:thovt 
@@ -7217,9 +7110,9 @@ Szered:Sereď
 Sered:Sereď 
 Senitz:Senica 
 Szenice:Senica 
-Malacka:Malacky 
 Nagyszombat:Trnava 
 Tyrnavia:Trnava 
+Malacka:Malacky 
 Camptodactylia:Kamptodaktýlia 
 Gonochorista:Gonochorizmus 
 Merger:fúzia 
@@ -7246,14 +7139,13 @@ Vendovia:vendi
 Chladni:Chladný 
 Chladná:Chladný 
 Terénny automobil:Off-road 
-Venera 13:Venera-13 
 Rock and Roll:rokenrol 
 Štyrsko:Štajersko 
 Bernolákova spisovná slovenčina:bernolákovčina 
 Bernolákova kodifikácia spisovnej slovenčiny:bernolákovčina 
 Fabaceae:Bôbovité 
-Ševčik:Ševčík 
 Ševčíková:Ševčík 
+Ševčik:Ševčík 
 Trvalka:Perena 
 Kranjsko:Kraňsko 
 Kransko:Kraňsko 
@@ -7290,10 +7182,10 @@ Totalizmus:totalitarizmus
 Kontinentálny šelf:šelf 
 Hořice v Podkrkonoší:Hořice 
 Napájačka:napájač 
-9 Canis Maioris:Sírius 
 9 Canis Majoris:Sírius 
-Alfa Canis Majoris:Sírius 
+9 Canis Maioris:Sírius 
 Alfa Canis Maioris:Sírius 
+Alfa Canis Majoris:Sírius 
 Alpha Canis Maioris:Sírius 
 SAO 151881:Sírius 
 Teverja:Tverja 
@@ -7325,7 +7217,6 @@ Skorpény:skorpénotvaré
 Ostrieže:ostriežotvaré 
 Skorpénovité:ropušnicovité 
 Chontamenti:Chontamentej 
-STS 128:STS-128 
 Dolomitská ladinčina:ladinčina 
 Bratislavský folkový orchester:B.F.O. 
 Stratocumulus:Stratokumulus 
@@ -7336,11 +7227,11 @@ Adverbiá:Príslovka
 Veľkoplošná reklamná tabuľa:bilbord 
 Bilbórd:bilbord 
 Doo wop:Doo-wop 
-Ambient goa:Psybient 
 Ambient psy:Psybient 
+Ambient goa:Psybient 
 Psychedelic ambient:Psybient 
-Psy chillout:Psybient 
 Psychill:Psybient 
+Psy chillout:Psybient 
 Ambient psytrance:Psybient 
 Downtempo psy:Psybient 
 Psyambient:Psybient 
@@ -7379,8 +7270,8 @@ Condominium:Kondomínium
 Binárna hviezda:dvojhviezda 
 Numerále:číslovka 
 Triple alliance:trojspolok 
-Triplealliance:trojspolok 
 Trojaliancia:trojspolok 
+Triplealliance:trojspolok 
 Sylaba:slabika 
 Fluid:fluidum 
 Slovnikárstvo:lexikografia 
@@ -7401,8 +7292,6 @@ Kocianová:Kocian
 Kociánová:Kocián 
 Enteogen:Enteogén 
 Dionysos:Dionýzos 
-3C 398:W49B 
-Šablóna:Convert/mi/h:Šablóna:Convert/mph 
 Giraffidae:Žirafovité 
 Sonografia:Ultrasonografia 
 Badminton:Bedminton 
@@ -7437,14 +7326,14 @@ Hirundinidae:Lastovičkovité
 Masírovanie:masáž 
 Rád hospitalitov:hospitaliti 
 Gumotlač:Flexografia 
-Ekvivalent jadra:nukleoid 
 Jadrový ekvivalent:nukleoid 
+Ekvivalent jadra:nukleoid 
 Nukleoplazmatická oblasť:nukleoid 
 Centrálna oblasť:nukleoid 
 Lindenmayerov systém:L-systém 
 Modelky:Modelka 
-Æsir:Asovia 
 Áss:Asovia 
+Æsir:Asovia 
 Súdružka:Súdruh 
 Rádioaktívnosť:rádioaktivita 
 Singapúr:Singapur 
@@ -7452,7 +7341,6 @@ Vcela:Včela
 Eddické piesne:Edda 
 Malgašská republika:Madagaskar 
 Náslovný rým:aliterácia 
-STS 129:STS-129 
 Mt. Erebus:Erebus 
 Timothy Zachery Mosley:Timbaland 
 Parta:Partia 
@@ -7472,8 +7360,8 @@ Konsenzuálne rozhodovanie:Konsenzus
 Kolami:Kolámí 
 Skrótum:Miešok 
 Staré indoárijské jazyky:sanskrit 
-Mírpurská pandžábčina:pandžábčina 
 Západná pandžábčina:pandžábčina 
+Mírpurská pandžábčina:pandžábčina 
 Východná pandžábčina:pandžábčina 
 Kyrgyzština:kirgizština 
 SDR SDRAM:SDRAM 
@@ -7496,8 +7384,8 @@ Ulpius Cornelius Laelianus:Laelianus
 Symbian OS:Symbian 
 Fócios:Fotios 
 Švédske kráľovstvo:Švédsko 
-Nórske kráľovstvo:Nórsko 
 Fínska republika:Fínsko 
+Nórske kráľovstvo:Nórsko 
 Poľská republika:Poľsko 
 Taktit:Erlán 
 Vápenato-silikátový rohovec:Erlán 
@@ -7552,8 +7440,8 @@ Ortosie:Orthosie
 Pasitee:Pasithee 
 Psamate:Psamathe 
 Temisto:Themisto 
-Tyone:Thyone 
 Trymr:Thrymr 
+Tyone:Thyone 
 Plameniak:plameniakovité 
 Phoenicopteridae:plameniakovité 
 Polyribozóm:Ribozóm 
@@ -7592,10 +7480,9 @@ Megisti:Kastelorizo
 Špáratko:Špáradlo 
 Bogota, D.C.:Bogota 
 Santafé de Bogota:Bogota 
-AK47:AK-47 
 MKE Ankaragücü:Ankaragücü 
-Hansenova choroba:malomocenstvo 
 Deti:Dieťa 
+Hansenova choroba:malomocenstvo 
 Glomerulonephrititis:Glomerulonefritída 
 Expirácia:Exspirácia 
 Zápal obličkovej panvičky a obličky:pyelonefritída 
@@ -7654,13 +7541,13 @@ Strakaňa bambusová:temnurus
 Sojka modrohlavá:Gymnorhinus 
 Strakaňa čepcová:Platysmurus 
 Deroptyus:anaka 
-Amazoňan vejárový:anaka 
 Anaka hnedočelá:anaka 
+Amazoňan vejárový:anaka 
 Kakadu prilbatý:Callocephalon 
 Papagáj kakaduový:korela 
 Alexander fúzatý:korela 
-Papagáj nymfa:korela 
 Korela chocholíkatá:korela 
+Papagáj nymfa:korela 
 Papagájec vlnkavý:papagájec 
 Papagájik vlnkovaný:Papagájec 
 Prekyslenosť:Peracidita 
@@ -7675,16 +7562,16 @@ Akordeonistka:Akordeón
 Hobita:Hobiţa 
 Štíhlovka:užovkovité 
 Mudžáhid:Džihád 
-Mudžahíd:Džihád 
 Mudžahedín:Džihád 
+Mudžahíd:Džihád 
 Procházková:Procházka 
 Politička:Politik 
 Veľký ajatolláh:Ajatolláh 
 Álim:Ulamá 
 Tebibyte:Tebibajt 
+Mebibyte:Mebibajt 
 Petabyte:Petabajt 
 Exabyte:Exabajt 
-Mebibyte:Mebibajt 
 Zettabyte:Zettabajt 
 Yottabyte:Yottabajt 
 Pebibyte:Pebibajt 
@@ -7698,8 +7585,8 @@ Syntéza bielkovín:Proteosyntéza
 Syntéza proteínov:Proteosyntéza 
 Proteínsyntéza:Proteosyntéza 
 Izraelský štát:Izrael 
-Cílie:cílium 
 Brvy:Brva 
+Cílie:cílium 
 Larvy:Larva 
 Enteropeptidáza:Enterokináza 
 Indická republika:India 
@@ -7709,15 +7596,15 @@ Maltská republika:Malta
 Bangladéšska ľudová republika:Bangladéš 
 Bulharská republika:Bulharsko 
 Chorvátska republika:Chorvátsko 
-Iránska islamská republika:Irán 
 Andorrské kniežatstvo:Andorra 
+Iránska islamská republika:Irán 
 Portugalská republika:Portugalsko 
 Turecká republika:Turecko 
 Hákový kríž:Svastika 
 Aztéčtina:Nahuatl 
+Náwatl:Nahuatl 
 Náhuatl:Nahuatl 
 Italia:Taliansko 
-Náwatl:Nahuatl 
 Repubblica italiana:Taliansko 
 Rembrandt van Rijn:Rembrandt 
 Baptisti:Baptizmus 
@@ -7730,14 +7617,14 @@ Bipolárnosť:bipolarita
 Dvojpolárnosť:bipolarita 
 Dvojpólovosť:bipolarita 
 Osetínčina:osetčina 
-Manažérka:Manažér 
 Černigov:Černihiv 
+Manažérka:Manažér 
 Medvede:Ursida 
 Sudcovia:Sudca 
 Kristiania:Oslo 
 Anakláza:Diafora 
-Dotknutie:Dotyk 
 Dotýkanie:Dotyk 
+Dotknutie:Dotyk 
 Séleš:Síleš 
 Fenomenizmus:Fenomenalizmus 
 Botulín:Botulotoxín 
@@ -7749,8 +7636,8 @@ Chelmno:Chełmno
 Plock:Płock 
 Perečyn:Perečín 
 Peretschyn:Perečín 
-Perecin:Perečín 
 Perecseny:Perečín 
+Perecin:Perečín 
 Pereczyn:Perečín 
 Perečany:Perečín 
 Vitold:Vytautas 
@@ -7803,9 +7690,9 @@ Lipava:Liepāja
 Libau:Liepāja 
 Hermu polis megalé:Chemenu 
 Hermopolis Magna:Chemenu 
+Selé:Caru 
 Silé:Caru 
 Čaru:Caru 
-Selé:Caru 
 Kórejci:Kórejčania 
 Webová kamera:webkamera 
 Žuvacia guma:žuvačka 
@@ -7814,16 +7701,11 @@ Oberačka:Vinobranie
 Tchaj-ťi tchu:tchaj-ťi 
 Laurussia:Euramerika 
 Starý červený kontinent:Euramerika 
-A101:A-101 
-A.101:A-101 
-E-50:E50 
 GOLD:Gold 
 Vendský superkontinent:Pannotia 
 Rezekne:Rēzekne 
-Sat1:Sat.1 
-Sat 1:Sat.1 
-Pro 7:ProSieben 
 Pro7:ProSieben 
+Pro 7:ProSieben 
 Pro Sieben:ProSieben 
 NODE 3:Tranquility 
 Node-3:Tranquility 
@@ -7831,11 +7713,11 @@ Parfum:voňavka
 Parfém:voňavka 
 Parfín:voňavka 
 SWR:Südwestrundfunk 
-SWR2:Südwestrundfunk 
 SWR1:Südwestrundfunk 
+SWR2:Südwestrundfunk 
+SWR4:Südwestrundfunk 
 SWR3:Südwestrundfunk 
 DASDING:Südwestrundfunk 
-SWR4:Südwestrundfunk 
 SWR cont.ra:Südwestrundfunk 
 Líšeň:Brno-Líšeň 
 Koenigsegg Automotive:Koenigsegg 
@@ -7858,8 +7740,8 @@ Dicotyledoneae:Dvojklíčnolistové
 Magnoliopsida:magnólie 
 Liliopsida:Jednoklíčnolistové 
 Karasek:Karásek 
-Jacopo da Pontormo:Pontormo 
 Jacopo Carucci:Pontormo 
+Jacopo da Pontormo:Pontormo 
 Jacopo Pontormo:Pontormo 
 Squatter:squatting 
 Squater:squatting 
@@ -7874,9 +7756,9 @@ Slatina (okres Brno-mesto):Brno-Slatina
 Hypertextový odkaz:hypertext 
 SA:Sa 
 Kefallinia:Kefalonia 
-Kefallénia:Kefalonia 
 Keffalónia:Kefalonia 
 Kefalénia:Kefalonia 
+Kefallénia:Kefalonia 
 Útěchov u Brna:Brno-Útěchov 
 GamePort:Gameport 
 Game port:Gameport 
@@ -7912,17 +7794,17 @@ Egyptológ:Egyptológia
 Héliu polis:Iunu 
 Ptolemaiovská dynastia:Ptolemaiovci 
 Sympatikomimetikum:sympatomimetikum 
-Selkis:Selket 
 Selchis:Selket 
+Selkis:Selket 
 Selkhit:Selket 
 Selkit:Selket 
-Selqet:Selket 
 Serkhet:Selket 
+Selqet:Selket 
 Serqet:Selket 
 Serket-hetyt:Selket 
 Serquet:Selket 
-Amunet:Amaunet 
 Amauni:Amaunet 
+Amunet:Amaunet 
 Brno-juh:Brno-jih 
 Καρδίτσα:Karditsa 
 Mikojan:MiG 
@@ -7938,18 +7820,18 @@ The Untouchables:Untouchable
 Amhari:Amharci 
 METRO:Metro 
 Góa:Goa 
-Hariana:Harijána 
 Paňdžáb:Pandžáb 
-Manipur:Manípur 
+Hariana:Harijána 
 Méghálaj:Meghálaj 
-Meghalaja:Meghálaj 
+Manipur:Manípur 
 Meghálaja:Meghálaj 
+Meghalaja:Meghálaj 
 Mizóram:Mizorám 
 Nágáland:Nágsko 
 Mizoram:Mizorám 
+Rádžasthán:Radžastan 
 Rádžastán:Radžastan 
 Uttaráňčal:Uttarákhand 
-Rádžasthán:Radžastan 
 Tamilnád:Tamilnádu 
 Béngalúru:Bangalúr 
 Bengalúr:Bangalúr 
@@ -7984,10 +7866,10 @@ Konsonanty:spoluhláska
 Gitaristka:Gitara 
 Humoristka:Humor 
 Muzikologička:Muzikológia 
-Bulqiza:Bulqizë 
 Burreli:Burrel 
-Magalluf:Magaluf 
+Bulqiza:Bulqizë 
 Shagaluf:Magaluf 
+Magalluf:Magaluf 
 Shagalluf:Magaluf 
 Flautista:Flauta 
 Hokejista:Hokej 
@@ -7999,7 +7881,6 @@ Slobodný:slobodnosť
 Köln Stadion:RheinEnergieStadion 
 Causeria:causerie 
 Šablóna:Nbsp:Šablóna:Medzery 
-Šablóna:Ipa2:Šablóna:IPA2 
 Laurusia:Euramerika 
 Klasická sýrčina:Sýrčina 
 Athina:Atény 
@@ -8046,7 +7927,6 @@ Pándíčárí:Puttučéri
 Puducherry:Puttučéri 
 Pondicherry:Puttučéri 
 Pondichéry:Puttučéri 
-A.104:A104 
 Čapkovič (priezvisko):Čapkovič 
 Kaktusy:kaktus 
 Cactaceae:Opunciovité 
@@ -8062,12 +7942,11 @@ Astralón:Polyvinylchlorid
 Postavenie mimo hry:ofsajd 
 Šablóna:Welcome:Template:Vitajte 
 Blu ray:Blu-ray 
-MPEG-4 ASP:MPEG-4 
 Republika Mjanmarského zväzu:Mjanmarsko 
 Holographic Versatile Disc:HVD 
 Paštúni:Paštuni 
-Patáni:Paštuni 
 Pachtuni:Paštuni 
+Patáni:Paštuni 
 Tettigoniidae:Kobylkovité 
 Aboriginec:aborigén 
 Pickup:Pick-up 
@@ -8125,19 +8004,18 @@ Moaovité:moatvaré
 Žufaňa:Naberačka 
 Teplá Vltava:Vltava 
 Ejzenštejn:Eisenstein 
-Vecko:klozet 
 Vécko:Klozet 
+Vecko:klozet 
 Budár:záchod 
 Hajzeľ:hajzel 
 Kraftová:Kraft 
-Diomedaedae:Albatrosovité 
 Diomedeidae:Albatrosovité 
+Diomedaedae:Albatrosovité 
 Dinornithiformes:Moatvaré 
 Panteista:Panteizmus 
 Rôznopohlavnosť:gonochorizmus 
 Siam:Thajsko 
 Albánska republika:Albánsko 
-Portál:Fínsko/Obrázok:Portál:Fínsko/Obrázky 
 Gorilla:Gorila 
 Estuárium:estuár 
 Odstavec:odsek 
@@ -8148,8 +8026,8 @@ Rojkov:Stankovany
 Fourons:Voeren 
 Glycine:Sója 
 Senzitivita:Citlivosť 
-Senzitívnosť:citlivosť 
 Senzibilita:citlivosť 
+Senzitívnosť:citlivosť 
 Závody:závod 
 Slovakista:slovakistika 
 Indoeuropeista:indoeuropeistika 
@@ -8174,15 +8052,15 @@ Smektitová skupina:Smektit
 Snete:sneť 
 Sneťotvaré:Sneť 
 Octopoda:Osmonohy 
-Pliosaurus:Pliosaury 
 Pliosauroidea:Pliosaury 
+Pliosaurus:Pliosaury 
 Mohendžo-daro:Mohendžodaro 
-Móhándžódaro:Mohendžodaro 
 Móhandžódaro:Mohendžodaro 
+Móhándžódaro:Mohendžodaro 
 Geografický názov:toponymum 
 Zemepisný názov:toponymum 
-Zemepisné vlastné meno:toponymum 
 Geonymum:toponymum 
+Zemepisné vlastné meno:toponymum 
 Svetové študentské hry:Univerziáda 
 Svetové univerzitné hry:Univerziáda 
 İzmir:Izmir 
@@ -8213,9 +8091,9 @@ Scrunk:Crunkcore
 Disco-punk:Dance-punk 
 Punk-funk:Dance-punk 
 Edits:Drumfunk 
+Choppage:Drumfunk 
 Contemporary Electro:Electro 
 Electro-Funk:Electro 
-Choppage:Drumfunk 
 Electro Hop:Electro-Hop 
 Electronic rap:Electro-Hop 
 Robot hip-hop:Electro-Hop 
@@ -8237,8 +8115,8 @@ Polyaenus:Polyainos
 Khatak:khatag 
 Katak:khatag 
 Cha-ta:khatag 
-Chadag:khatag 
 Khata:khatag 
+Chadag:khatag 
 Chadak:khatag 
 Haflinger:Hafling 
 Ville Virtanen:Darude 
@@ -8295,16 +8173,16 @@ Aesir:Asovia
 Álfr:Elf 
 Álfar:Elf 
 Tór:thor 
-Achelosaurus:Achelousaurus 
 Acracanthus:Acrocanthosaurus 
+Achelosaurus:Achelousaurus 
 Aetonyx:Massospondylus 
-Agrosaurus:Thecodontosaurus 
 Anatosaurus:Edmontosaurus 
 Apatodon:Allosaurus 
-Antrodemus:Allosaurus 
-Aristosaurus:Massospondylus 
+Agrosaurus:Thecodontosaurus 
 Anodontosaurus:Euoplocephalus 
+Antrodemus:Allosaurus 
 Astrodonius:Astrodon 
+Aristosaurus:Massospondylus 
 Astrodontaurus:Astrodon 
 Blažený:Blahorečenie 
 Relics (album):Relics 
@@ -8326,8 +8204,8 @@ Prypiať:Pripiať
 Prypiac:Pripiať 
 Excentrickosť:Excentricita 
 Proconsulidae:Prokonzulovité 
-Hylobatidae:Gibonovité 
 Dryopithecidae:Dryopitekovité 
+Hylobatidae:Gibonovité 
 Oreopithecidae:Oreopitekovité 
 Badidoidimorpha:Rajovidné 
 Rajimorpha:Rajovidné 
@@ -8340,13 +8218,13 @@ Sphenodontida:Hatériotvaré
 Sphenodontia:Hatériotvaré 
 Rhynchocephalia:Hatériotvaré 
 Sphenodontiformes:Hatériotvaré 
-Sphenodontoidea:Hatériotvaré 
 Homoeosauria:Hatériotvaré 
+Sphenodontoidea:Hatériotvaré 
 Acipenser:Jeseter 
 Thea:Čajovník 
 Kopecká:Kopecký 
-Crocodilidae:Krokodílovité 
 Crocodylidae:Krokodílovité 
+Crocodilidae:Krokodílovité 
 TimoCom Soft- und Hardware:TimoCom 
 Cervidae:Jeleňovité 
 Matúška:Matuška 
@@ -8355,8 +8233,8 @@ Luik:Liège
 Liege:Liège 
 BRIC:BRICS 
 Zenbudhizmus:Zen-budhizmus 
-Blaskovich:Blaškovič 
 Blaskovits:Blaškovič 
+Blaskovich:Blaškovič 
 Blaskovics:Blaškovič 
 Blašković:Blaškovič 
 Rafael Santi:Raffael 
@@ -8383,21 +8261,21 @@ Praindogermánčina:praindoeurópčina
 Protojazyk:prajazyk 
 Boľševici:Boľševik 
 Hagarová:Hagara 
+Igumena:Igumen 
 Ihumen:Igumen 
 Ihumena:Igumen 
-Igumena:Igumen 
 Žandár:žandárstvo 
 Žandarméria:žandárstvo 
 Hohenau:Cahnov 
 Ixodidae:Kliešťovité 
 Mestský automobil:Miniautomobil 
-Hornyák:Horňák#Hornyák 
 Horňáková:Horňák 
+Hornyák:Horňák#Hornyák 
 Poláčková:Poláček 
 Journaled File System:JFS 
 Iznik:İznik 
-Nicaea:Nikaia 
 Nicea:Nikaia 
+Nicaea:Nikaia 
 Kuchtová:Kuchta 
 Ambon:Ambón 
 Ambóna:Ambón 
@@ -8406,8 +8284,8 @@ Vitória:Vitoria
 Mandlová:Mandl 
 Slovníky:Slovník 
 Kniha stvorenia:Genezis 
-Hand-bra:Handbra 
 Hand bra:Handbra 
+Hand-bra:Handbra 
 Kremelina:diatomit 
 Quickie:Rýchlovka 
 Ženské hnutie FEMEN:FEMEN 
@@ -8421,8 +8299,8 @@ Gand:Gent
 Body painting:Bodypainting 
 Maľovanie na telo:Bodypainting 
 Pekar:Pekár 
-Pekárová:Pekár 
 Pekař:Pekár 
+Pekárová:Pekár 
 Demodulácia:modulácia 
 Curacao:Curaçao 
 Kaspijskij:Lagaň 
@@ -8430,8 +8308,8 @@ Biologický marker:Biomarker
 JPY:Jen 
 Nacisti:Nacizmus 
 Hurmikaki:Hurma 
-Churma:Hurma 
 Hurmi-kaki:Hurma 
+Churma:Hurma 
 Pythoninae:Pytónovité 
 Boidae:Veľhadovité 
 Paraomphalokéla:Gastroschíza 
@@ -8464,11 +8342,11 @@ Józua:Jozue
 Tobit:Tobiáš 
 Enoch:Henoch 
 Šibiračka:šibačka 
-Veľkonočné vajce:Kraslica 
 Maľované vajíčko:Kraslica 
+Veľkonočné vajce:Kraslica 
 Maľované vajce:Kraslica 
-Červené vajce:Kraslica 
 Červené vajíčko:Kraslica 
+Červené vajce:Kraslica 
 Križľané vajíčko:Kraslica 
 Križľané vajce:Kraslica 
 Kuparska:oblievačka 
@@ -8507,13 +8385,13 @@ Ulcus:vred
 Vražobník:epilepsia 
 Mrcha choroba:epilepsia 
 Padúca choroba:epilepsia 
-Nedobrá:epilepsia 
 Padúca nemoc:epilepsia 
+Nedobrá:epilepsia 
 Planá choroba:epilepsia 
 Neoplazma:nádor 
+Onkóm:nádor 
 Pravý nádor:nádor 
 Pravý tumor:nádor 
-Onkóm:nádor 
 Pravý novotvar:nádor 
 Luterstvo:luteránstvo 
 Tuilerie:Tuileries 
@@ -8522,7 +8400,6 @@ Aramejský jazyk:Aramejčina
 Babylonský jazyk:Babylončina 
 Kokakola:Coca-Cola 
 Esterházi:Esterháziovci 
-30H!3:3OH!3 
 Promiscuous Boy:Promiscuous 
 Belzebul:Baal-zebúb 
 Sanovanie:sanácia 
@@ -8561,10 +8438,10 @@ Tetrakonchos:tetrakoncha
 Rehabilitovanie:rehabilitácia 
 Meynertov-Korsakovov syndróm:amencia 
 Holandský jazyk:Holandčina 
-Portugalský jazyk:Portugalčina 
 Taliansky jazyk:Taliančina 
-Nórsky jazyk:Nórčina 
+Portugalský jazyk:Portugalčina 
 Dánsky jazyk:Dánčina 
+Nórsky jazyk:Nórčina 
 Švédsky jazyk:Švédčina 
 Írsky jazyk:Írčina 
 Arménsky jazyk:Arménčina 
@@ -8574,11 +8451,11 @@ Rómsky jazyk:Rómčina
 Rumunský jazyk:Rumunčina 
 Bieloruský jazyk:Bieloruština 
 Praslovanský jazyk:Praslovančina 
-Kurdský jazyk:Kurdčina 
 Tocharský jazyk:Tocharčina 
+Kurdský jazyk:Kurdčina 
 Litovský jazyk:Litovčina 
-Estónsky jazyk:Estónčina 
 Lotyšský jazyk:Lotyština 
+Estónsky jazyk:Estónčina 
 Fínsky jazyk:Fínčina 
 Islandský jazyk:Islandčina 
 Islandská republika:Island 
@@ -8601,11 +8478,11 @@ Rhinocerotidae:nosorožcovité
 Pangolín:šupinavcovité 
 Šupinovec:šupinavcovité 
 Sirénotvaré:sirény 
-Chobotnáčotvaré:chobotnatce 
 Damanotvaré:damany 
+Chobotnáčotvaré:chobotnatce 
 Párnokopytníkotvaré:párnokopytníky 
-Hmyzožravcotvaré:hmyzožravce 
 Letuchotvaré:letuchy 
+Hmyzožravcotvaré:hmyzožravce 
 Primátotvaré:primáty 
 Nepárnokopytníkotvaré:nepárnokopytníky 
 Fytológia:botanika 
@@ -8613,8 +8490,8 @@ Morfológ:morfológia
 Niflheimr:Niflheim 
 Norte (región):Norte 
 Dohodovanie:dohodnutie 
-Vyjednávač:rokovanie 
 Rokovateľ:rokovanie 
+Vyjednávač:rokovanie 
 Negociátor:rokovanie 
 Triglav (mytológia):Trihlav 
 Lesné včelárstvo:brtníctvo 
@@ -8622,21 +8499,21 @@ Lesné včelárenie:brtníctvo
 Bielboh:Belboh 
 Beloboh:Belboh 
 Bieleboh:Belboh 
-Bielbog:Belboh 
 Bialbug:Belboh 
+Bielbog:Belboh 
 Bielbug:Belboh 
 Bělobog:Belboh 
 Bělbog:Belboh 
 Bjelobog:Belboh 
-Čiernoboh:Černoboh 
 Bialobóg:Belboh 
+Čiernoboh:Černoboh 
 Čornobóh:Černoboh 
 Czarnobóg:Černoboh 
 Crnobog:Černoboh 
 Czernobuh:Černoboh 
 Czernebog:Černoboh 
-Zcerneboch:Černoboh 
 Zernebog:Černoboh 
+Zcerneboch:Černoboh 
 Zlebog:Černoboh 
 Czorneboh:Černoboh 
 Chers:Chors 
@@ -8644,10 +8521,10 @@ Churs:Chors
 Chrs:Chors 
 Chros:Chors 
 Dažboh:Dažbog 
-Dašuba:Dažbog 
 Dažba:Dažbog 
-Dašb:Dažbog 
+Dašuba:Dažbog 
 Dabog:Dažbog 
+Dašb:Dažbog 
 Dażbóg:Dažbog 
 Dažďbog:Dažbog 
 Mirandčina:astúrčina 
@@ -8670,13 +8547,13 @@ Dubbovanie:dabing
 Zospoločenstvovanie:socializácia 
 Zospoločenstvenie:socializácia 
 Zospoločenšťovanie:socializácia 
-Zosocializovanie:socializácia 
 Zospoločenštenie:socializácia 
+Zosocializovanie:socializácia 
 Kolektivizovanie:kolektivizácia 
 Jahvo:JHVH 
+Hospod:Hospodin 
 Tetragramatón:tetragram 
 Adónáj:Adonaj 
-Hospod:Hospodin 
 JHWH:JHVH 
 IHWH:JHVH 
 Európsky záchranný mechanizmus:euroval 
@@ -8689,19 +8566,19 @@ Bielostok:Białystok
 Včelí tmel:propolis 
 Eanna:Eana 
 E-ana:Eana 
-Ninanna:Inanna 
 Kultúrny pluralizmus:multikulturalizmus 
+Ninanna:Inanna 
 Niniana:Inanna 
-Ninsianna:Inanna 
 Inana:Inanna 
 Innin:Inanna 
-Ninegalla:Ninegal 
-Wel-tigalli:Ninegal 
+Ninsianna:Inanna 
 Belet-ekallim:Ninegal 
-Blt-bhtm:Ninegal 
+Wel-tigalli:Ninegal 
+Ninegalla:Ninegal 
 Fel-digalli:Ninegal 
-Suspendovanie:suspenzia 
+Blt-bhtm:Ninegal 
 Pen-digalli:Ninegal 
+Suspendovanie:suspenzia 
 Suspendácia:suspenzia 
 Akomodovanie:akomodácia 
 Veľryby zubaté:bezkosticovce 
@@ -8741,8 +8618,8 @@ Malé ľudoopice:gibonovité
 Morotopithecus bishopi:Morotopithecus 
 Ňári:Ňáriovci 
 Kenyapithecus:Keňapitek 
-Gigantopithecus:Gigantopitek 
 Afropithecus:Afropitek 
+Gigantopithecus:Gigantopitek 
 Gigantopithecinae:Gigantopitek 
 Dionysopithecus:dionýzopitek 
 Otavipithecus namibiensis:Otavipithecus 
@@ -8762,16 +8639,16 @@ Neoanthropinae:Neantropín
 Archantrop:archantropín 
 Archanthropus:archantropín 
 Archanthropinae:archantropín 
-Prehominid:predčlovek 
 Prehominín:predčlovek 
+Prehominid:predčlovek 
 Opoľudia:opočlovek 
 Opicoľudia:opočlovek 
 Predľudia:predčlovek 
 Praehomininae:predčlovek 
 Praehominidae:predčlovek 
 Človek cromagnonský:kromaňonec 
-Homo cromagnon:kromaňonec 
 Homo sapiens cromagnonensis:kromaňonec 
+Homo cromagnon:kromaňonec 
 Opicočlovek:opočlovek 
 Rádiológ:Rádiológia 
 Futbaltenis:nohejbal 
@@ -8786,8 +8663,8 @@ Spolok štyroch:quadruplealliance
 Alliancia štyroch:quadruplealliance 
 Brachykefalus:brachycefalus 
 Brachycefal:brachycefalus 
-Brachykefal:brachycefalus 
 Brachycephalus:brachycefalus 
+Brachykefal:brachycefalus 
 Bandonika:bandónium 
 Fibrilárne (vláknité) štruktúry:cytoskelet 
 Membránové štruktúry:Organela 
@@ -8799,12 +8676,12 @@ Austriacopithecus weinfurteri:Griphopithecus
 Griphopitecus darwini:Griphopithecus 
 Sivapithecus darwini:Griphopithecus 
 Griphopithecus alpani:Griphopithecus 
-Sivapithecus alpani:Griphopithecus 
 Austriacopithecus:Griphopithecus 
+Sivapithecus alpani:Griphopithecus 
 Praesapiens:presapient 
 Homo praesapiens:presapient 
-Homo presapiens:presapient 
 Homo sapiens praesapiens:presapient 
+Homo presapiens:presapient 
 Homo sapiens präsapiens:presapient 
 Prophaneranthropi:presapient 
 Prophaneranthropus:presapient 
@@ -8841,14 +8718,14 @@ Fukuiraptor kitadaniensis:Fukuiraptor
 Qiupalong henanensis:Qiupalong 
 Falcarius utahensis:Falcarius 
 Herrerasaurus ischigualastensis:Herrerasaurus 
-Kileskus aristotocus:Kileskus 
 Kol ghuva:Kol 
+Kileskus aristotocus:Kileskus 
 Janenschia robusta:Janenschia 
 Giraffatitan brancai:Giraffatitan 
 Europasaurus holgeri:Europasaurus 
-Troodon formosus:Troodon 
-Mei long:Mei 
 Wellnhoferia grandis:Wellnhoferia 
+Mei long:Mei 
+Troodon formosus:Troodon 
 Zanabazar junior:Zanabazar 
 Saurornithoides mongoliensis:Saurornithoides 
 Spinophorosaurus nigerensis:Spinophorosaurus 
@@ -8891,18 +8768,18 @@ Afrovenator abakensis:Afrovenator
 Torvosaurus tanneri:Torvosaurus 
 DNT:Dinitrotoluén 
 Anserimimus planinychus:Anserimimus 
-Krivica:rachitída 
 Deinocheirus mirificus:Deinocheirus 
+Krivica:rachitída 
 Garudimimus brevipes:Garudimimus 
 Piveteausaurus divesensis:Piveteausaurus 
 Achillesaurus manazzonei:Achillesaurus 
 Alvarezsaurus calvoi:Alvarezsaurus 
 Šablóna:Won:Šablóna:Víťaz 
 Abelisaurus comahuensis:Abelisaurus 
-Bainoceratops efremovi:Bainoceratops 
 Breviceratops kozlowskii:Breviceratops 
-Bagaceratops rozhdestvenskyi:Bagaceratops 
+Bainoceratops efremovi:Bainoceratops 
 Cerasinops hodgskissi:Cerasinops 
+Bagaceratops rozhdestvenskyi:Bagaceratops 
 Arrhinoceratops brachyops:Arrhinoceratops 
 Gasparinisaura cincosaltensis:Gasparinisaura 
 Achelousaurus horneri:Achelousaurus 
@@ -8918,8 +8795,8 @@ Noasaurus leali:Noasaurus
 Nomingia gobiensis:Nomingia 
 Insekticídy:Insekticíd 
 Ekrixinatosaurus novasi:Ekrixinatosaurus 
-Segnosaurus galbinensis:Segnosaurus 
 Low level virtual machine:LLVM 
+Segnosaurus galbinensis:Segnosaurus 
 Staurikosaurus pricei:Staurikosaurus 
 Sanjuansaurus gordilloi:Sanjuansaurus 
 Monolophosaurus jiangi:Monolophosaurus 
@@ -8998,7 +8875,6 @@ Rosomach:rosomák
 Skunk:skunkovité 
 Skunky:skunkovité 
 Skunkorodé:skunkovité 
-Williams F1:WilliamsF1 
 Magnirostris dodsoni:Magnirostris 
 Legislácia:legislatíva 
 Gerulatis:Gerulata 
@@ -9048,12 +8924,12 @@ Protognathosaurus oxyodon:Protognathosaurus
 Penelopognathus weishampeli:Penelopognathus 
 Gallimimus bullatus:Gallimimus 
 Volejbalový futbal:nohejbal 
+Nožný volejbal:nohejbal 
 Pozemný volejbal:nohejbal 
 Futbalový volejbal:nohejbal 
-Futbalový tenis:nohejbal 
-Nožný volejbal:nohejbal 
 Kopaný tenis:nohejbal 
 Nohiš:nohejbal 
+Futbalový tenis:nohejbal 
 Nohbal:nohejbal 
 Kurtbal:nohejbal 
 Huaxiagnathus orientalis:Huaxiagnathus 
@@ -9102,8 +8978,8 @@ Sinocalliopteryx gigas:Sinocalliopteryx
 Rosenkreutz:Rozenkruciáni 
 Rozekruciáni:Rozenkruciáni 
 Rozikruciáni:Rozenkruciáni 
-Rosikruciáni:Rozenkruciáni 
 Rosikrušiani:Rozenkruciáni 
+Rosikruciáni:Rozenkruciáni 
 Bratia Ružového kríža:Rozenkruciáni 
 Bratstvo Ružového kríža:Rozenkruciáni 
 Rád Ružového kríža:Rozenkruciáni 
@@ -9117,11 +8993,9 @@ Protestanti:Protestantizmus
 Elektronický obchod:E-commerce 
 Abafalva:Abovce 
 Gigantoraptor erlianensis:Gigantoraptor 
-Desať:10 
-Osem:8 
 Lapač potkanov:potkaniar 
-Krysár:potkaniar 
 Potkanár:potkaniar 
+Krysár:potkaniar 
 Moriak:morka 
 Lapparentosaurus madagascariensis:Lapparentosaurus 
 Katarstvo:albigénstvo 
@@ -9133,15 +9007,15 @@ Courtier:maklér
 Abaffyovci:Abafiovci 
 Abafi:Abafiovci 
 Kompaktná magnetofónová kazeta:audiokazeta 
-Zvuková kazeta:audiokazeta 
 Magnetofónová kazeta:audiokazeta 
 Hudobná kazeta:audiokazeta 
+Zvuková kazeta:audiokazeta 
 Vnímaná osobná účinnosť:sebaúčinnosť 
 Manilské konope:Abaka 
 Vlastné pásomnice:kruhovky 
 Rondó:rondo 
-Abataj-Sajn-chán:Abataj-chán 
 Abtaj-chán:Abataj-chán 
+Abataj-Sajn-chán:Abataj-chán 
 Abagi:Abaz 
 Abbasí:Abaz 
 Allianz SE:Allianz 
@@ -9182,16 +9056,8 @@ Provitamín A:betakarotén
 Β-karotén:Betakarotén 
 Anschluss:Anšlus 
 Lamuti:Eveni 
-2-oxoglutarová kyselina:2-oxoglutarát 
-Α-ketoglutarát:2-oxoglutarát 
-Α-ketoglutárová kyselina:2-oxoglutarát 
-Oxoglutarát:2-oxoglutarát 
 Α-ketoglutarátdehydrogenáza:Oxoglutarátdehydrogenáza 
-Ketoglutarát:2-oxoglutarát 
 Α-ketoglutarátdehydrogenásový komplex:Oxoglutarátdehydrogenáza 
-Alfa-ketoglutarát:2-oxoglutarát 
-2-ketoglutarát:2-oxoglutarát 
-Kyselina α-ketoglutarátová:2-oxoglutarát 
 Marko Lasić:Nered 
 Alfa helix:Alfa-helix 
 Alfa-hélix:alfa-helix 
@@ -9215,9 +9081,9 @@ Filantropia:Filantrop
 Hry:hra 
 Abdü 'l-Aziz:Abdülaziz 
 Abd al-Azíz:Abdülaziz 
+Abdu 'l-Azíz:Abdülaziz 
 Abdul Azíz:Abdülaziz 
 Abdulazíz:Abdülaziz 
-Abdu 'l-Azíz:Abdülaziz 
 Α-bunka:Alfa-bunka 
 Chemtrails:chemtrail 
 Timúr:Tímúr 
@@ -9240,26 +9106,26 @@ Aberratio:Aberácia
 Pupočníková prietrž:omfalokéla 
 Pupočníková hernia:omfalokéla 
 Žvizdrė:Žvelsa 
-Enterická cysta:enterocysta 
 Enterocystóm:enterocysta 
+Enterická cysta:enterocysta 
 Enterogénna cysta:enterocysta 
 Enterokystom:enterocysta 
 Črevná cysta:enterocysta 
 Abaskoi:Abasgovia 
 Mandilion:mandylion 
 Mandelion:mandylion 
-Abacavir:Abakavir 
 Ziagen:Abakavir 
+Abacavir:Abakavir 
 Föhn:Fön 
-Arkadia:Arkádia 
 Euboia:Eubója 
+Arkadia:Arkádia 
 Evvia:Eubója 
 Fokida:Fókis 
 Lakonia:Lakónia 
 Pireas:Pireus 
-Syros-Ermupoli:Syros 
 Sporades:Sporady 
 Thessaloniké:Solún 
+Syros-Ermupoli:Syros 
 Viotia:Boiótia 
 Zakyntos:Zakynthos 
 Ektoderm:ektoderma 
@@ -9273,22 +9139,22 @@ Husacinec:výkal
 Kravinec:výkal 
 Koňacinec:výkal 
 Kuracinec:výkal 
+Ľudský výkal:výkal 
 Slepačinec:výkal 
 Ľudské výkaly:výkal 
 Človečinec:výkal 
-Ľudský výkal:výkal 
 Etoxyetán:Dietyléter 
 Deltadromeus agilis:Deltadromeus 
 Zaporožie:Záporožie 
 Nésiti:Chetiti 
+Néšiti:Chetiti 
 Nésitčina:chetitčina 
 Néšitčina:chetitčina 
-Néšiti:Chetiti 
-Kazari:Chazari 
 Kozári:Chazari 
-Kozari:Chazari 
-Kabari:Chazari 
+Kazari:Chazari 
 Kavari:Chazari 
+Kabari:Chazari 
+Kozari:Chazari 
 Illýrčina:ilýrčina 
 Karbado-čerkeština:kabardčina 
 Kabardsko-čerkeština:kabardčina 
@@ -9307,10 +9173,10 @@ Feldebrö:Feldebrő
 Liége:Liège 
 Generatio aequivoca:samoplodenie 
 Prvoplodenie:samoplodenie 
-Praplodenie:samoplodenie 
 Naivná abiogenéza:samoplodenie 
-Archigónia:samoplodenie 
+Praplodenie:samoplodenie 
 Generatio primaria:samoplodenie 
+Archigónia:samoplodenie 
 Hippodameia (rozlišovacia stránka):Hippodameia 
 Hermafroditizmus:hermafrodit 
 Ablatio:Ablácia 
@@ -9318,13 +9184,13 @@ Ablatio:Ablácia
 Deuteronomium:Deuteronómium 
 Peisistratos (rozlišovacia stránka):Peisistratos 
 Proteázy:Proteáza 
-Proteináza:Proteáza 
 Proteolytický enzým:Proteáza 
-Mýtna stanica:mýtnica 
+Proteináza:Proteáza 
 Mýtne:mýto 
+Mýtna stanica:mýtnica 
 Vigneta:vineta 
-Puella:dievča 
 Puer:chlapec 
+Puella:dievča 
 Prachy:peniaze 
 Fuky:fuk 
 Štvrť groša:grešľa 
@@ -9357,14 +9223,14 @@ Nefela:Nefelé
 Žove-Kvara:Žvava-Kvara 
 Žoekvara:Žvava-Kvara 
 Orestés:Orestes 
-Žieravá látka:žieravina 
 Korozívna látka:žieravina 
+Žieravá látka:žieravina 
 Piliér:výpustok 
 Výstupek:výpustok 
 Uvs núr:Uvs-núr 
 Dinárske Alpy:Dináre 
-Vodná kultúra:hydropónia 
 Hydrokultúra:hydropónia 
+Vodná kultúra:hydropónia 
 Hydroponická kultúra:hydropónia 
 Hydroponické pestovanie:hydropónia 
 Mrkva karotka:karotka 
@@ -9374,21 +9240,21 @@ Kračun:Kračún
 Kračuň:Kračún 
 Vianočné sviatky:vianoce 
 Slávnosť Narodenia Pána:Vianoce 
-Božie narodenie:Vianoce 
 Sviatok Narodenia Pána:Vianoce 
+Božie narodenie:Vianoce 
 Sviatok Božieho narodenia:Vianoce 
-Prvý sviatok vianočný:Vianoce 
 Boží hod:Vianoce 
+Prvý sviatok vianočný:Vianoce 
 Hypermestra:Hypermnéstra 
 Hypermnestra:Hypermnéstra 
 Themida:Themis 
 Temis:Themis 
-Teseus:Théseus 
 Téseus:Théseus 
+Teseus:Théseus 
 Artemida:Artemis 
 Afrodité:Afrodita 
-Afrodíté:Afrodita 
 Afrodíta:Afrodita 
+Afrodíté:Afrodita 
 Leukas:Lefkada 
 Lefkas:Lefkada 
 Sídlište:sídlisko 
@@ -9415,14 +9281,14 @@ Tycha:Tyché
 Mínótauros:Minótauros 
 Mínós:Minós 
 Meneláos:Menelaos 
-Gorgóny:Gorgony 
 Gorgóna:Gorgona 
+Gorgóny:Gorgony 
 Gorgón:Gorgona 
 Macháón:Machaón 
 Lykoúrgos:Lykourgos 
 Láokoón:Laokoón 
-Kynortes:Kynortas 
 Kynortás:Kynortas 
+Kynortes:Kynortas 
 Kynortés:Kynortas 
 Kyklóp:Kyklop 
 Kyklóps:Kyklop 
@@ -9435,8 +9301,8 @@ Eurótás:Eurótas
 Eurysteus:Eurystheus 
 Acrochordus:bradavičníkovité 
 Áeropé:Aeropé 
-Áeropa:Aeropé 
 Aerope:Aeropé 
+Áeropa:Aeropé 
 Omfale:Omfalé 
 Nefele:Nefelé 
 Niké:Nike 
@@ -9446,11 +9312,11 @@ Hekuba:Hekabé
 Blíženec:blíženci 
 Dioskuri:Dioskúrovia 
 Kastór:Dioskúrovia 
-Polydeukés:Dioskúrovia 
 Polydeukes:Dioskúrovia 
+Polydeukés:Dioskúrovia 
 Danae:Danaé 
-Dafne:Dafné 
 Danaë:Danaé 
+Dafne:Dafné 
 Charon:Charón 
 Klytaiméstra:Klytaimnéstra 
 Klytaimestra:Klytaimnéstra 
@@ -9464,16 +9330,16 @@ Andromedé:Andromeda
 Anchisés:Anchises 
 Alkména:Alkméné 
 Aietes:Aiétes 
-Aeolus:Aiolos 
 Aiétés:Aiétes 
 Aiólos:Aiolos 
+Aeolus:Aiolos 
 Aigistos:Aigisthos 
 Filoktétés:Filoktétes 
 Hérakles:Herakles 
 Polyneikés:Polyneikes 
 Dionýsos:Dionýzos 
-Erós:Eros 
 Bakchos:Dionýzos 
+Erós:Eros 
 Hádés:Hádes 
 Hades:Hádes 
 Úranos:Ouranos 
@@ -9483,15 +9349,15 @@ Homéros:Homér
 Hesperidy:Hesperidky 
 Hesperovny:Hesperidky 
 Demetra:Démétér 
-Déo:Démétér 
 Démétra:Démétér 
+Déo:Démétér 
 Déó:Démétér 
 Ókeanidy:oceanidy 
 Thetida:Thetis 
 Tetis:Thetis 
 Tethyda:Téthys 
-Tetyda:Téthys 
 Tetys:Téthys 
+Tetyda:Téthys 
 Tétys:Téthys 
 Argo:Argó 
 Agamemnon:Agamemnón 
@@ -9503,8 +9369,8 @@ Mnemosyna:Mnémosyné
 Nykta:Nyx 
 Androgeos:Androgeós 
 Androgeus:Androgeós 
-Kasiopeia:Kassiopeia 
 Kassiopeja:Kassiopeia 
+Kasiopeia:Kassiopeia 
 Kassiopa:Kassiopeia 
 Kassiepeia:Kassiopeia 
 Kassópa:Kassiopeia 
@@ -9512,8 +9378,8 @@ Héré:Héra
 Klóto:Klótho 
 Klótó:Klótho 
 Athéné:Aténa 
-Athena:Aténa 
 Athéna:Aténa 
+Athena:Aténa 
 Athene:Aténa 
 Psýché:psyché 
 Psýcha:psyché 
@@ -9527,15 +9393,15 @@ Filemón:Filémón
 Filemon:Filémón 
 Erigone:Érigoné 
 Érigona:Érigoné 
-Melite:Melité 
 Íkarios:Ikarios 
 Chalkiope:Chalkiopé 
+Melite:Melité 
 Tísamenos:Tisamenos 
 Tísamenés:Tisamenos 
 Eurysthenés:Eurysthenes 
 Labótás:Labótas 
-Doristhos:Doryssos 
 Leóbótés:Leóbótes 
+Doristhos:Doryssos 
 Agésiláos:Agésilaos 
 Alkamenés:Alkamenes 
 Eurykratés:Eurykrates 
@@ -9547,10 +9413,10 @@ Pausaniás:Pausanias
 Proklés:Prokles 
 Polydektés:Polydektes 
 Níkandros:Nikandros 
-Anaxidámos:Anaxidamos 
 Zeuxidámos:Zeuxidamos 
-Agasiklés:Agasikles 
 Archidámos:Archidamos 
+Anaxidámos:Anaxidamos 
+Agasiklés:Agasikles 
 Agásíklés:Agasikles 
 Démarátos:Démaratos 
 Leótychidás:Leótychidas 
@@ -9560,8 +9426,8 @@ Eudamidás:Eudamidas
 Eukleidás:Eukleides 
 Nábis:Nabis 
 Chariláos:Charilaos 
-Charillos:Charilaos 
 Chariklos:Charilaos 
+Charillos:Charilaos 
 Perimede:Perimédé 
 Peisidike:Peisidiké 
 Alkyone:Alkyoné 
@@ -9581,8 +9447,8 @@ Démostenes:Demostenes
 Albínos:Albinos 
 Anaximenés:Anaximenes 
 Antisthenés:Antisthenes 
-Antistenes:Antisthenes 
 Antistenés:Antisthenes 
+Antistenes:Antisthenes 
 Arrianos z Nikomédie:Arrianos 
 Flavios Arrianos:Arrianos 
 Flavius Arrianus:Arrianos 
@@ -9591,11 +9457,11 @@ Derkylidés:Derkylides
 Diogenés:diogenes 
 Epikúros:Epikouros 
 Eubúlides:Euboulides 
-Eubúlidés:euboulides 
 Euboulidés:Euboulides 
+Eubúlidés:euboulides 
 Eudámos:Eudamos 
-Eudemos:Eudamos 
 Eudémos:Eudamos 
+Eudemos:Eudamos 
 Eukleidés:Eukleides 
 Edzin gol:Žuo-šuej 
 Chej-che:Žuo-šuej 
@@ -9603,8 +9469,8 @@ E-ťi-na-che:Žuo-šuej
 Chej-šuej:Žuo-šuej 
 Hégésiás:Hégésias 
 Hérakleidés:Hérakleides 
-Hérákleidés:Hérakleides 
 Herakleides:Hérakleides 
+Hérákleidés:Hérakleides 
 Hipparchiá:Hipparchia 
 Hypatiá:Hypatia 
 Jamblichos:Iamblichos 
@@ -9621,10 +9487,10 @@ Zenón:Zénón
 Kritiás:Kritias 
 Prótagorás:Prótagoras 
 Biás:Bias 
-Empedokles z Akragantu:Empedokles 
 Empedoklés:Empedokles 
 Empedokles z Agrigenta:Empedokles 
 Empedoklés z Akragantu:Empedokles 
+Empedokles z Akragantu:Empedokles 
 Filoláos:Filolaos 
 Hérákleitos:Hérakleitos 
 Heraklit:Hérakleitos 
@@ -9635,28 +9501,28 @@ Xenofanés:Xenofanes
 Thalés:Táles 
 Táles z Miléta:Táles 
 Táles Míléta:Táles 
-Táles Mílétu:Táles 
 Thales z Miléta:Táles 
+Táles Mílétu:Táles 
 Thales Míléta:Táles 
 Thales z Milétu:Táles 
 Thales Mílétu:Táles 
 Thalés z Miléta:Táles 
 Thalés z Milétu:Táles 
-Thalés Míléta:Táles 
 Thalés Mílétu:Táles 
+Thalés Míléta:Táles 
 Abruzzi:Abruzzy 
 Χ²:chí-kvadrát 
 Ti-chua:Urumči 
 Sphagnum:Rašelinník 
 Lykaon:Lykaón 
 Abscessus:absces 
-Tkáčsky stav:krosná 
 Tkáčske krosná:krosná 
+Tkáčsky stav:krosná 
 Absentia:absencia 
 Forfaiter:forfaiting 
 Forfaitista:forfaiting 
-Košenila:karmín 
 Forfaitingová spoločnosť:forfaiting 
+Košenila:karmín 
 Karmínová kyselina:karmín 
 E120:karmín 
 Schroeder:Schröder 
@@ -9669,24 +9535,23 @@ Helén:Hellén
 Temistokles:Themistokles 
 Plynné teleso:Plyn 
 Faëthón:Faethón 
-Faethon:Faethón 
-Phaethon:Faethón 
 Faetón:Faethón 
+Phaethon:Faethón 
+Faethon:Faethón 
 Al-Fajjúm:Fajjúm 
 Démosthenés:Demostenes 
 Élida:Ilia 
 Cha-er-pin:Charbin 
 Heliady:Héliady 
-Klymene:Klymené 
-Klyména:Klymené 
-Klymena:Klymené 
 Héliovny:Héliady 
+Klymene:Klymené 
+Klymena:Klymené 
+Klyména:Klymené 
 Lýsianassa:Lysianassa 
 R.S.V.P.:RSVP 
 The Center:Center 
 Dabér:dabing 
 Hektór:Hektor 
-4motion:4Motion 
 Čundrák:čunder 
 As-Suwajs:Suez 
 Al-Uksur:Luxor 
@@ -9733,10 +9598,10 @@ Othnielosaurus consors:Othnielosaurus
 Leucippus:Leukippos 
 Súčasný prechodník:prechodník 
 Prechodník súčasnosti:prechodník 
-Prechodník prítomný:prechodník 
 Predčasný prechodník:prechodník 
-Prechodník minulý:prechodník 
+Prechodník prítomný:prechodník 
 Prechodník predčasnosti:prechodník 
+Prechodník minulý:prechodník 
 Íxión:Ixión 
 Isména:Isméné 
 Ribes:ríbezľa 
@@ -9758,8 +9623,8 @@ Creon:Kreón
 Ismene:Isméné 
 Marseilles:Marseille 
 Bonnoeil:Bonnœil 
-Crèvecoeur-en-Auge:Crèvecœur-en-Auge 
 Cricqueboeuf:Cricquebœuf 
+Crèvecoeur-en-Auge:Crèvecœur-en-Auge 
 Morteaux-Couliboeuf:Morteaux-Coulibœuf 
 Darlingtónia kalifornská:darlingtónia 
 Antiope:Antiopé 
@@ -9786,8 +9651,6 @@ Ofeltés:Ofeltes
 Autolycus:Autolykos 
 Capys:Kapys 
 Asuán:Aswán 
-Deathdoom:Death/doom 
-Death-doom:Death/doom 
 Iápetos:Iapetos 
 Íapetos:Iapetos 
 Japetos:Iapetos 
@@ -9836,11 +9699,11 @@ Blessey:Source-Seine
 Venarey-Les Laumes:Venarey-les-Laumes 
 Crunk rock:Crunkcore 
 Kilikia:Kilíkia 
-Cilícia:Kilíkia 
 Cilicia:Kilíkia 
+Cilícia:Kilíkia 
 Bío-Bío:Biobío 
-Bío Bío:Biobío 
 Kylikia:Kilíkia 
+Bío Bío:Biobío 
 Čipová súprava:chipset 
 Súprava čipov:chipset 
 Čipový súbor:chipset 
@@ -9852,9 +9715,9 @@ Llanfairpwllgwyngyll:Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 Pečenegovia:Pečenehovia 
 Pastvisko:Pasienok 
 Kalmykovia:Kalmyci 
-Nintendo rock:Nintendocore 
 Video rock:Nintendocore 
 Nerdcore:Nintendocore 
+Nintendo rock:Nintendocore 
 Kovari:Chazari 
 Novoujgurčina:ujgurčina 
 Staroturkický jazyk:staroturkičtina 
@@ -9868,8 +9731,8 @@ Alcmaeon:Alkmaión
 Arzenovodík:Arzán 
 Chorezmijčina:chórezmčina 
 Chorezm:Chórezm 
-Chvárezm:Chórezm 
 Chwárezm:Chórezm 
+Chvárezm:Chórezm 
 Chvárizm:Chórezm 
 Chwárizm:Chórezm 
 Chovárazm:Chórezm 
@@ -9879,16 +9742,16 @@ Amphibia:obojživelníky
 Tersandros:Thersandros 
 Nepichavce:nebodavce 
 Pichavce:bodavce 
-Brušnobrvce:brušnobrvky 
 Bruchobrvce:brušnobrvky 
+Brušnobrvce:brušnobrvky 
 Nemertín:pásnice 
-Nematodes:hlístovce 
 Acanthocephali:Háčikohlavce 
-Hlísty okrúhle:okrúhlovce 
+Nematodes:hlístovce 
 Priapulida:Priapuly 
+Hlísty okrúhle:okrúhlovce 
 Nemathelminthes:okrúhlovce 
-Nemertiny:pásnice 
 Aschelminthes:okrúhlovce 
+Nemertiny:pásnice 
 Pseudocoelia:Pseudocoelomata 
 Nematódy:hlístovce 
 Nematóda:hlístovce 
@@ -9898,8 +9761,8 @@ Ploské červy:ploskavce
 Cicavice:motolice 
 Trematódy:motolice 
 Trematóda:motolice 
-Trematoda:motolice 
 Obrúčkavé červy:obrúčkavce 
+Trematoda:motolice 
 Článkované červy:obrúčkavce 
 Červy obrúčkavé:obrúčkavce 
 Červy článkované:obrúčkavce 
@@ -9932,8 +9795,8 @@ Erifýla:Erifylé
 Tuáregovia:Tuaregovia 
 Tuarégovia:Tuaregovia 
 Neo-tifinag:neotifinag 
-Feníčania:Feničania 
 Féničania:Feničania 
+Feníčania:Feničania 
 Foiničania:Feničania 
 Cymraeg:Waleština 
 Delfíny:Delfínovité 
@@ -9970,10 +9833,10 @@ Humvee:HMMWV
 Ľavorukosť:Ľavák 
 Ľaváctvo:Ľavák 
 Popolček:Popol 
-Smud:dym 
 Čmud:dym 
-Kleodika:Kleodiké 
+Smud:dym 
 Ifiklés:Ifikles 
+Kleodika:Kleodiké 
 Kleodike:Kleodiké 
 Kleita:Kleité 
 Kleite:Kleité 
@@ -9984,8 +9847,8 @@ Zobáľovité:Čajkovité
 Rynchopidae:Čajkovité 
 Rybárovité:Čajkovité 
 Sternidae:Čajkovité 
-Larinae:Čajkovité 
 Čajkorodé:Čajkovité 
+Larinae:Čajkovité 
 Zobáľorodé:Čajkovité 
 Rynchopinae:Čajkovité 
 Rybárorodé:Čajkovité 
@@ -10026,19 +9889,18 @@ Neosylabické písmo:abugida
 Neoslabikové písmo:abugida 
 Neosylabár:abugida 
 Neosylabárium:abugida 
-Pseudoabecedné písmo:abugida 
 Pseudoabeceda:abugida 
+Pseudoabecedné písmo:abugida 
 Pseudoalfabetické písmo:abugida 
 Slovný znak:logogram 
 Láomedón:Laomedón 
-Žne:žatva 
 Žeň:žatva 
+Žne:žatva 
 Biologická diverzita:biodiverzita 
 Acciaiuolijovci:Acciajuoliovci 
 Accioliovci:Acciajuoliovci 
-Acciajuoli:Acciajuoliovci 
 Acciolyovci:Acciajuoliovci 
-MPEG-1 Audio Layer II:MP2 
+Acciajuoli:Acciajuoliovci 
 Agaua:Agaué 
 Business to consumer:business-to-consumer 
 Business-to-customer:business-to-consumer 
@@ -10046,10 +9908,10 @@ Business to customer:business-to-consumer
 B to C:business-to-consumer 
 Acclusum:Príloha 
 Accorso z Reggia:Accorso 
+Accursius:Accorso 
 Accursus:Accorso 
 Accursio:Accorso 
 L'Accursio:Accorso 
-Accursius:Accorso 
 Accurzio:Accorso 
 Bono Accursio:Accorso 
 Accursio Azzone:Accorso 
@@ -10077,21 +9939,19 @@ Lineár:pravítko
 Linonár:pravítko 
 Súhvezdie Včela:Včela 
 Santalové drevo:santal 
-Messier 40:WNC4 
 Santalum:Santal 
-M 40:WNC4 
 Cibeta:Cibetka 
 Anténór:Anténor 
 Vlkovité:psovité 
+Mephitidae:skunkovité 
 Felidae:mačkovité 
 Hyaenidae:hyenovité 
-Mephitidae:skunkovité 
 Mustelidae:lasicovité 
 Arisba:Arisbé 
 Mesto malých ľudí:Gurnia 
 Gúrnia:Gurnia 
-Vasses:Bassai 
 Minojské Pompeje:Gurnia 
+Vasses:Bassai 
 Efezos:Efez 
 Pentelé:Pendeli 
 Efesos:Efez 
@@ -10114,15 +9974,15 @@ Ribecourt-la-Tour:Ribécourt-la-Tour
 Roman-koš:Roman-Koš 
 Znovuvysielanie:retransmisia 
 Gentiana:Horec 
-Šiizmus:šiitizmus 
 Šíitizmus:šiitizmus 
-Šíitstvo:šiitizmus 
+Šiizmus:šiitizmus 
 Šiitstvo:šiitizmus 
+Šíitstvo:šiitizmus 
 Šiitský islam:šiitizmus 
 Šiita:šiitizmus 
 Šíitský islam:šiitizmus 
-Hinduisti:hinduizmus 
 Hindovia:hinduizmus 
+Hinduisti:hinduizmus 
 Hinduista:hinduizmus 
 Zanthoxylum:Zantoxyl 
 Dendrológ:Dendrológia 
@@ -10134,11 +9994,11 @@ Oláhová:Oláh
 Oľhová:Oľha 
 Strojársky priemysel:strojárstvo 
 Preskúmanie:preskúmavanie 
-L’art du déplacement:parkour 
 Traceur:parkour 
+L’art du déplacement:parkour 
 Math metal:Mathcore 
-Technický metalcore:Mathcore 
 Technický hardcore:Mathcore 
+Technický metalcore:Mathcore 
 Progresívny metalcore:Mathcore 
 Arzín:Arzán 
 Apistika:apidológia 
@@ -10163,17 +10023,17 @@ Zasielateľ:odosielateľ
 Špeditérstvo:špeditér 
 Vzdušná doprava:letectvo 
 Letecká preprava:letectvo 
-Pešia doprava:chôdza 
 Vzdušná preprava:letectvo 
+Pešia doprava:chôdza 
 Eroplán:aeroplán 
 Avión:Letún 
 Varkštat:Dielňa 
 Varštať:Dielňa 
 Varštak:Dielňa 
-Verkštat:Dielňa 
 Varštat:Dielňa 
-Verštať:Dielňa 
+Verkštat:Dielňa 
 Verštat:Dielňa 
+Verštať:Dielňa 
 Verštot:Dielňa 
 BAAS:Baas 
 Bottová:Botto 
@@ -10190,8 +10050,8 @@ Porn grind:Pornogrind
 Vynálezca:Vynález 
 Dekorovanie:dekorácia 
 Oneiric Ocelot:Ubuntu#Verzie 
-Precise Pangolin:Ubuntu#Verzie 
 Quantal Quetzal:Ubuntu#Verzie 
+Precise Pangolin:Ubuntu#Verzie 
 Chlamydiales:Chlamydiae 
 Chlamydiia:Chlamydiae 
 Prelom:prielom 
@@ -10201,11 +10061,11 @@ Transvestita:transvestizmus
 Transsexualita:transsexualizmus 
 GLBT:LGBT 
 GLB:LGBT 
-LGBTQ:LGBT 
-LGBTIQ:LGBT 
 LGBTI:LGBT 
-Bergerová:Berger#Bergerová 
+LGBTIQ:LGBT 
+LGBTQ:LGBT 
 Kronerová:Kroner 
+Bergerová:Berger#Bergerová 
 Cisárstvo:cisár 
 Death-grind:Deathgrind 
 Death/grind:Deathgrind 
@@ -10217,9 +10077,9 @@ GAISF:SportAccord
 Remeselníci:Remeselník 
 Gingíva:ďasno 
 Mount Erebus:Erebus 
+Animálny magnetizmus:Biomagnetizmus 
 Živočíšny magnetizmus:Biomagnetizmus 
 Mesmerizmus:Biomagnetizmus 
-Animálny magnetizmus:Biomagnetizmus 
 DJ Hixxy:Hixxy 
 Ian Hicks:Hixxy 
 Queensryche:Queensrÿche 
@@ -10243,19 +10103,19 @@ Metazoá:živočíchy
 Eumetazoá:epitelovce 
 Dvojsúmerníky:dvojstranovce 
 Lúčovníky:mechúrniky 
-Obrnenky:panciernatky 
 Bičíkavce:bičíkovce 
+Obrnenky:panciernatky 
 Euglénotvaré:červenoočká 
 Dinophyceae:panciernatky 
 Euglenophycea:červenoočká 
 Dinoflagellida:Panciernatky 
 Pyrrhophyta:Panciernatky 
 Dinoflagellata:Panciernatky 
-Pyrrhophyceae:Panciernatky 
 Pyrrophyta:Panciernatky 
+Pyrrhophyceae:Panciernatky 
 Mesokaryota:Panciernatky 
-Mastigophora:Bičíkovce 
 Kryptomonádky:kryptomonády 
+Mastigophora:Bičíkovce 
 Jastrzebie-Zdrój:Jastrzębie-Zdrój 
 Testios:Thestios 
 Hippotoé:Hippothoé 
@@ -10263,12 +10123,12 @@ Hippotoa:Hippothoé
 Teofana:Theofané 
 Osobodeň:osobohodina 
 Osobotýždeň:osobohodina 
-Osobomesiac:osobohodina 
 Človekotýždeň:osobohodina 
+Osobomesiac:osobohodina 
 Človekomesiac:osobohodina 
 Osoborok:osobohodina 
-Prijímač s nepriamym zosilnením:Superheterodyn 
 Superhet:Superheterodyn 
+Prijímač s nepriamym zosilnením:Superheterodyn 
 Gemiparia:Pučanie 
 Gemácia:Pučanie 
 Unisexualizmus:jednopohlavnosť 
@@ -10276,43 +10136,43 @@ Earl Simmons:DMX
 R600a:Metylpropán 
 Lygos:Istanbul 
 Byzantium:Istanbul 
-Byzanción:Istanbul 
 Byzancion:Istanbul 
-Constantinopolis:Istanbul 
+Byzanción:Istanbul 
 Augusta Antonina:Istanbul 
+Constantinopolis:Istanbul 
 Kónstantinoupolis:Istanbul 
 Kónstantinúpolis:Istanbul 
 Konštantinopolis:Istanbul 
 Konštantínopolis:Istanbul 
 Constantinopolis nova Roma:Istanbul 
 Constantinopolis altera Roma:Istanbul 
-É Nea, deutera Rómé:Istanbul 
-Eóa Rómé:Istanbul 
 Deutera Rómé:Istanbul 
+Eóa Rómé:Istanbul 
+É Nea, deutera Rómé:Istanbul 
 Byzantias Rómé:Istanbul 
-Roma Constantinopolitana:Istanbul 
-Kostantíníje:Istanbul 
 Alma Róma:Istanbul 
+Kostantíníje:Istanbul 
 Kustantíníje:Istanbul 
-Konstantinupoli:Istanbul 
+Roma Constantinopolitana:Istanbul 
 Al-Kustantíníja:Istanbul 
 Islambol:Istanbul 
+Konstantinupoli:Istanbul 
 Islambul:Istanbul 
-Hé Polis:Istanbul 
 I Poli:Istanbul 
 Stanbul:Istanbul 
-Stanbulin:Istanbul 
+Hé Polis:Istanbul 
 Stambul:Istanbul 
 Bulin:Istanbul 
+Stanbulin:Istanbul 
 Istanbol:Istanbul 
 Stambol:Istanbul 
 Sacha tyla:Jakutčina 
 Konstantinopol:Istanbul 
 Tamúz:Tammúz 
 Tamuz:tammúz 
+Kulminovanie:kulminácia 
 Vrcholenie:kulminácia 
 Vyvrcholenie:kulminácia 
-Kulminovanie:kulminácia 
 Sexuálne vyvrcholenie:orgazmus 
 Intestinum:Črevo 
 Enteron:Črevo 
@@ -10349,8 +10209,8 @@ Acetát celulózy:Acetylcelulóza
 Ester celulózy:Acetylcelulóza 
 Európan:Európania 
 Astyocheia:Astyoché 
-Astyoche:Astyoché 
 Astuocheia:Astyoché 
+Astyoche:Astyoché 
 Astyochea:Astyoché 
 Astyocha:Astyoché 
 Galvanizovanie:galvanizácia 
@@ -10367,8 +10227,8 @@ Gravity Gradient Test Satellite:GGTS
 Imager for Magnetopause-to-Aurora Global Exploration:IMAGE 
 Rozoliš:Likér 
 Skatofágia:Koprofágia 
-Koprofág:Koprofágia 
 Skatofág:Koprofágia 
+Koprofág:Koprofágia 
 Meropa:Meropé 
 Bruno Guimarães Pinho Azevedo:Guima 
 Hmlovky:hmlovka 
@@ -10377,8 +10237,8 @@ Digitizér:digitalizátor
 Local Exchange Trading System:LETSystem 
 Hyperénór:Hyperénor 
 LET system:LETSystem 
-LET-systém:LETSystem 
 Systém LET:LETSystem 
+LET-systém:LETSystem 
 LETSystém:LETSystem 
 Miestny výmenný obchodný systém:LETSystem 
 Miestny systém výmenného obchodu:LETSystem 
@@ -10408,8 +10268,8 @@ Aciculidae:Acikulovité
 Úžerníctvo:Úžera 
 Chitony:chitóny 
 Štítonosiče:chitóny 
-Bliaškonosné:chitóny 
 Slimáci chrobákovití:chitóny 
+Bliaškonosné:chitóny 
 Zadnožiabernice:červovky 
 Klovitce:zubovky 
 Čiapočky:čiapočkovce 
@@ -10420,17 +10280,17 @@ Ušo:ušovité
 Plže:Ulitníky 
 Plži:Ulitníky 
 Bruchonohé:Ulitníky 
-Bruchonožci:Ulitníky 
 Bruchonožce:Ulitníky 
-Mäkkýši bruchonohí:Ulitníky 
+Bruchonožci:Ulitníky 
 Slimáci bruchonohí:Ulitníky 
+Mäkkýši bruchonohí:Ulitníky 
 Predonohé:zubovky 
 Korytníky:Lastúrniky 
 Lasturniky:Lastúrniky 
 Lastúrnici:Lastúrniky 
 Lastúrovci:Lastúrniky 
-Lastury:Lastúrniky 
 Mlže:Lastúrniky 
+Lastury:Lastúrniky 
 Mlži:Lastúrniky 
 Túlavcovité:kopýtkovité 
 Dreissenidae:Kopýtkovité 
@@ -10440,8 +10300,8 @@ Hlavonožci:hlavonožce
 Osmonohotvaré:osmonohy 
 Chobotnicotvaré:osmonohy 
 Osemnohy:osmonohy 
-Belemniti:belemnity 
 Klinovci:belemnity 
+Belemniti:belemnity 
 Chobotnicovce:dvojžiabrovce 
 Dvojžiaberné:dvojžiabrovce 
 Dvojžábrí hlavonožci:dvojžiabrovce 
@@ -10460,15 +10320,15 @@ Halikarnas:Bodrum
 Budrum:Bodrum 
 Šašlyk:šašlik 
 Atticum genus dicendi:aticizmus 
-K-Pop:K-pop 
 KPop:K-pop 
+K-Pop:K-pop 
 KPOP:K-pop 
 Kpop:K-pop 
 K-POP:K-pop 
 Acne:Akné 
 Acoelomáty:Acélomáty 
-Ortilochos:Orsilochos 
 Orsilochus:Orsilochos 
+Ortilochos:Orsilochos 
 Gnatostomuly:čeľusťoústky 
 Mezenchýmové červy:acélomáty 
 Wikipédia:S právom rollback:Wikipedia:Rollback 
@@ -10482,9 +10342,9 @@ Apple Inc.:Apple
 Vápenatenie ciev:artérioskleróza 
 Kôrnatenie ciev:artérioskleróza 
 Actellic:Pirimifos-metyl 
+Actinium:Aktínium 
 Empresa Brasileira de Aeronáutica S.A.:Embraer 
 ACTH:Kortikotropín 
-Actinium:Aktínium 
 Olagum:Prezervatív 
 Frcguma:Prezervatív 
 Beťárguma:Prezervatív 
@@ -10493,9 +10353,9 @@ Mah-jongg:madžong
 Crust punk:Crustcore 
 Crust:Crustcore 
 Transilvánia:Sedmohradsko 
+Gétovia:Geti 
 Géti:Geti 
 Getovia:Geti 
-Gétovia:Geti 
 Handball:handbal 
 Asteropa:Asteropé 
 Steropa:Asteropé 
@@ -10506,8 +10366,8 @@ Dodekanisos:Dodekanisa
 Dodekanézske ostrovy:Dodekanisa 
 Dodekanské ostrovy:Dodekanisa 
 Dodekanésos:Dodekanisa 
-Dodekanezos:Dodekanisa 
 Dodekanesos:Dodekanisa 
+Dodekanezos:Dodekanisa 
 Dodekaneské ostrovy:Dodekanisa 
 Dodekanéske ostrovy:Dodekanisa 
 Rasulogly Rzajev:Anar 
@@ -10516,8 +10376,8 @@ Kathmandau:Káthmandu
 Kathmandu:Káthmandu 
 Káthmádu:Káthmandu 
 Kathmadau:Káthmandu 
-Kathmadu:Káthmandu 
 Kathmadaun:Káthmandu 
+Kathmadu:Káthmandu 
 Anisoptera:Šidlá 
 Zygoptera:Šidielka 
 Plyšák:plyšiak 
@@ -10545,12 +10405,12 @@ Turkmani:Turkomani
 Truchmeni:Turkméni 
 Turchmani:Turkméni 
 Žou-č':Jüe-č' 
-Žetys:Sedemriečie 
 Semirečie:Sedemriečie 
+Žetys:Sedemriečie 
 Žetysu:Sedemriečie 
+Džetysu:Sedemriečie 
 Džety-su:Sedemriečie 
 Karakalpakovia:Karakalpaci 
-Džetysu:Sedemriečie 
 Pandíón:Pandión 
 Pandion:Pandión 
 Desugestopédia:sugestopédia 
@@ -10584,29 +10444,29 @@ Awash:Awaš
 Tiahuanacu:Tiawanacu 
 Tiawanaku:Tiawanacu 
 Tiwanacu:Tiawanacu 
-Tihuanacu:Tiawanacu 
 Tíwanaco:Tiawanacu 
+Tihuanacu:Tiawanacu 
 Tihuanaco:Tiawanacu 
-Tíwanacu:Tiawanacu 
 Tiwanako:Tiawanacu 
+Tíwanacu:Tiawanacu 
 Tiguanaco:Tiawanacu 
-Tíwanaku:Tiawanacu 
 Tiaguanaco:Tiawanacu 
+Tíwanaku:Tiawanacu 
 Tiguanacu:Tiawanacu 
-Tiaguanacu:Tiawanacu 
 Tia Huanaco:Tiawanacu 
+Tiaguanacu:Tiawanacu 
 Tia Huanacu:Tiawanacu 
 Ti-huanaco:Tiawanacu 
 Ti-huanacu:Tiawanacu 
 Tia-huanacu:Tiawanacu 
 Ti-guanaco:Tiawanacu 
-Ti-guanacu:Tiawanacu 
 Tia-guanacu:Tiawanacu 
-Tia-guanaco:Tiawanacu 
+Ti-guanacu:Tiawanacu 
 Tihuanako:Tiawanacu 
+Tia-guanaco:Tiawanacu 
 Tiahuanako:Tiawanacu 
-Tihuanaku:Tiawanacu 
 Tiahuanaku:Tiawanacu 
+Tihuanaku:Tiawanacu 
 Tia-huanako:Tiawanacu 
 Borra:Bora-Bericcio 
 Boseti:Bosät-Bäriča 
@@ -10622,12 +10482,12 @@ Hertale:Härtali
 Härtale:Härtali 
 Sodere:Sodäre 
 Jangudi:Langudi 
-Iangudi:Langudi 
 Angudi:Langudi 
 Džangudi:Langudi 
+Iangudi:Langudi 
 Tíwanako:Tiawanacu 
-Baiyuda:Bajjúda 
 Bayyuda:Bajjúda 
+Baiyuda:Bajjúda 
 P. R.:PR 
 Pallás:Pallas 
 Aríkia:Arikia 
@@ -10650,14 +10510,14 @@ Pesedžet:Devätoro
 Iunské Devätoro:Devätoro 
 Iunuské Devätoro:Devätoro 
 Heliopoliské Devätoro:Devätoro 
+Iunuská Deviatka:Devätoro 
 Onská Deviatka:Devätoro 
 Iunská Deviatka:Devätoro 
-Iunuská Deviatka:Devätoro 
 Heliopoliská Deviatka:Devätoro 
 Iunská Enneada:Devätoro 
 Iunuská Enneada:Devätoro 
-Heliopoliská Enneada:Devätoro 
 Onská Enneáda:Devätoro 
+Heliopoliská Enneada:Devätoro 
 Iunská Enneáda:Devätoro 
 Iunuská Enneáda:Devätoro 
 Heliopoliská Enneáda:Devätoro 
@@ -10674,10 +10534,10 @@ Kerala:Kérala
 Gujarat:Gudžarát 
 Haryana:Harijána 
 Maharashtra:Maháraštra 
-Nagaland:Nágsko 
-Punjab:Pandžáb 
 Meghalaya:Meghálaj 
+Nagaland:Nágsko 
 Rajasthan:Radžastan 
+Punjab:Pandžáb 
 Tamil Nadu:Tamilnádu 
 Orissa:Urísa 
 Uttar Pradesh:Uttarpradéš 
@@ -10691,8 +10551,8 @@ Bambaí:Bombaj
 Bambaj:Bombaj 
 Bombay:Bombaj 
 Gáli:Gálla 
-Kandy:Mahanuvara 
 Kandi:Mahanuvara 
+Kandy:Mahanuvara 
 Pandareos:Pandareós 
 Ja-lu-ťiang:Amrokkang 
 Ouludong:Oudong 
@@ -10708,7 +10568,6 @@ Téledika:Télediké
 Historička:Historik 
 Rock´n´roll:Rokenrol 
 Axios:Vardar 
-HST SM-3A:STS-103 
 Grudziadz:Grudziądz 
 Klaipeda:Klaipėda 
 Heliopoliská Eneáda:Devätoro 
@@ -10725,16 +10584,16 @@ Hindustán:Hindustan
 Prithví mátá:Prithví 
 Sítá:Síta 
 Djaušpitr:Djaus 
-Hypofyl:Listeň 
 Skanda:Murugan 
+Hypofyl:Listeň 
 Kárttikéja:Murugan 
 Subrahmanja:Murugan 
 Vélan:Murugan 
 Prthví:Prithví 
 Sanátadharma:hinduizmus 
 Smriti:smrti 
-Šivaista:šivaizmus 
 Šaktista:šaktizmus 
+Šivaista:šivaizmus 
 Šakt:šaktizmus 
 Vaišnavizmus:višnuizmus 
 Višnuista:višnuizmus 
@@ -10764,8 +10623,8 @@ Liliensternus liliensterni:Liliensternus
 Oiklés:Oikles 
 Oikleus:Oikles 
 Singarádžá:Sinharadža 
-Anurádapuram:Anurádhapuraja 
 Anurádhapura:Anurádhapuraja 
+Anurádapuram:Anurádhapuraja 
 Sígiri:Sígirija 
 Dambulla:Dambula 
 Ichkeul:Al-Aškal 
@@ -10778,22 +10637,22 @@ Chlamydia:Chlamýdia
 Miyagawanella:Chlamýdia 
 Thugga:Dukka 
 Falkés:Falkes 
-Rispetto:rispet 
 Rispetti:rispet 
+Rispetto:rispet 
 Šivah:Šiva 
 Bráhmanam:bráhmany 
 Brahmana:bráhmany 
 Kámasútram:Kámasútra 
-Védah:véda 
 Puránam:purány 
+Védah:véda 
 Upanišat:upanišady 
 Upanišad:upanišady 
 Sútram:sútra 
 Rigvédah:rigvéda 
 Atharvavédah:Atharvavéda 
-Dharmah:dharma 
-Mantram:mantra 
 Rgvédah:rigvéda 
+Mantram:mantra 
+Dharmah:dharma 
 Buddhah:Budha 
 Sind:Sindh 
 Sindhu:Sindh 
@@ -10813,18 +10672,18 @@ Pľekanie:plekanie
 Tripitakam:Tripitaka 
 Tipitakam:Tripitaka 
 Sthaviravádah:sthaviraváda 
-Sarvástivádah:sarvástiváda 
 Théravádó:théraváda 
-Hínajánam:hínajána 
+Sarvástivádah:sarvástiváda 
 Indrah:Indra 
 Vinajapitakam:vinajapitaka 
+Hínajánam:hínajána 
 Suttapitakam:suttapitaka 
 Sútrapitaka:suttapitaka 
 Sútrapitakam:suttapitaka 
-Abhidhammapitakam:Abhidhammapitaka 
 Abhidharmapitakam:Abhidhammapitaka 
-Máhajánam:mahájána 
+Abhidhammapitakam:Abhidhammapitaka 
 Smrtih:smrti 
+Máhajánam:mahájána 
 Ašókah:Ašóka 
 Čandraguptah:Čandragupta 
 Asurah:Asura 
@@ -10832,18 +10691,18 @@ Osifikácia:Kostnatenie
 Trailókjam:Trailókja 
 Trilókam:Trailókja 
 Traidhátukam:Trailókja 
-Arhan:arhat 
 Tiloka:Trailókja 
-Arahá:arhat 
+Arhan:arhat 
 Arahant:arhat 
+Arahá:arhat 
 Avalókitéšvarah:Avalókitéšvara 
 Avíčih:avíči 
-Bódhisattó:bódhisattva 
 Bódhisattvah:bódhisattva 
+Bódhisattó:bódhisattva 
 Dhjánam:dhjána 
 Dharmakájah:dharmakája 
-Kamman:karma 
 Lókah:lóka 
+Kamman:karma 
 Mahákášjapah:Mahákášjapa 
 Mahákássapa:Mahákášjapa 
 Mahákássapó:Mahákášjapa 
@@ -10853,24 +10712,24 @@ Dharmačakram:dharmačakra
 Čakram:čakra 
 Niródhah:niródha 
 Parinirvánam:parinirvána 
-Pitakam:pitaka 
 Parinibbána:parinirvána 
+Pitakam:pitaka 
 Pratítjasamutpádah:pratítjasamutpáda 
 Buddhó:Budha 
 Rámah:Ráma 
 Sansárah:sansára 
 Sansáró:sansára 
 Samádhih:samádhi 
+Sanghah:Sangha 
+Sanghó:Sangha 
 Gendün:Sangha 
 Skandhah:skandha 
-Sanghó:Sangha 
-Sanghah:Sangha 
 Khandha:skandha 
 Khandhó:Skandha 
 Tantram:tantra 
 Gjü:vadžrajána 
-Cesta tajnej mantry:vadžrajána 
 Mantrajána:vadžrajána 
+Cesta tajnej mantry:vadžrajána 
 Mantramahájána:vadžrajána 
 Tantrajánam:vadžrajána 
 Mantrajánam:vadžrajána 
@@ -10879,9 +10738,9 @@ Agra:Ágra
 Amargasaurus cazaui:Amargasaurus 
 Buta Tót:Butatót 
 Hippotés:Hippotes 
-Phalajánam:vadžrajána 
 Phalajána:vadžrajána 
 Diamantová cesta:vadžrajána 
+Phalajánam:vadžrajána 
 Precitanie:precitnutie 
 Nibbána:nirvána 
 Vyslobodenie:oslobodenie 
@@ -10890,19 +10749,19 @@ Zobudenie:prebudenie
 Zobúdzanie:prebudenie 
 Jazdenie:jazda 
 Veľké vozidlo:mahájána 
-Hromové vozidlo:vadžrajána 
 Diamantový voz:vadžrajána 
 Diamantové vozidlo:Vadžrajána 
+Hromové vozidlo:vadžrajána 
 Hínajánový budhizmus:Hínajána 
-Malá cesta:Hínajána 
 Malé vozidlo:Hínajána 
+Malá cesta:Hínajána 
 Hínajánový buddhizmus:Hínajána 
 Južný buddhizmus:Hínajána 
 Théravádsky budhizmus:Théraváda 
-Théravádinský budhizmus:Théraváda 
 Cesta starších:Théraváda 
-Théravádsky buddhizmus:Théraváda 
+Théravádinský budhizmus:Théraváda 
 Théravádový buddhizmus:Théraváda 
+Théravádsky buddhizmus:Théraváda 
 Théravádinský buddhizmus:Théraváda 
 Karlmann:Karolman 
 Jazyčník čierny:Probosciger 
@@ -10922,8 +10781,8 @@ Zhongyuansaurus lishuiensis:Zhongyuansaurus
 Massif de l'Aïr:Aïr 
 Azbine:Aïr 
 Azbin:Aïr 
-Abzen:Aïr 
 Azben:Aïr 
+Abzen:Aïr 
 Zupaysaurus rougieri:Zupaysaurus 
 Zephyrosaurus schaffi:Zephyrosaurus 
 Zhuchengceratops inexpectus:Zhuchengceratops 
@@ -10945,8 +10804,8 @@ Pompiloidea:Hrabavky
 Výtvarníčka:Výtvarník 
 Pahrabavkovité:Pompilidae 
 Hrabuľky:hrabavky 
-Psammocharidae:Pompilidae 
 Krákorec:krakorec 
+Psammocharidae:Pompilidae 
 Ichtyológ:ichtyológia 
 Adan:Aden 
 Laodika:Laodiké 
@@ -10963,8 +10822,8 @@ Protogeneia:Prótogeneia
 Ampelos (dcéra Oxyla):Hamadryády 
 Aigeiros (mytológia):Hamadryády 
 Balanos:Hamadryády 
-Morea (mytológia):Hamadryády 
 Karya (dcéra Oxyla):Hamadryády 
+Morea (mytológia):Hamadryády 
 Ptelea (mytológia):Hamadryády 
 Syké:Hamadryády 
 Kraneia:Hamadryády 
@@ -10998,14 +10857,14 @@ Adductor:Priťahovač
 Sofoklés:Sofokles 
 Lichenizovaná huba:lišajník 
 Parsizmus:zoroastrizmus 
-Zaratuštrizmus:zoroastrizmus 
 Zarathuštrizmus:zoroastrizmus 
+Zaratuštrizmus:zoroastrizmus 
 Bernolákovská slovenčina:bernolákovčina 
 Bernolákova slovenčina:bernolákovčina 
 Surová nafta:ropa 
+Surový minerálny olej:ropa 
 Surový petrolej:ropa 
 Čierne zlato:ropa 
-Surový minerálny olej:ropa 
 Mátriká:mátrká 
 Ustúpenie:ústup 
 Ustupovanie:ústup 
@@ -11036,8 +10895,8 @@ Maï-Ndombe:Mai-Ndombe
 Leókédés:Leókédes 
 Lingala:lingalčina 
 Ngala:ngalčina 
-Tukydides:Thoukydides 
 Thúkydides:Thoukydides 
+Tukydides:Thoukydides 
 Tubruk:Tobruk 
 Antipyrgos:Tobruk 
 Imsety:Imset 
@@ -11050,8 +10909,8 @@ Lakestadés:Lakestades
 Jaipur:Džajpur 
 Mahárádža:Maharadža 
 Mahárádžňí:Maharadža 
-Mahárání:Maharadža 
 Mahárádžah:Maharadža 
+Mahárání:Maharadža 
 ATPáza:Adenozíntrifosfatáza 
 Príleský:Príleskovci 
 Prileszky:Príleskovci 
@@ -11062,13 +10921,13 @@ Kníhvedenie:účtovníctvo
 Uri:URI 
 Mokoša:Mokoš 
 Mahábalípuram:Mámallapuram 
-Mahábalipúr:Mámallapuram 
 Mahápalipuram:Mámallapuram 
+Mahábalipúr:Mámallapuram 
 Amfigyés:Amfigyes 
 Erechtheus II.:Erechtheus 
 Al-Gazálí:al-Gazzálí 
-Algazel:Al-Gazzálí 
 Al-Ghazálí:al-Gazzálí 
+Algazel:Al-Gazzálí 
 Sankt-Peterburg:Petrohrad 
 Archimandrit:archimandrita 
 ATOS:Athos 
@@ -11109,16 +10968,16 @@ Kalorizovanie:kalorizácia
 Bibliotheca:Myriobiblon 
 Myrióvivlos:Myriobiblon 
 Myriovivlon:Myriobiblon 
-Muriobiblon:Myriobiblon 
 Myrióvivlon:Myriobiblon 
+Muriobiblon:Myriobiblon 
 Myriobiblion:Myriobiblon 
-Myriovivlion:Myriobiblon 
 Myriovívlion:Myriobiblon 
 Muriobiblion:Myriobiblon 
+Myriovivlion:Myriobiblon 
 Myriobiblos:Myriobiblon 
 Myriovivlos:Myriobiblon 
-Muriobiblos:Myriobiblon 
 Bibliothéké:Myriobiblon 
+Muriobiblos:Myriobiblon 
 Vivliothiki:Myriobiblon 
 Bibliothecae Codices:Myriobiblon 
 Vivliothíki:Myriobiblon 
@@ -11156,10 +11015,10 @@ Vnútorné ožarovanie:Brachyterapia
 Curieterapia:Brachyterapia 
 Chloris:Chlóris 
 "Heroes":Heroes 
-Krajinkárstvo:krajinomaľba 
 Krajinárstvo:krajinomaľba 
-Krajinkár:krajinomaľba 
+Krajinkárstvo:krajinomaľba 
 Krajinár:krajinomaľba 
+Krajinkár:krajinomaľba 
 Harpalyka:Harpalyké 
 Harpalyke:Harpalyké 
 Púlydamas:Poulydamas 
@@ -11174,8 +11033,8 @@ Polykasta:Polykasté
 Polykaste:Polykasté 
 Eikasia:Kassia 
 Ikasia:Kassia 
-Kassiané:Kassia 
 Kassiána:Kassia 
+Kassiané:Kassia 
 Džojstik:joystick 
 Mentór:Mentor 
 Pubertálne obdobie:puberta 
@@ -11183,8 +11042,8 @@ Zrenie:dozrievanie
 Maturácia:dozrievanie 
 Gobustan:Qobustan 
 Šírvánšáh:širvánšáh 
-Šarvánšáh:širvánšáh 
 Šervánšáh:širvánšáh 
+Šarvánšáh:širvánšáh 
 Gabriele Susanne Kernerová:Nena 
 Pasterizovanie:pasterizácia 
 Gabriele Susanne Kerner:Nena 
@@ -11192,8 +11051,8 @@ Pasteurizovanie:pasterizácia
 Rifle:Džínsy 
 Džíny:Džínsy 
 Texasky:džínsy 
-Texy:džínsy 
 Cowboy:kovboj 
+Texy:džínsy 
 Medzník:rozhranie 
 Rozmnoženie:rozmnožovanie 
 Množenie:rozmnožovanie 
@@ -11207,28 +11066,28 @@ Filištíni:Filištínci
 Pelištejci:Filištínci 
 Peliští:Filištínci 
 Makkabejci:Makabejci 
-Makabejčania:Makabejci 
 Machabejčania:Makabejci 
-Machabejskí:Makabejci 
+Makabejčania:Makabejci 
 Makabejskí:makabejci 
 Makabejec:Makabejci 
-Machabejec:Makabejci 
+Machabejskí:Makabejci 
 Makabejčan:Makabejci 
-Makabejský:Makabejci 
+Machabejec:Makabejci 
 Machabejčan:Makabejci 
+Makabejský:Makabejci 
 Mežgorie:Mižhiria 
 Šá’úl:Šáúl 
 Šául:Šáúl 
-Šá’ul:Šáúl 
 Šaul:Šáúl 
+Šá’ul:Šáúl 
 Benjamin:Benjamín 
 Benjamínok:Benjamín 
 Russia Today:RT 
 Adopcianizmus:Adopcionizmus 
 Bél-šarru-usur:Bél-šar-usur 
 Bél-šarra-usur:Bél-šar-usur 
-Bélšaccar:Bél-šar-usur 
 Balát-šar-usur:Bél-šar-usur 
+Bélšaccar:Bél-šar-usur 
 Balsazár:Bél-šar-usur 
 Balsazar:Bél-šar-usur 
 Belsazar:Bél-šar-usur 
@@ -11241,12 +11100,12 @@ Adoptovanie:adopcia
 Familia:família 
 Prisvojenie:osvojenie 
 Raring Ringtail:Ubuntu#Verzie 
-Imaginizmus:Imagizmus 
 Imažinizmus:Imagizmus 
+Imaginizmus:Imagizmus 
 Gagauz-Yeri:Găgăuzia 
 Gagauzia:Găgăuzia 
-Gagauziya:Găgăuzia 
 Gagauz Yeri:Găgăuzia 
+Gagauziya:Găgăuzia 
 Gagauzija:Găgăuzia 
 Gagauz-Jeri:Găgăuzia 
 Pudlík:Pudel 
@@ -11262,31 +11121,31 @@ Poznatky:poznatok
 Čestíja:čištíja 
 Bektášija:bektašija 
 Bektášíja:bektašija 
-Bektaši:bektašija 
 Bektaš:bektašija 
+Bektaši:bektašija 
 Súfi:Sufizmus 
 Súfiovia:sufizmus 
 Súfíovia:sufizmus 
 Sufiovia:sufizmus 
 Sufista:sufizmus 
 Súfista:sufizmus 
-Sufijci:sufizmus 
 Sufijec:sufizmus 
-Súfijci:sufizmus 
+Sufijci:sufizmus 
 Súfijec:sufizmus 
 Súfisti:sufizmus 
-Mawlawí:Moulaví 
+Súfijci:sufizmus 
 Mawlaví:Moulaví 
+Mawlawí:Moulaví 
 Maulawí:Moulaví 
 Mawlavíja:mawlawíja 
-Maulawíja:mawlawíja 
 Maulavíja:mawlawíja 
+Maulawíja:mawlawíja 
 Mawláwíja:mawlawíja 
 Mauláví:moulaví 
-Mevlevíje:mawlawíja 
 Mouláví:Moulaví 
-Mewlewíje:mawlawíja 
+Mevlevíje:mawlawíja 
 Mevlevíja:mawlawíja 
+Mewlewíje:mawlawíja 
 Mevlevî:mawlawíja 
 Jedľovská:Jedľovský 
 Lettrichová:Lettrich 
@@ -11310,8 +11169,8 @@ Al-Súfí:As-Súfí
 Karpatská sústava:Karpaty 
 Karpatský systém:Karpaty 
 Karpatský oblúk:Karpaty 
-Atalante:Atalanté 
 Atalanta:Atalanté 
+Atalante:Atalanté 
 Észak-magyarországi-középhegység:Északi-középhegység 
 Severné stredohorie:Északi-középhegység 
 Severomaďarské stredohorie:Északi-középhegység 
@@ -11329,8 +11188,8 @@ Darés:Dares
 Valachovičová:Valachovič 
 Jednoduchá samohláska:Samohláska 
 Samohláskový zvuk:Samohláska 
-Vokalický zvuk:samohláska 
 Monoftong:samohláska 
+Vokalický zvuk:samohláska 
 Adghagh:Adrár 
 Ad'agh:Adrár 
 Stümpelová:Stümpel 
@@ -11340,8 +11199,8 @@ Pupáčky:opekanec
 Országová:Ország 
 Országhová:Országh 
 Ohlas:ozvena 
-Ozvuk:ozvena 
 Ozyv:ozvena 
+Ozvuk:ozvena 
 Víry s vertikálnou osou:tromba 
 Thersítés:Thersites 
 Thersités:Thersites 
@@ -11352,8 +11211,8 @@ Fischerová:Fischer
 Kolářová:Kolář 
 Adrasthea:Adrasteia 
 Adam Svatoš:Kato 
-Deph:Kato 
 Rigor Mortiz:Kato 
+Deph:Kato 
 Alkidika:Alkidiké 
 Eidomena:Eidomené 
 Rôznokrídle:šidlá 
@@ -11371,8 +11230,8 @@ Michalíková:Michalík
 Mihaliková:Mihalik 
 Mihálová:Mihál 
 Bodhidharma:Bódhidharma 
-Pchu-tchi-ta-mo:Bódhidharma 
 Ta-mo:Bódhidharma 
+Pchu-tchi-ta-mo:Bódhidharma 
 Kreslič:kreslenie 
 HON:Hon 
 Morský prieliv:prieliv 
@@ -11406,8 +11265,8 @@ Kenaan:Kanaán
 Gettingová:Getting 
 Lešon Kenaan:kenaančina 
 Kanaʼán:Kanaán 
-Kánaán:Kanaán 
 Kanaʼan:Kanaán 
+Kánaán:Kanaán 
 Kenaán:Kanaán 
 Kenán:Kanaán 
 Kenaʼán:Kanaán 
@@ -11415,8 +11274,8 @@ Kena’an:Kanaán
 SOVA:Sova 
 Kanaánčania:Kanaánci 
 Kanaančania:Kanaánci 
-Kenaanci:Kanaánci 
 Kenanejci:Kanaánci 
+Kenaanci:Kanaánci 
 Lešon Knaan:kenaančina 
 Knaan:Kanaán 
 McDonald:McDonald's 
@@ -11448,12 +11307,12 @@ Rizóma:podzemok
 Žihľava:Pŕhľava 
 Kopriva:Pŕhľava 
 Pokriva:Pŕhľava 
-Žihavka:Pŕhľava 
 Prhlica:Pŕhľava 
+Žihavka:Pŕhľava 
 Prhľavka:Pŕhľava 
+Koprvica:Pŕhľava 
 Koprivica:Pŕhľava 
 Urtica:Pŕhľava 
-Koprvica:Pŕhľava 
 Svetelné vlnenie:svetlo 
 Svetelné žiarenie:svetlo 
 Svetelná radiácia:svetlo 
@@ -11466,29 +11325,29 @@ Ríša Fátimovcov:Fátimovci
 Flavius Arcadius:Arkadios 
 Imperator Caesar Flavius Arcadius Augustus:Arkadios 
 Markián:Markian 
-Marcianus:Markian 
 Flavius Marcianus:Markian 
+Marcianus:Markian 
 Imperator Caesar Flavius Marcianus Augustus:Markian 
 Tiberios:Tiberius 
 Theodosios:Theodosius 
 Basil:Basileios 
-Basilios:Basileios 
 Bazilius:Basileios 
+Basilios:Basileios 
 Vasilios:Basileios 
 Šablóna:SKP:Šablóna:SgKP 
 Adrenokortikotropný hormón:Kortikotropín 
 Adrenokortikotropín:Kortikotropín 
 Níreus:Nireus 
-Jovianos:Iovianus 
 Jovianus:Iovianus 
-Iovianos:Iovianus 
+Jovianos:Iovianus 
 Iovian:Iovianus 
-Jovián:Iovianus 
 Jovian:Iovianus 
+Iovianos:Iovianus 
+Jovián:Iovianus 
 Flavius Iovianus:Iovianus 
 Imperator Caesar Flavius Iovianus Augustus:Iovianus 
-Hérakleónas:Héraklónas 
 Herakleonas:Héraklónas 
+Hérakleónas:Héraklónas 
 Heracleonas:Héraklónas 
 Heraclonas:Héraklónas 
 Kónstantinos Hérakleios:Héraklónas 
@@ -11497,8 +11356,8 @@ Zóé:Zoe
 Heraclius:Hérakleios 
 Iraklios:Hérakleios 
 Konstantinus:Konštantín 
-Konstantinos:Konštantín 
 Kónstantinos:Konštantín 
+Konstantinos:Konštantín 
 Palaiologos:Palaiologovci 
 Paleologos:Palaiologovci 
 Palaeologus:Palaiologovci 
@@ -11508,15 +11367,15 @@ Michaél:Michal
 Anastázius:Anastáz 
 Anastazius:Anastáz 
 Níkaia:Nikaia 
+Nikáia:Nikaia 
 Níkáia:Nikaia 
 Nikea:Nikaia 
-Nikáia:Nikaia 
 Nestorios:Nestorius 
 Jendeková:Jendek 
 Kniha Genezis:Genezis 
 Kniha Genesis:Genezis 
-Prvá Mojžišova kniha:Genezis 
 Kniha pôvodu:Genezis 
+Prvá Mojžišova kniha:Genezis 
 Tretia Mojžišova kniha:Levitikus 
 Kniha Leviticus:Levitikus 
 Kniha Numeri:Numeri 
@@ -11527,9 +11386,9 @@ Kniha Deuteronomium:Deuteronómium
 Piata Mojžišova kniha:Deuteronómium 
 Justinian:Justinián 
 Justinianos:Justinián 
-Justiniános:Justinián 
-Ioustinianos:Justinián 
 Jústiniános:Justinián 
+Ioustinianos:Justinián 
+Justiniános:Justinián 
 Ioustiniános:Justinián 
 Iustinianos:Justinián 
 Iustiniános:Justinián 
@@ -11538,22 +11397,22 @@ Plutarch:Ploutarchos
 Eleutherus:Eleutherius 
 Felix:Félix 
 Car-pooling:carpooling 
-Lift-sharing:carpooling 
 Car pool:carpooling 
-Car pooling:carpooling 
+Lift-sharing:carpooling 
 Ride-sharing:carpooling 
+Car pooling:carpooling 
 Zdieľanie jázd:carpooling 
 Zdieľanie jazdy:carpooling 
 Fahrgemeinschaft:carpooling 
 Covoiturage:carpooling 
 Car sharing:car-sharing 
-Car club:car-sharing 
 Zdieľanie áut:car-sharing 
+Car club:car-sharing 
 Zdieľanie automobilov:car-sharing 
-Teodóros:Teodor 
 Theodóros:Teodor 
-Theodorus:Teodor 
+Teodóros:Teodor 
 Theodoros:Teodor 
+Theodorus:Teodor 
 Paulos:Pavol 
 Paulus:Pavol 
 Roboám:Rechabeám 
@@ -11565,14 +11424,14 @@ Svjatopolk:Sviatopolk
 Pappová:Papp#Pappová 
 IDRA:Idra 
 Chairóneia:Cheronia 
-Levadia:Livadia 
 Chaeronea:Cheronia 
+Levadia:Livadia 
 Lebadeia:Livadia 
 Nikéforos:Nikefor 
-Nikeforos:Nikefor 
 Níkéforos:Nikefor 
 Nikiforos:Nikefor 
 Nicephorus:Nikefor 
+Nikeforos:Nikefor 
 Bukovský (priezvisko):Bukovský 
 Ergínos:Erginos 
 Šoltésová:Šoltés 
@@ -11580,13 +11439,13 @@ Rokuondži:kinkakudži
 Ta'izz:Taizz 
 Rozštiepenie:štiepenie 
 Héliaiá:héliaia 
-Heliaia:héliaia 
-Héliastes:héliaia 
 Heliaja:héliaia 
+Héliastes:héliaia 
+Heliaia:héliaia 
 Héliastés:héliaia 
-Gerousiá:gerúzia 
-Gerousia:gerúzia 
 Gerúsia:gerúzia 
+Gerousia:gerúzia 
+Gerousiá:gerúzia 
 Gerúsiá:gerúzia 
 Gerusiá:gerúzia 
 Židovské osvietenstvo:Haskala 
@@ -11597,11 +11456,11 @@ Zarathustra:Zarathuštra
 Mazdizmus:mazdaizmus 
 Mazdeizmus:mazdaizmus 
 Zarathustrizmus:zoroastrizmus 
-Zaratustrizmus:zoroastrizmus 
 Pársizmus:zoroastrizmus 
+Zaratustrizmus:zoroastrizmus 
 Máné:Mání 
-Mánéjasja:Mání 
 Manés:Manes 
+Mánéjasja:Mání 
 Manichaeus:Mání 
 Mannicheus:Mání 
 Dioklés:Diokles 
@@ -11609,11 +11468,11 @@ Horal:horali
 Päťmestie:pentapolis 
 Héró:Héro 
 Dendara:Dandara 
-Tentoré:Dandara 
 Tenosra:Dandara 
+Tentoré:Dandara 
+Tantere:Dandara 
 Nikentore:Dandara 
 Tareret:Dandara 
-Tantere:Dandara 
 Taentem:Dandara 
 Narsés:Narses 
 Zjednocovanie:zjednotenie 
@@ -11636,20 +11495,20 @@ Haugová:Haug#Haugová
 Japonský šach:šógi 
 Púť:putovanie 
 Morušovník:moruša 
-Bahá’izmus:Bahaizmus 
 Bahá’i:Bahaizmus 
+Bahá’izmus:Bahaizmus 
 Trvalá rastlina:perena 
 Trváca rastlina:perena 
 Morus:Moruša 
 Bosáková:Bosák 
 Epikasta:Epikasté 
 Filonoma:Filonomé 
-Pogréčtovanie:helenizácia 
 Helenizovanie:helenizácia 
+Pogréčtovanie:helenizácia 
 Lexikon:lexikón 
+Všehomír:vesmír 
 Všemír:vesmír 
 Všesvet:vesmír 
-Všehomír:vesmír 
 Zastupiteľský zbor:Zastupiteľstvo 
 Wesselényi:Vešeléni 
 Wesselini:Vešeléni 
@@ -11662,8 +11521,8 @@ Rákoczi:Rákoci
 Iokasta:Iokasté 
 Portulán:Portolán 
 Portolánová mapa:portolán 
-Kompasová mapa:portolán 
 Portulánová mapa:portolán 
+Kompasová mapa:portolán 
 Notársky úrad:notár 
 Notárska listina:notár 
 Legalizovanie:legalizácia 
@@ -11685,8 +11544,8 @@ Ebrahim:Ibráhím
 Sousse:Súsa 
 Židovská harfa:Drumbľa 
 Dromľa:Drumbľa 
-Drmľa:drumbľa 
 Drumlica:drumbľa 
+Drmľa:drumbľa 
 Grumbla:drumbľa 
 Brnkáš:drumbľa 
 Marsupialia:vačkovce 
@@ -11702,8 +11561,8 @@ Mravčiar:mravčiarovité
 Kniha dokumentov:Šu-ťing 
 Li-ťing:Li-ťi 
 Kniha obradov:Li-ťi 
-Kniha zvykov:Li-ťi 
 Zápisky o obradoch:Li-ťi 
+Kniha zvykov:Li-ťi 
 Zápisy o rítoch:Li-ťi 
 Jar a jeseň:čchun-čchiou 
 Jari a jesene:Čchun-čchiou 
@@ -11723,11 +11582,11 @@ Marobod:Marobud
 Maroboduus:Marobud 
 Le Figaro:Figaro 
 Podpaľač:Podpaľačstvo 
-Djakarta:Jakarta 
 Džakarta:Jakarta 
+Djakarta:Jakarta 
 Dawha:Dauha 
-Dawhá:Dauha 
 Dóha:Dauha 
+Dawhá:Dauha 
 Dohá:Dauha 
 Dóhá:Dauha 
 Berber:Berberi 
@@ -11740,8 +11599,8 @@ Regesta:regest
 Búkefalos:Boukefalos 
 Lapithés:Lapithes 
 Stilba:Stilbé 
-Thesalia:Tesália 
 Thesália:Tesália 
+Thesalia:Tesália 
 Thessalia:Tesália 
 Polypoités:Polypoites 
 Kiméri:Kimerovia 
@@ -11754,8 +11613,8 @@ Integrovaný pamäťový radič:Northbridge
 Memory controller hub:Northbridge 
 Integrated memory controller:Northbridge 
 Faláfil:falafel 
-Džerzej:džersej 
 Jersej:džersej 
+Džerzej:džersej 
 Jeton:žetón 
 Američan:Američania 
 Zierotinovci:Žerotínovci 
@@ -11777,16 +11636,16 @@ Saldo na účte:saldo
 Účtovné saldo:saldo 
 Žeňšeň:ženšen 
 Žeň-šeň:ženšen 
-Koreň ginseng:ženšen 
 Ginseng:ženšen 
+Koreň ginseng:ženšen 
 Eurykyda:Eurykydé 
 Šablóna:Stub:Šablóna:Výhonok 
 Asterodeia:Asterodia 
 Péró:Péro 
 Cosplayer:cosplay 
 Kosupure:cosplay 
-Panónska hora:Pannonhalma 
 Panónsky chlm:Pannonhalma 
+Panónska hora:Pannonhalma 
 Vrch pannonský:Pannonhalma 
 Svätá hora panónska:Pannonhalma 
 Agasthenés:Agasthenes 
@@ -11823,12 +11682,12 @@ Rusňáci:Rusíni
 Rusnáci:Rusíni 
 Ruthéni:Rusíni 
 Ruténi:Rusíni 
-Uhrorusi:Rusíni 
+Karpatorusi:Rusíni 
 Uhorskí Rusi:Rusíni 
+Uhrorusi:Rusíni 
 Haličskí Rusi:Rusíni 
 Karpatskí Rusi:Rusíni 
 Podkarpatskí Rusi:Rusíni 
-Karpatorusi:Rusíni 
 Uhorskí Malorusi:Rusíni 
 Haličskí Malorusi:Rusíni 
 Karpatskí Rusíni:Rusíni 
@@ -11844,8 +11703,8 @@ Fixovanie:fixácia
 Fixáž:fixácia 
 Sýrania:Sýrčania 
 Manská mačka:Manx 
-Predpony SI:SI#Predpony 
 SI predpona:SI#Predpony 
+Predpony SI:SI#Predpony 
 Fabio Frittelli:Mo-Do 
 SI predpony:SI#Predpony 
 Rock'n'roll:Rokenrol 
@@ -11859,8 +11718,8 @@ Lopov:palacka
 Lopóv:Palacka 
 Bútela:palacka 
 Grgana:palacka 
-Grganka:palacka 
 Hrgana:palacka 
+Grganka:palacka 
 Krajčiová:Krajči 
 Varšany:Kalinčiakovo 
 Labantová:Labant 
@@ -11868,8 +11727,8 @@ Anaxareta:Anaxareté
 Atymnos:Atymnios 
 Kucserová:Kucsera 
 Schererová:Scherer 
-Kállayová:Kállay 
 Magálová:Magál 
+Kállayová:Kállay 
 Kropiláková:Kropilák 
 Moriová:Mori 
 Mytileny:Mytilini 
@@ -11881,10 +11740,10 @@ Džungle:džungľa
 Džangle:džungľa 
 Cinter:Cintorín 
 Cintor:Cintorín 
-Cinterín:Cintorín 
 Cintir:Cintorín 
 Cinťarín:Cintorín 
 Cinterím:Cintorín 
+Cinterín:Cintorín 
 Cincerín:Cintorín 
 Cmiťer:Cintorín 
 Cmitier:Cintorín 
@@ -11899,24 +11758,24 @@ Murinová:Murin
 Janoušková:Janoušek 
 Janoušeková:Janoušek 
 Evry:euro 
-Euri:euro 
 Euráč:euro 
+Euri:euro 
 Klokočová:Klokoč 
 Lajčáková:Lajčák 
 Lajčiaková:Lajčiak 
 Borůvková:Borůvka 
 Hrianková:Hrianka 
 Hargašová:Hargaš 
-Fúnus:pohreb 
 Funus:pohreb 
-Pohrebný obrad:pohreb 
 Pohrab:pohreb 
+Fúnus:pohreb 
+Pohrebný obrad:pohreb 
 Posledná rozlúčka:pohreb 
 Hrobitov:cintorín 
 Nahrobiech:cintorín 
 Sinópa:Sinópé 
-Sinopé:Sinópé 
 Sinopa:Sinópé 
+Sinopé:Sinópé 
 Špitálnici:špitálnik 
 Hospitalisti:hospitaliti 
 Špitálni bratia:hospitaliti 
@@ -11939,17 +11798,17 @@ Eurík:Euro
 Eurka:Euro 
 Eurko:Euro 
 Eurček:Euro 
-Jurášik:Euro 
 Euráčik:Euro 
+Jurášik:Euro 
 Synthcore:Electronicore 
 Ľuptáková:Ľupták 
 Hospitál:Špitál 
 Romák:Rómovia 
 Romáci:Rómovia 
-Romovka:Rómovia 
 Cigaňa:cigáň 
-Cigáňka:cigáň 
+Romovka:Rómovia 
 Rómka:Rómovia 
+Cigáňka:cigáň 
 Romovia:Rómovia 
 Romčina:rómčina 
 Sumikluš:Tornyiszentmiklós 
@@ -11968,8 +11827,8 @@ Kosztová:Koszta
 Sintskí Rómovia:Sinti 
 Sintskí Romovia:Sinti 
 Rómsky dialekt:rómčina 
-Rómske nárečie:rómčina 
 Romský dialekt:rómčina 
+Rómske nárečie:rómčina 
 Romské nárečie:rómčina 
 Cigánsky dialekt:rómčina 
 Cigánske nárečie:rómčina 
@@ -11990,15 +11849,15 @@ El Ksar:Ksar
 Qasr:Kasr 
 Al-Kasr:Kasr 
 Al-Qasr:Kasr 
+El Qasr:Kasr 
 El Kasr:Kasr 
 El-Kasr:Kasr 
-El Qasr:Kasr 
 El-Ksar:Kasr 
 Huszárová:Huszár 
 Rybářová:Rybář 
 Rubíková:Rubík 
-Welehrad:Velehrad 
 Welegrad:Velehrad 
+Welehrad:Velehrad 
 Wellegrad:Velehrad 
 Marobudova ríša:Marobud 
 Marbodova ríša:Marobud 
@@ -12026,8 +11885,8 @@ Vondrišel:Nálepkovo
 Nádašová:Nádaš 
 Nádasová:Nádas 
 Nádašiová:Nádaši 
-Pozsonynádas:Trstín 
 Nádasiová:Nádasi 
+Pozsonynádas:Trstín 
 Milerová:Miler 
 Mullerová:Muller 
 Müllerová:Müller 
@@ -12055,8 +11914,8 @@ Polyfontés:Polyfontes
 Čobrda (priezvisko):Čobrda 
 Čobrdová:Čobrda 
 Filípeková:Filípek 
-Filipeková:Filipek 
 Filípková:Filípek 
+Filipeková:Filipek 
 Melzerová:Melzer 
 Meltzerová:Meltzer 
 Melczerová:Melczer 
@@ -12073,14 +11932,14 @@ Lýcia:Lýkia
 Dákia:Dácia 
 Schôdzka na najvyššej úrovni:samit 
 Rokovanie na najvyššej úrovni:samit 
-Vrcholové stretnutie:samit 
 Konferencia na najvyššej úrovni:samit 
+Vrcholové stretnutie:samit 
 Vrcholné stretnutie:samit 
-Vrcholná schôdzka:samit 
 Vrcholová schôdzka:samit 
-Vrcholné rokovania:samit 
 Vrcholové rokovania:samit 
+Vrcholná schôdzka:samit 
 Vrcholová konferencia:samit 
+Vrcholné rokovania:samit 
 Vrcholná konferencia:samit 
 Paulíny-Tóth:Pauliny-Tóth 
 Paulinyová:Pauliny 
@@ -12091,14 +11950,14 @@ Láclavka:Podpňovka
 Lacvajka:Podpňovka 
 Ráclavka:Podpňovka 
 Laclavíčka:Podpňovka 
-Michálka:Podpňovka 
 Vícvalka:Podpňovka 
+Michálka:Podpňovka 
 Michalanka:Podpňovka 
 Hromadinka:Podpňovka 
 Hromadzinka:Podpňovka 
+Honcúra:Podpňovka 
 Hromadenka:Podpňovka 
 Veseliarka:Podpňovka 
-Honcúra:Podpňovka 
 Halamaš:Podpňovka 
 Dankóová:Dankó 
 Bezák (priezvisko):Bezák 
@@ -12135,17 +11994,17 @@ Co:kobalt
 Ni:nikel 
 Zn:zinok 
 Ga:gálium 
-Br:bróm 
 Se:selén 
+Br:bróm 
 Rb:rubídium 
 Kr:kryptón 
 Sr:SR 
-Nb:niób 
 Zr:zirkónium 
-Mo:molybdén 
-Tc:technécium 
+Nb:niób 
 CU:Cu 
+Mo:molybdén 
 Ru:RU 
+Tc:technécium 
 Pd:PD 
 LI:Li 
 BE:Be 
@@ -12154,8 +12013,8 @@ NA:Na
 MG:Mg 
 AL:Al 
 Euteichés:Euteiches 
-Polláková:Pollák 
 Poláková:Polák 
+Polláková:Pollák 
 Hippokorystés:Hippokorystes 
 Krinó:Krino 
 Alkinous:Alkinoos 
@@ -12201,32 +12060,30 @@ Dióxippa:Dióxippé
 Tormoš:Chrenová 
 Sídlisko Chrenová:Chrenová 
 Démonika:Démoniké 
-Wikipédia:VisualEditor/Názory::mw:VisualEditor/Feedback 
 Talamaska:Talamasca 
 Growling Mad Scientists:GMS 
 ZIRST:Inovallée 
 Theagenés:Theagenes 
 Agathoklés:Agathokles 
 Rhytidoma:Borka 
-1 000:1000 
 Ifimedúsa:Ifimedousa 
 Ifimedusa:Ifimedousa 
-Euchenor:Euchénor 
 Euchénór:Euchénor 
+Euchenor:Euchénor 
 Jozef Gertli:Danglár 
 Glauke:Glauké 
 Glauka:Glauké 
 Hippomedúsa:Hippomedousa 
-Hippomedusa:Hippomedousa 
 Alkménór:Alkménor 
 Alkmenor:Alkménor 
+Hippomedusa:Hippomedousa 
 Diokorystés:Diokorystes 
 Nitrogenium:Dusík 
 Peiréna:Peiréné 
 Cyborg:Kyborg 
 Pygmej:pygmejovia 
-Pygmeji:Pygmejovia 
 Pygmejka:Pygmejovia 
+Pygmeji:Pygmejovia 
 Néló:Nélo 
 Heteroptera:Bzdochy 
 Jagellovci:Jagelovci 
@@ -12237,14 +12094,14 @@ Smaženie:praženie
 Uškvarenie:škvarenie 
 Udusenie:dusenie 
 Upraženie:praženie 
-Vypraženie:praženie 
 Vysmážanie:praženie 
-Usmaženie:praženie 
+Vypraženie:praženie 
 Vysmaženie:praženie 
+Usmaženie:praženie 
 Metoxymetán:dimetyléter 
 Prvotlač:inkunábula 
-Uádí:wádí 
 Wed:wádí 
+Uádí:wádí 
 Vadi:wádí 
 Oued:wádí 
 Laminovaná doska:lamino 
@@ -12284,8 +12141,8 @@ Cencerro:cow-bell
 La Campana:Campana 
 Vôňokvetka:osmant 
 Osmantus:osmant 
-Lágovci:Ptolemaiovci 
 Lagovci:Ptolemaiovci 
+Lágovci:Ptolemaiovci 
 Kleopatrá:Kleopatra 
 Internationalized Domain Names:IDN 
 Adygejský jazyk:Adygejčina 
@@ -12304,21 +12161,21 @@ Der Neue Pauly:Pauly-Wissowa
 Musaion:museion 
 Falos:Falus 
 Múseion:Museion 
-Músaion:Museion 
 Mouseion:Museion 
-Muséion:Museion 
+Músaion:Museion 
 Mousaion:Museion 
+Muséion:Museion 
 Múséion:Museion 
 Mouséion:Museion 
 Muséon:Museion 
-Múséon:Museion 
 Mouséon:Museion 
+Múséon:Museion 
 Aristomédés:Aristomédes 
 Proumnis:Prymnis 
 Ačaretis:Adžarsko 
 Búnos:Bounos 
-Kadá’ Halabča:Halabdža 
 Kadá’ Halabdža:Halabdža 
+Kadá’ Halabča:Halabdža 
 Halabča:Halabdža 
 Kadá’ Halabčah:Halabdža 
 Halabčah:Halabdža 
@@ -12343,7 +12200,6 @@ Antiklés:Antikles
 Leócharés:Leóchares 
 Leochares:Leóchares 
 Hustopeče u Brna:Hustopeče 
-Diaľnica A6:A6 
 Marko Elefteriadis:Ektor 
 Daihacu Kógjó:Daihatsu 
 2,2,4-Trimetylpentán:Izooktán 
@@ -12355,8 +12211,8 @@ Kobylí na Moravě:Kobylí
 Husitizmus:Husitstvo 
 Husitské hnutie:Husitstvo 
 Gjódža:Jamabuši 
-Akúsilaos:Akousilaos 
 Akusilaos:Akousilaos 
+Akúsilaos:Akousilaos 
 Pleisthenés:Pleisthenes 
 New Musical Express:NME 
 Neo-psychédelia:Neo-psychedelia 
@@ -12364,8 +12220,8 @@ Hranolový ďalekohľad:Triéder
 Drobnohľad:Mikroskop 
 Trieder:Triéder 
 Allgemeine Elektricitäts-Gesellschaft Aktiengesellschaft:AEG 
-AEG Telefunken:AEG 
 AEG Aktiengesellschaft:AEG 
+AEG Telefunken:AEG 
 Deutsche Edison-Gesellschaft für angewandte Elektricität:AEG 
 Aegyptopithecus zeuxis:Egyptopitek 
 Beatlemania:Beatlemánia 
@@ -12409,16 +12265,16 @@ All Media Network:Allmusic
 Střemen:Střmen 
 Simónidés:Simónides 
 Cháridžíja:Cháridža 
-Cháridžovci:Cháridža 
 Al-chawáridž:Cháridža 
-Cháridžiti:Cháridža 
+Cháridžovci:Cháridža 
 Charidžiti:Cháridža 
+Cháridžiti:Cháridža 
 Moslimstvo:Islam 
 Mohamedánstvo:Islam 
-Musulmanstvo:Islam 
 Mohamedanizmus:Islam 
-Chrysaór:Chrysaor 
+Musulmanstvo:Islam 
 Chrýsaór:Chrysaor 
+Chrysaór:Chrysaor 
 Eurynoma:Eurynomé 
 Senegambijská konfederácia:Senegambia 
 Maltuziánska populačná teória:Maltuziánstvo 
@@ -12470,8 +12326,8 @@ Ofiofóbia:Ofidiofóbia
 Urea:Močovina 
 Ipsácia:Masturbácia 
 Koteka:Falokarp 
-Cecky:Cecok 
 Ňadrá:Prsník 
+Cecky:Cecok 
 Business:Biznis 
 Ňadro:Prsník 
 PRS:Prs 
@@ -12491,14 +12347,14 @@ Kalchás:Kalchas
 Šablóna:Zmazané:Šablóna:ZMAZANÉ 
 Sexus:Sex 
 Ketkovický hrad:Levnov 
-Metaméria:Metamerizmus 
 Metamera:Metamerizmus 
+Metaméria:Metamerizmus 
 R.I.A.A.:RIAA 
 Flota:Loďstvo 
 Irbíl:Arbíl 
-Erbil:Arbíl 
-Erbel:Arbíl 
 Erbíl:Arbíl 
+Erbel:Arbíl 
+Erbil:Arbíl 
 Arbil:Arbíl 
 Gryllidae:Svrčkovité 
 Hewlêr:Arbíl 
@@ -12528,11 +12384,11 @@ Celephais:Celephaïs
 Aeróbny organizmus:Aerób 
 Športový aerobik:aerobik 
 Aeróbna gymnastika:Aerobik 
-Oxybióza:aerób 
 Aerobióza:aerób 
+Oxybióza:aerób 
 Aeróbny:aerób 
-Aerodróm:Letisko 
 Aerodisperzia:Aerosól 
+Aerodróm:Letisko 
 Aerodýn:Aerodyn 
 Arkus sínus:arkussínus 
 Arkus kosínus:arkuskosínus 
@@ -12542,13 +12398,6 @@ Vertex shader:shader
 Pixel shader:shader 
 Jednočipový počítač:Mikrokontrolér 
 AMD Opteron:Opteron 
-AMD Am286:Am286 
-AMD Am386:Am386 
-AMD Am586:Am5x86 
-AMD Am486:Am486 
-AMD Am2900:Am2900 
-AMD Am9080:Am9080 
-AMD Am29000:Am29000 
 Ardeidae:Volavkovité 
 Disk Operating System:DOS 
 Super Extended Graphics Array:SXGA 
@@ -12556,7 +12405,6 @@ Aerologické observatórium:Aerológia
 Aerometer:Hustomer 
 Aeronautika:Letectvo 
 Aerophagia:Aerofágia 
-T602:Text602 
 Aerotaxík:Aerotaxi 
 Skalná voština:Aeroxysta 
 CompactFlash I:CompactFlash 
@@ -12575,13 +12423,13 @@ Loricariidae:Lorikáriovité
 Betta:Bojovnica 
 Dingovníci:Handelci 
 Stilus:Stylus 
+Erdheimov nádor:Kraniofaryngeóm 
 Erdheimov tumor:Kraniofaryngeóm 
 Rathkeho nádor:Kraniofaryngeóm 
-Erdheimov nádor:Kraniofaryngeóm 
 Parapituitárny nádor:Kraniofaryngeóm 
 Adamantinóm hypofýzy:Kraniofaryngeóm 
-Ameloblastóm hypofýzy:Kraniofaryngeóm 
 Supraselárna cysta:Kraniofaryngeóm 
+Ameloblastóm hypofýzy:Kraniofaryngeóm 
 Murrákiš:Murrákuš 
 Elektrický motor:elektromotor 
 Boehm:Böhm 
@@ -12595,10 +12443,8 @@ Ventilácia:Vetranie
 Cha-cha:čačača 
 Napoli:Neapol 
 Robyn Rihanna Fenty:Rihanna 
-Primovce:Hôrka 
 Kišovce:Hôrka 
-71-402:UTM-2 
-SPEKTR-1:UTM-2 
+Primovce:Hôrka 
 Anastacia Lyn Newkirk:Anastacia 
 Anastacia Lyn Newkirková:Anastacia 
 Anderson Luiz de Carvalho:Nenê 
@@ -12606,23 +12452,18 @@ Metropolitný biskup:Metropolita
 Perga:Pergé 
 Goldschmidtit:Sylvanit 
 Palermo (mesto):Palermo 
-71-403:UTM-3 
 Ryan Powell:Gridlok 
-71-405:UTM-5 
 SESIA:Sesia 
 Gejko:Gejša 
 Dolichus:Dolichos 
 Sorghum:Cirok 
 Imunoglobulín:Protilátka 
-71-407:UTM-7 
 Parafyletická skupina:Parafyletizmus 
 Tesco plc:Tesco 
 Tesco public limited company:Tesco 
 Belistiché:Bilistiché 
 Ariadna Thalía Sodi Miranda:Thalía 
 Tanzimát:Tanzimat 
-71-132:LM-93 
-71-86:LVS-86 
 Ghibellino:Ghibellin 
 Waiblingovec:Ghibellin 
 Varius Avitus Bassianus Heliogabalus:Heliogabalus 
@@ -12630,13 +12471,13 @@ Alexander Nestor Haddaway:Haddaway
 Prusovia:Prusi 
 Alandské ostrovy:Alandy 
 Aalandské ostrovy:Alandy 
+Prus:Prusi 
 Aalandy:Alandy 
 Archont:Archón 
-Prus:Prusi 
 Prajz:Prajzi 
 Gaius Aurelius Valerius Diocletianus:Dioklecián 
-TPMP Kežmarok:Tatralift 
 Tatrapoma:Tatralift 
+TPMP Kežmarok:Tatralift 
 Umbo:Puklica 
 Hajduk:Hajdúch 
 Proteíny:Proteín 
@@ -12650,14 +12491,14 @@ Labský štít:Violík
 Łabski Szczyt:Violík 
 Maramureš:Marmaroš 
 Košuta:Koschuta 
-Šablóna:CRO:Šablóna:HRV 
 Šablóna:NED:Šablóna:NLD 
+Šablóna:CRO:Šablóna:HRV 
 Šablóna:CHI:Šablóna:CHL 
-Šablóna:GRE:Šablóna:GRC 
 Šablóna:CRC:Šablóna:CRI 
 Šablóna:URU:Šablóna:URY 
-Šablóna:GER:Šablóna:DEU 
+Šablóna:GRE:Šablóna:GRC 
 Šablóna:HON:Šablóna:HND 
+Šablóna:GER:Šablóna:DEU 
 Šablóna:POR:Šablóna:PRT 
 Polykarp:Polykarpos 
 Edward Smith Fatu:Umaga 
@@ -12694,9 +12535,9 @@ Takamasa Išihara:Miyavi
 Maturantka:Maturant 
 Abiturientka:Abiturient 
 Konzolový nosník:Konzola 
-Modrozelené baktérie:Sinice 
-Kyanobaktérie:Sinice 
 Modrozelené riasy:Sinice 
+Kyanobaktérie:Sinice 
+Modrozelené baktérie:Sinice 
 Cyanofyta:Sinice 
 Cyanoprokaryonta:Sinice 
 Cyanoprokaryofyta:Sinice 
@@ -12726,17 +12567,17 @@ Lemuridae:Lemurovité
 Voskopojë:Voskopoja 
 Poukaz:Poukážka 
 Poukázanie:Poukážka 
-Macedorumunčina:Arumunčina 
 Aromunčina:Arumunčina 
 Makedorumunčina:Arumunčina 
+Macedorumunčina:Arumunčina 
 Cincarčina:Arumunčina 
 Istrorománčina:Istrijčina 
 Slovné označenie špecifického rizika:R-veta 
 Menander:Menandros 
 Sprejové umenie:Graffiti 
 Perudža:Perugia 
-Perissodactyla:Nepárnokopytníky 
 Mesaxonia:Nepárnokopytníky 
+Perissodactyla:Nepárnokopytníky 
 Trachylida:Medúzovky 
 Kelt:Kelti 
 Lokroi:Lokris 
@@ -12754,9 +12595,9 @@ Infantéria:Pechota
 Komtesa:Kontesa 
 Pektusan:Päktusan 
 Nomádstvo:Kočovníctvo 
+Justín Mučeník:Justinus 
 Justín Martýr:Justinus 
 Justín Filozof:Justinus 
-Justín Mučeník:Justinus 
 Iustinos:Justinus 
 Ghará:Gaviál 
 Eubulos:Euboulos 
@@ -12767,8 +12608,8 @@ Resoli:Resolí
 Traianus:Traján 
 Vespasianus:Vespazián 
 Hadrianus:Hadrián 
-Decius:Décius 
 Diocletianus:Dioklecián 
+Decius:Décius 
 Ultratop 50:Ultratop 
 Ultratop 50 Singles:Ultratop 
 Šablóna:PRC:Šablóna:CHN 
@@ -12816,8 +12657,8 @@ Desén:Dezén
 Jezídíja:Jazídíja 
 Jazídi:Jazídíja 
 Jezídi:Jazídíja 
-Jezidi:Jazídíja 
 Dásim:Jazídíja 
+Jezidi:Jazídíja 
 Dawásim:Jazídíja 
 Lesný park:Lesopark 
 Apollophanes:Apollofanes 
@@ -12882,10 +12723,10 @@ Celestináni:Celestíni
 Θ:Théta 
 Μ:Mí 
 Λ:Lambda 
-Ξ:Ksí 
 Ν:Ní 
-Ρ:Ró 
 Ο:Omikron 
+Ρ:Ró 
+Ξ:Ksí 
 Σ:Sigma 
 Τ:Tau 
 Φ:Fí 
@@ -12899,8 +12740,8 @@ Kremenčug:Kremenčuk
 Jerk:Ryv 
 Svätý Hieronym:Hieronym 
 Višapakar:Višap 
-Komitas Vardapet:Komitas 
 Soghomon Soghomonjan:Komitas 
+Komitas Vardapet:Komitas 
 Redernovci z Redernu:Redernovci 
 LXX:Septuaginta 
 Caral-Supe:Caral 
@@ -12930,8 +12771,8 @@ NOV:Nov
 Efa:EFA 
 Narbo:Narbonne 
 Vivid Vervet:Ubuntu#Verzie 
-Xenial Xerus:Ubuntu#Verzie 
 Wily Werewolf:Ubuntu#Verzie 
+Xenial Xerus:Ubuntu#Verzie 
 Austrasia:Austrázia 
 Frizinky:Freising 
 Osterreich:Österreich 
@@ -12941,8 +12782,8 @@ Vespasián:Vespazián
 Vespasian:Vespazián 
 Kanonizovanie:Kanonizácia 
 WP:VYZ:Wikipédia:Vyznamenania 
-WP:STAR:Wikipédia:Vyznamenania 
 WP:BARN:Wikipédia:Vyznamenania 
+WP:STAR:Wikipédia:Vyznamenania 
 WP:BS:Wikipédia:Vyznamenania 
 WP:*:Wikipédia:Vyznamenania 
 WP:ADMIN:Wikipédia:Správcovia 
@@ -12961,8 +12802,8 @@ Aktivista:Aktivizmus
 Carpinus:Hrab 
 WP:RBK:Wikipédia:Rollback 
 WP:ROLLBACK:Wikipédia:Rollback 
-WP:ROLL:Wikipédia:Rollback 
 WP:RB:Wikipédia:Rollback 
+WP:ROLL:Wikipédia:Rollback 
 Palearktída:Paleoarktis 
 Mračno:Oblak 
 Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman Awatan Sathit Sakkathattiya Witsanukam Prasit:Bangkok 
@@ -12974,8 +12815,8 @@ Rabies:Besnota
 Šablóna:SLO:Šablóna:SVN 
 Compositae:Astrovité 
 Asteraceae:Astrovité 
-Cryptoprocta:Fosa 
 Cryptoproctidae:Fosa 
+Cryptoprocta:Fosa 
 Surikáta:Surikata 
 Suricata:Surikata 
 Strakopúd:Strakopud 
@@ -12991,8 +12832,8 @@ Antokyány:Antokyán
 Fytogeograf:Fytogeografia 
 Šablóna:Š:Šablóna:Tl 
 Reďkva:Reďkev 
-Redekva:Reďkev 
 Retkev:Reďkev 
+Redekva:Reďkev 
 Retkva:Reďkev 
 Redkvička:Reďkvička 
 Tarzus:Tarsus 
@@ -13000,9 +12841,9 @@ Pholcidae:Trasavkovité
 Tryphon:Tryfón 
 Malakka:Melaka 
 Malacca:Melaka 
-Stopaj:Stupaj 
-Šľapaj:Stupaj 
 Šľapa:Stupaj 
+Šľapaj:Stupaj 
+Stopaj:Stupaj 
 Šlepej:Stupaj 
 Nárt:Priehlavok 
 Paleoarktická oblasť:Paleoarktis 
@@ -13014,20 +12855,18 @@ Paleoarktická podoblasť:Paleoarktis
 Antokyan:Antokyán 
 Stužica – Bukovské vrchy:Stužica 
 Scotland:Škótsko 
-Eire:Írsko 
 Ireland:Írsko 
+Eire:Írsko 
 Lamachus:Lamachos 
 Rároha:Rároh 
 Wikipédia:AWB:Wikipédia:AutoWikiBrowser 
-Poštolka:Pustovka 
 Postolka:Pustovka 
+Poštolka:Pustovka 
 Pastovka:Pustovka 
 Sidé:Side 
 Salmonidae:Lososovité 
 Letovanie:Spájkovanie 
 Šablóna:Exp:Šablóna:Experimenty 
-Šablóna:Exp2:Šablóna:Experimenty2 
-Šablóna:Exp3:Šablóna:Experimenty3 
 Krňov:Krňák 
 Agedabia:Adždábijá 
 Nostocales:Nostokotvaré 
@@ -13056,18 +12895,15 @@ Kolótés:Kólótes
 Kolotes:Kólótes 
 Iulus:Askanios 
 Ürméniovci:Ilmeriovci 
-4ka.sk:4ka 
 Fatmagul:Fatmagül 
 Cirkumflex:Vokáň 
 Euénór:Euénor 
 ROSHEN:ROŠEN 
 Paleoscincus africanus:Paranthodon 
-Anthodon serrarius:Paranthodon 
 Paranthodon owenii:Paranthodon 
-Trappist-1:TRAPPIST-1 
+Anthodon serrarius:Paranthodon 
 Drahý opál:Opál 
 Oficier:Dôstojník 
-T-72M4 CZ:T-72M4CZ 
 Eutychidés:Eutychides 
 Apellás:Apellas 
 Klepačka:Klopačka 
@@ -13093,8 +12929,8 @@ Lep:Lepidlo
 Scareware:Ransomware 
 Rogueware:Ransomware 
 Yakkety Yak:Ubuntu 
-Artful Aardvark:Ubuntu 
 Zesty Zapus:Ubuntu 
+Artful Aardvark:Ubuntu 
 Planos:Tsilivi 
 Vedomník:Vedomec 
 Vražkyňa:Vražec 
@@ -13109,13 +12945,13 @@ Programové vybavenie počítača:Softvér
 Funkčné vybavenie počítača:Softvér 
 Operačné vybavenie počítača:Softvér 
 Hardver:Hardvér 
-Technické vybavenie počítača:Hardvér 
 Technické vybavenie:Hardvér 
+Technické vybavenie počítača:Hardvér 
 Technické prostriedky:Hardvér 
 Technické prostriedky počítača:Hardvér 
 Technika počítača:Hardvér 
-Konštrukčné prvky počítača:Hardvér 
 Programové prostriedky:Softvér 
+Konštrukčné prvky počítača:Hardvér 
 Programové prostriedky počítača:Softvér 
 Funkčné vystrojenie počítača:Softvér 
 Operačné vystrojenie počítača:Softvér 
@@ -13143,18 +12979,18 @@ Medik:medicína
 Za nové tvorivé činy v mene socializmu a mieru:Anticharta 
 Chromosférická flokula:Flokula 
 Mini PC:Nettop 
+Šablóna:MAS:Šablóna:MYS 
 Šablóna:INA:Šablóna:IDN 
 Šablóna:MGL:Šablóna:MNG 
-Šablóna:MAS:Šablóna:MYS 
 Ransomvér:Ransomware 
 Vydieračský softvér:Ransomware 
 Klimková:Klimek 
 Špionážny softvér:spyware 
 Špiónsky program:spyware 
-Špehovací softvér:spyware 
 Špiónsky softvér:spyware 
-Zlomyseľný softvér:malware 
 Reklamný softvér:adware 
+Zlomyseľný softvér:malware 
+Špehovací softvér:spyware 
 Collegium Pazmanianum:Pázmaneum 
 Robinia:Agát 
 X & Y:X&Y 
@@ -13172,10 +13008,10 @@ Khmér:Khméri
 Kambodžan:Kambodžania 
 Škrátek:škriatok 
 Zmek:zmok 
-Zmak:zmok 
 Smok:zmok 
-Rarášik:rarášok 
+Zmak:zmok 
 Rarášek:rarášok 
+Rarášik:rarášok 
 Božek:bôžik 
 Amerikánec:Amerikán 
 Amíci:Amík 
@@ -13185,19 +13021,15 @@ Amerikáni:Amerikán
 Duck Tales:DuckTales 
 Rastlinný parazit:Fytoparazit 
 Rastlinný cudzopasník:Fytoparazit 
-Amerikant:Amerikán 
 Amerikan:Amerikán 
+Amerikant:Amerikán 
 Odpisy:Odpis 
-Odpisovanie:Odpis 
 Odpísanie:Odpis 
+Odpisovanie:Odpis 
 Amortizovanie:Amortizácia 
 Umorenie:Amortizácia 
 Úmor:Amortizácia 
 Tylo:Väzy 
-Šablóna:Vb1:Šablóna:Volejbal1 
-Šablóna:Vb1h:Šablóna:Volejbal1-hlavička 
-Šablóna:Vb2:Šablóna:Volejbal2 
-Šablóna:Vb2h:Šablóna:Volejbal2-hlavička 
 Cyanopsitta spixii:Cyanopsitta 
 Šablóna:Dec:Šablóna:DEC 
 DU10:Avomet 
@@ -13237,16 +13069,16 @@ Pôvodina:originál
 Huvno:hovno 
 Popolavá:sivá 
 Popolavý:sivá 
-Šedý:sivý 
 Šedivá:sivá 
+Šedý:sivý 
 Burá:sivý 
+Buravý:sivá 
 Burý:sivá 
 Buravá:sivá 
-Buravý:sivá 
 Užitie:užívanie 
 Obyčajná cykloida:cykloida 
-Moluska:mäkkýše 
 Moluská:moluskum 
+Moluska:mäkkýše 
 Molluscum:moluskum 
 Vlastní Mongoli:Mongoli 
 Vlastní mongoli:Mongoli 
@@ -13258,19 +13090,19 @@ Dessewffy:Dežőfi
 Účastinná spoločnosť Dynamit Nobel v Bratislave:Istrochem 
 Závod Juraja Dimitrova:Istrochem 
 Rohovina:keratín 
+Keľ:kel 
 Kél:kel 
 Khel:kel 
-Keľ:kel 
-Závitnicovka:Spirogyra 
 AJAX:Ajax 
+Závitnicovka:Spirogyra 
 Zosobnenie:Personifikácia 
 Megawatthodina:Watthodina 
 Gigawatthodina:Watthodina 
 Terawatthodina:Watthodina 
 Pestovateľská odroda:kultivar 
-Spoluodroda:konvarieta 
 Convarieta:konvarieta 
 Skupina variet:konvarieta 
+Spoluodroda:konvarieta 
 Convarietas:konvarieta 
 Odroda pestovanej rastliny:kultivar 
 Nefcerská dolina:Nefcerka 
@@ -13279,8 +13111,8 @@ Jugoslavija:Juhoslávia
 Chef!:Chef 
 Červenic:červenica 
 Dynamit Nobel:Istrochem 
-Glgačke:haluška 
 Čuse:haluška 
+Glgačke:haluška 
 Hičkoše:haluška 
 Nočky:haluška 
 Trepanky:haluška 
@@ -13294,9 +13126,9 @@ Beánie:beánia
 Tetraploid:Ploidia 
 Neofyta:neofyt 
 Zdomácňovanie:zdomácnenie 
-Udomácnenie:zdomácnenie 
 Udomácňovanie:zdomácnenie 
 Domestifikácia:domestikácia 
+Udomácnenie:zdomácnenie 
 Krotenie:skrotenie 
 Tevere:Tiber 
 Zavliekanie:zavlečenie 
@@ -13304,15 +13136,15 @@ Odvlečenie:zavlečenie
 Odvliekanie:zavlečenie 
 Naturalizovanie:naturalizácia 
 Kolbisko:kolbište 
-Axum:Aksum 
 Aksúm:Aksum 
+Axum:Aksum 
 Axomis:Aksum 
 Axúm:Aksum 
 Listonos upírovitý:Vampyrum 
 Listonos vampírovitý:Vampyrum 
 Vampír nosatý:Vampyrum 
-Vampyrum spectrum:Vampyrum 
 Linného falošný vampír:Vampyrum 
+Vampyrum spectrum:Vampyrum 
 Vampyrus spectrum:Vampyrum 
 Phyllostomus spectrum:Vampyrum 
 Vespertilio spectrum:Vampyrum 
@@ -13322,26 +13154,26 @@ Sila tiaže:tiaž
 Thaumás:Thaumas 
 Zubára:Az-Zubára 
 Alfa-karotén:Alfakarotén 
-Tiaž Zeme:tiaž 
 Zemská tiaž:tiaž 
+Tiaž Zeme:tiaž 
 Gravitácia Zeme:gravitácia 
 Hmotný:materiálnosť 
 Trombus:Trombóza#Trombus 
 Limasol:Lemesos 
-Ebur:slonovina 
 Slonová kosť:slonovina 
+Ebur:slonovina 
 Odkazovanie:odkázanie 
 Bibliografická referencia:referencia 
 Tímaios:Timaios 
 Vláknovec:glaukus 
 Chrýsothemis:Chrysothemis 
-Mithridatés:Mithridates 
 Glaukiás:Glaukias 
+Mithridatés:Mithridates 
+Dameás:Dameas 
 Mithridátés:Mithridates 
+Tímotheos:Timotheos 
 Dioskouridés:Dioskourides 
 Alxénór:Alxénor 
-Dameás:Dameas 
-Tímotheos:Timotheos 
 Dioskuridés:Dioskourides 
 Dioskúridés:Dioskourides 
 Culicidae:Komárovité 
@@ -13350,8 +13182,8 @@ Timótheos:Timotheos
 Griňa:grňa 
 Hypertónia:hypertenzia 
 Hypertonus:hypertenzia 
-Veverka:veverica 
 Veverkovité:vevericovité 
+Veverka:veverica 
 Vevercovití:vevericovité 
 Hviždiak:hvizdák 
 Svist:svišť 
@@ -13390,7 +13222,6 @@ Adas núbijský:adax
 Antilopy:Antilopa 
 Bozgori:Maďari 
 Katolícky kňaz:Kňaz 
-PMI 80:PMI-80 
 Prímer:prirovnanie 
 Petroleum:Petrolej 
 Ostrakismos:Ostrakizmus 
@@ -13401,8 +13232,8 @@ Kôrnatenie tepien:artérioskleróza
 Vápenatenie tepien:artérioskleróza 
 Užovky:užovka 
 Červík:červ 
-Klimeková:Klimek 
 Zoobentos:Bentos 
+Klimeková:Klimek 
 Fytobentos:Bentos 
 Xenophidia:Caenophidia 
 Korálovcovité:koralovcovité 
@@ -13424,9 +13255,9 @@ Staršie náplavy:pleistocén
 Mladšie prekambrium:proterozoikum 
 Mladšie predkambrium:proterozoikum 
 Pravršie:archaikum 
-Treťovršie:terciér 
 Druhovršie:mezozoikum 
 Prvotnoživotovršie:proterozoikum 
+Treťovršie:terciér 
 Štvrtovršie:kvartér 
 HAAB:Haab 
 Etylizmus:Alkoholizmus 
@@ -13448,14 +13279,14 @@ Branchiata:kôrovce
 Eucrustacea:kôrovce 
 Crustaceomorpha:kôrovce 
 Dicerata:kôrovce 
-Rakovití:kôrovce 
 Kôrovci:kôrovce 
+Rakovití:kôrovce 
 Cormogradi:hryzadlovce 
 Entomorpha:hryzadlovce 
 Atelocerata:vzdušnicovce 
-Uniramia:vzdušnicovce 
 Eutracheata:vzdušnicovce 
 Monocerata:vzdušnicovce 
+Uniramia:vzdušnicovce 
 Monantennata:vzdušnicovce 
 Palaeopoda:bezhryzadlovce 
 Arachnomorpha:bezhryzadlovce 
@@ -13466,13 +13297,13 @@ Hladinomer:Vodočet
 Bionic Beaver:Ubuntu 
 Myxozoy:výtrusníky 
 Hákovnicovce:Cercomeromorpha 
-Protisty:Protista 
 Monéry:prokaryoty 
+Protisty:Protista 
 Monocytozoa:jednobunkovce 
 Protozoá:prvoky 
 Štátny sviatok:Sviatok 
-Nevedomá nedbanlivosť:nedbanlivosť 
 Vedomá nedbanlivosť:nedbanlivosť 
+Nevedomá nedbanlivosť:nedbanlivosť 
 Tiokyanát:tiokyanatan 
 Srdcový stimulátor:kardiostimulátor 
 Krokovač:pacemaker 
@@ -13500,16 +13331,16 @@ Mocniteľ:Umocňovanie
 Základ mocniny:umocňovanie 
 Mocnenec:umocňovanie 
 Piroha:pirohy 
-Pirogy:piroga 
 Piruchy:pirohy 
+Pirogy:piroga 
 Pérky:pirohy 
 Piruch:pirohy 
 Cestenice:pirohy 
-Cestenica:pirohy 
 Pirôžok:pirohy 
-Pirôžky:pirohy 
-Pirôžoček:pirohy 
+Cestenica:pirohy 
 Pirôžtek:pirohy 
+Pirôžoček:pirohy 
+Pirôžky:pirohy 
 Tadžicko:Tadžikistan 
 Oksana:Oxana 
 Emma:Ema 
@@ -13528,12 +13359,12 @@ Prtok:Obrus
 Partok:Obrus 
 Pertok:Obrus 
 Partek:Obrus 
-Čärpak:Črpák 
 Čerpak:Črpák 
+Čärpak:Črpák 
 Čirpak:Črpák 
 Šerpák:Črpák 
-Košár:Košiar 
 Lesola:Letečko 
+Košár:Košiar 
 Cholvarka:Cholvarok 
 Puachta:plachta 
 Letočko:letečko 
@@ -13544,12 +13375,12 @@ Lésola:letečko
 Čepeček:čepček 
 Kápa:kapa 
 Európsky policajný úrad:Europol 
-Epitelové tkanivo:epitel 
 Výstelkové tkanivo:epitel 
+Epitelové tkanivo:epitel 
 Krycie tkanivo:epitel 
 Sedlak:sedlák 
-Fikus:figovník 
 Vidiečan:vidiek 
+Fikus:figovník 
 Grádus:grád 
 Vodné jaštery:Rybojašterotvaré 
 Ichthyosaury:Rybojašterotvaré 
@@ -13558,8 +13389,8 @@ Prvojaštery:hatériotvaré
 Pleziosaury:plesiosaury 
 Veslojaštery:plesiosaury 
 Archosaury:prajaštery 
-Rybojašter:Rybojašterotvaré 
 Pseudosuchia:pajaštery 
+Rybojašter:Rybojašterotvaré 
 Veslojašter:plesiosaury 
 Pajašter:pajaštery 
 Prajašter:prajaštery 
@@ -13583,8 +13414,8 @@ Bezčeľustnaté stavovce:Bezčeľustnatce
 Bezčeľustnaté ryby:Bezčeľustnatce 
 Bezčeľustné ryby:Bezčeľustnatce 
 Kruhoúste ryby:Bezčeľustnatce 
-Čeľusťovce:Čeľustnatce 
 Kruhoúste stavovce:Bezčeľustnatce 
+Čeľusťovce:Čeľustnatce 
 Čeľustnaté stavovce:Čeľustnatce 
 Čeľustné ryby:Čeľustnatce 
 Čeľustnaté ryby:Čeľustnatce 
@@ -13597,30 +13428,30 @@ Anaspidida:anaspidy
 Prilbovcotvaré:prilbovce 
 Hrbozubce:telodonty 
 Štítoplutvovce:pteraspidy 
-Minohy:mihule 
 Dvojnozdré:pteraspidy 
+Minohy:mihule 
 Osteostraky:kostnopanciernatce 
 Cephalaspida:štítohlavovce 
-Jednonozdré:štítohlavovce 
 Štítnatce:štítovce 
+Jednonozdré:štítohlavovce 
 Panciernatce:plakodermy 
 Bezlebkovce:kopijovce 
-Pažralokotvaré:hexanchusotvaré 
 Prachordátovce:kalcichordáty 
-Piliarotvaré:pílonosotvaré 
+Pažralokotvaré:hexanchusotvaré 
 Žralokovcotvaré:kobercovcotvaré 
+Piliarotvaré:pílonosotvaré 
 Vršovkotvaré:vršovky 
 Praryba:praryby 
 Tŕňoplutvé:akantódy 
-Ostnoplutvovcovidné:tŕňoplutvovce 
 Ryby ostnoplutvé:tŕňoplutvovce 
+Ostnoplutvovcovidné:tŕňoplutvovce 
 Tvrdolúče ryby:tŕňoplutvovce 
 Štítnatokožce:plakodermy 
 Pancierokožce:štítovce 
 Tŕňoplutvé ryby:akantódy 
 Panciernatcopodobné:plakodermy 
-Mäsitoplutvovce:násadcoplutvovce 
 Drsnokožcopodobné:drsnokožce 
+Mäsitoplutvovce:násadcoplutvovce 
 Násadcoplutvé ryby:násadcoplutvovce 
 Terapsidné plazy:terapsidy 
 Cynodontia:Cynodonty 
@@ -13636,11 +13467,11 @@ Kačicozobé dinosaury:hadrosaury
 Goliernaté dinosaury:marginocefalovce 
 Hrubohlavé dinosaury:Pachycefalosaury 
 Sauropód:sauropody 
+Teropód:theropody 
 Teropod:theropody 
 Prosauropod:prosauropody 
-Teropód:theropody 
-Platňochrbté dinosaury:stegosaury 
 Prosauropód:prosauropody 
+Platňochrbté dinosaury:stegosaury 
 Hadrosaurovité:hadrosaury 
 Barmský jazyk:Barmčina 
 Povíchrica:víchrica 
@@ -13659,11 +13490,11 @@ Chelonia:korytnačkotvaré
 Hesychius:Hésychios 
 Larynx:Hrtan 
 Svalstvo:Sval 
-Stomachos:Žalúdok 
-Gaster:Žalúdok 
 Svalovina:Sval 
-Duodenum:Dvanástnik 
+Gaster:Žalúdok 
 Ventriculus:Žalúdok 
+Stomachos:Žalúdok 
+Duodenum:Dvanástnik 
 Vesica biliaris:Žlčník 
 Vesica fellea:Žlčník 
 Alawiti:Alaviti 
@@ -13690,9 +13521,9 @@ Lviv:Ľvov
 Salientia:žabotvaré 
 Testudines:korytnačkotvaré 
 Testudinata:korytnačkotvaré 
+Anamniota:bezblanovce 
 Bezblanaté:bezblanovce 
 Anamnióty:bezblanovce 
-Anamniota:bezblanovce 
 Oxolán:Tetrahydrofurán 
 Driv:drajv 
 Warsaw:Varšava 
@@ -13701,32 +13532,29 @@ Apomixis:apomixia
 Thelytokia:telytokia 
 Partenogenetické rozmnožovanie:partenogenéza 
 ☸:Dharmačakra 
-Fekundácia:oplodnenie 
 Sexuálna fúzia:oplodnenie 
+Fekundácia:oplodnenie 
 Zúrodňovanie:zúrodnenie 
 Diamorfín:Heroín 
 Tramal:Tramadol 
-Hydroxid amónny:Čpavok 
 Nevoľnosť:Nauzea 
+Hydroxid amónny:Čpavok 
 Asociativita:Asociatívnosť 
 Samobrezivosť:partenogenéza 
 Parthenogenesis:partenogenéza 
 Bezsemennosť:partenokarpia 
 §:Paragraf 
-EM64T:x86-64 
-X64:x86-64 
 Intel Itanium:Itanium 
-Intel Itanium architecture:IA-64 
 Little-endian:Endianita#Little 
-Little Endian:Endianita#Little 
 Little endian:Endianita#Little 
 Big-endian:Endianita#Big 
 Big endian:Endianita#Big 
+Little Endian:Endianita#Little 
 Big Endian:Endianita#Big 
 Middle endian:Endianita#Middle 
 Middle-endian:Endianita#Middle 
-Middle Endian:Endianita#Middle 
 Mixed-endian:Endianita#Middle 
+Middle Endian:Endianita#Middle 
 Mixed endian:Endianita#Middle 
 Mixed Endian:Endianita#Middle 
 Pteridophyta:papraďorasty 
@@ -13735,17 +13563,17 @@ Eukaryotické organizmy:eukaryoty
 Karyobionta:Eukaryoty 
 Prokaryontné organizmy:prokaryoty 
 Prokaryotické organizmy:prokaryoty 
-Akaryonty:prokaryoty 
 Akaryony:prokaryoty 
 Akaryonta:prokaryoty 
-Bezjadrové organizmy:prokaryoty 
+Akaryonty:prokaryoty 
 Prvobunkové organizmy:prokaryoty 
+Bezjadrové organizmy:prokaryoty 
+Protocellulata:prokaryoty 
 Karyonta:Eukaryoty 
 Nucleobionta:Eukaryoty 
-Protocellulata:prokaryoty 
+Akaryobionta:prokaryoty 
 Anucleobionta:prokaryoty 
 Akaryota:prokaryoty 
-Akaryobionta:prokaryoty 
 Predjadrové organizmy:prokaryoty 
 Schweiz:Švajčiarsko 
 Matia Lenická:B-Complex 
@@ -13753,8 +13581,8 @@ CECHA:cecha
 Kyiv:Kyjev 
 Ungvár:Užhorod 
 Munkács:Mukačevo 
-Muncaeg:Mukačevo 
 Munkatsch:Mukačevo 
+Muncaeg:Mukačevo 
 Zelenomodré riasy:sinice 
 Siné riasy:sinice 
 Modré riasy:sinice 
@@ -13768,13 +13596,13 @@ Vitamíny:Vitamín
 Jesenskovci:Jesenskí 
 Asketik:Askéta 
 Vissarión Trapezuntský:Bessarion 
-Vissarión:Bessarion 
 Bessarion Trapezuntský:Bessarion 
+Vissarión:Bessarion 
 Pruský jazyk:Pruština 
 Staropruština:Pruština 
 Asekurácia:poistenie 
-Wag:Váh 
 Waag:Váh 
+Wag:Váh 
 Acari:Roztoče 
 Opiliones:Kosce 
 Extrasolárny mesiac:Exomesiac 
@@ -13790,8 +13618,8 @@ Disco Dingo:Ubuntu
 Teflón:Polytetrafluóretylén 
 Ardieľ:Sedmohradsko 
 Erdély:Sedmohradsko 
-Transilvania:Sedmohradsko 
 Ardeal:Sedmohradsko 
+Transilvania:Sedmohradsko 
 Transylvania:Sedmohradsko 
 Siebenbürgen:Sedmohradsko 
 Selinus:Selinous 
@@ -13801,8 +13629,8 @@ Bowdenové lanko:bovden
 Bovdenové lanko:bovden 
 Bowdenová hadica:bovden 
 Bowdenova hadica:bovden 
-Poddajné lanko:bovden 
 Lankové tiahlo:bovden 
+Poddajné lanko:bovden 
 Lankové ťahadlo:bovden 
 Elektrónová lampa:elektrónka 
 Aristareta:Aristareté 
@@ -13810,8 +13638,8 @@ Eufrosyna:Eufrosyné
 Gorilorodé:gorila 
 Šimpanzy:šimpanzorodé 
 Gorilovité:gorila 
-Hominídi:hominidi 
 Hominidae:Hominidi 
+Hominídi:hominidi 
 Hominíni:hominini 
 Hominín:hominini 
 Človekovité:hominidi 
@@ -13823,8 +13651,8 @@ Antropoidi:antropoid
 Antropoidy:antropoid 
 Antropoidná opica:antropoid 
 Eustathius:Eustathios 
-Hominoidi:hominoidovce 
 Pravé opice:opica 
+Hominoidi:hominoidovce 
 Hominoidné:hominoidovce 
 Vlastné opice:opica 
 Hominoid:hominoidovce 
@@ -13841,7 +13669,6 @@ Oropos:Órópos
 Prozaička:Prozaik 
 Kolonos:Kolónos 
 Quintus Septimius Florens Tertullianus:Tertulián 
-H-1:H1 
 Balančné krídelko:Krídelko 
 Točňa (javisko):Javisko#Točňa 
 Mespilus:Mišpuľa 
@@ -13854,17 +13681,17 @@ Ephemeroptera:Podenky
 Tv:TV 
 Troflák:trolejbus 
 Mliečny kefír:Kefír 
+Tibi:Tibicos 
 Vodný kefír:Tibicos 
 Japonské vodné kryštály:Tibicos 
-Tibi:Tibicos 
 Scarabaeidae:Skarabeusovité 
 Priame nitovanie:Nitovanie 
 Nepriame nitovanie:Nitovanie 
 Xenosmilus hodsonae:Xenosmilus 
 Rhéskouporis:Rhaskuporis 
 Tekutá látka:tekutina 
-Tekvondo:taekwondo 
 Taekwon-do:taekwondo 
+Tekvondo:taekwondo 
 Malgašsko:Madagaskar 
 Malgašká republika:Madagaskar 
 Madagaskarská demokratická republika:Madagaskar 
@@ -13878,8 +13705,6 @@ Džekfruit:jackfruit
 Žakia:jackfruit 
 Drigant:Trigan 
 Taradúr:Jabberwocky 
-Next Generation Form Factor:M.2 
-NGFF:M.2 
 Dvojstranne súmerné živočíchy:dvojstranovce 
 Eucoelom:celóm 
 Deuterocoel:celóm 
@@ -13887,10 +13712,9 @@ Deuterocoel:celóm
 Pravý coelom:celóm 
 Pravý celóm:celóm 
 Celómová dutina:celóm 
-Coelomová dutina:celóm 
 Pravá celómová dutina:celóm 
+Coelomová dutina:celóm 
 Pravá coelomová dutina:celóm 
-T-80UD:T-80 
 PU:Pu 
 Tankové plavidlo:tanker 
 Durio:Durian 
@@ -13916,20 +13740,18 @@ Merkaptán:Tiol
 Rafflesiaceae:Rafléziovité 
 Telia Parken:Parken 
 Kl:KL 
-R-13:R13 
-Rimm:RIMM 
 Zz:ZZ 
+Rimm:RIMM 
 Cynara:Artičoka 
 E 955:Sukralóza 
-Kcal:kalória 
 Cal:Kalória 
+Kcal:kalória 
 Bonsai:Bonsaj 
 Tófu:Tofu 
 Täkwondo:Taekwondo 
-Ka’ba:Kába 
 Mjanmársko:Mjanmarsko 
+Ka’ba:Kába 
 Bouleutérion:Buleutérion 
-1,2-propándiol:Propán-1,2-diol 
 Oder:Odra 
 Spazmus:Kŕč 
 Šablóna:Odp:Šablóna:Odpoveď 
@@ -13939,8 +13761,8 @@ The Kid:Kid
 Glyceroltrinitrát:Nitroglycerín 
 Baďurová:Baďura 
 Tep:Pulz 
-Fenylbenzén:Bifenyl 
 Difenyl:Bifenyl 
+Fenylbenzén:Bifenyl 
 E 230:Bifenyl 
 Loutroforos:Lutroforos 
 Poloninské Karpaty:Poloniny 
@@ -13950,21 +13772,20 @@ Luzus:lusus
 Wikipédia:Portál komunity/Aktuality/Archív/2006: 
 Podskupina:podzoskupenie 
 Čaja:Asenica 
-Čepelarska reka:Asenica 
 Asenovica:Asenica 
+Čepelarska reka:Asenica 
 Ritalin:metylfenidát 
 Urotropín:Hexametyléntetraamín 
+Meténamín:Hexametyléntetraamín 
 Hexamín:Hexametyléntetraamín 
 E 239:Hexametyléntetraamín 
-Meténamín:Hexametyléntetraamín 
 Epsilon Ursae Minoris:Urodelus 
+HR 6322:Urodelus 
 22 Ursae Minoris:Urodelus 
 HD 153751:Urodelus 
 BD+82°498:Urodelus 
-HR 6322:Urodelus 
 Metylmerkaptán:Metántiol 
 Hong Kong:Hongkong 
-PINE64:Pine64 
 Gonokoková infekcia:kvapavka 
 Gonorea:kvapavka 
 Ananásovník:ananás 
@@ -13977,8 +13798,8 @@ Letný tábor výtvarníkov:LETAVY
 Parasites:Parasite 
 Macaca:Makak 
 Aquapark:akvapark 
-Vodný park:akvapark 
 Akvacentrum:akvapark 
+Vodný park:akvapark 
 Aquacentrum:akvapark 
 Köpcsény:Kittsee 
 Wanna Be:Wannabe 
@@ -14005,16 +13826,16 @@ Socioparazit:príživníctvo
 Cudzopas:parazit 
 Cudzopasec:parazit 
 Cudzopasenie:parazitizmus 
-Parazitstvo:parazitizmus 
 Parazitovanie:parazitizmus 
+Parazitstvo:parazitizmus 
 Sociálne príživníctvo:príživníctvo 
 Sociálny príživník:príživníctvo 
 Priživenie:priživovanie 
 Príživníčenie:príživníctvo 
-Lokeš:lokša 
 Lokoš:lokša 
-Rúrový piest:Piest 
+Lokeš:lokša 
 Kotúčový piest:Piest 
+Rúrový piest:Piest 
 Plunžerový piest:Piest 
 Stupňový piest:Piest 
 Polynok:palina 
@@ -14032,12 +13853,12 @@ Chassis:šasi
 Adamaoua:Adamawa 
 Šampion:šampiňón 
 Žampion:šampiňón 
-Karpofor:plodnica 
 Karposóma:plodnica 
+Karpofor:plodnica 
 Plodnička:plodnica 
-Bazídióma:plodnica 
-Askóma:plodnica 
 Askokarp:plodnica 
+Askóma:plodnica 
+Bazídióma:plodnica 
 Bazídiokarp:plodnica 
 Kozmopolita:kozmopolitizmus 
 LightSail 1:LightSail 
@@ -14065,11 +13886,11 @@ Borbónovci:Bourbonovci
 Bourboni:Bourbonovci 
 Učilisko:učilište 
 Argentínska republika:Argentína 
+Bieloruská republika:Bielorusko 
 Kazašská republika:Kazachstan 
 Kubánska republika:Kuba 
-Bieloruská republika:Bielorusko 
-Libanonská republika:Libanon 
 Lotyšská republika:Lotyšsko 
+Libanonská republika:Libanon 
 Slovinská republika:Slovinsko 
 Uzbecká republika:Uzbekistan 
 Diazán:Hydrazín 
@@ -14079,8 +13900,8 @@ Tekvica obyčajná Skupina Patissonina:patizón
 Tekvica obyčajná patizónová:patizón 
 Tekvica patizónová:patizón 
 Izopropylbenzén:Kumén 
-Trichlóretanal:Chloral 
 Trichlóracetaldehyd:Chloral 
+Trichlóretanal:Chloral 
 Manul stepný:manul 
 Strigops habroptila:Kakapo 
 Stoletie:storočie 
@@ -14106,9 +13927,9 @@ Keramik:Keramikárstvo
 Živočíchy jednobunkové:prvoky 
 Mnohobunkové živočíchy:živočíchy 
 Živočíchy mnohobunkové:živočíchy 
-Článkonohé:článkonožce 
-Mnohobunkové:živočíchy 
 Jednobunkové živočíchy:prvoky 
+Mnohobunkové:živočíchy 
+Článkonohé:článkonožce 
 Zadožiabre:zadožiabrovce 
 Mezozoá:morulovce 
 Riasničkavce:nálevníky 
@@ -14126,8 +13947,8 @@ Ciliáty:nálevníky
 Fenylchlorid:Chlórbenzén 
 Sviečková:sviečkovica 
 Bravčová krkovička:Krkovička 
-Očná zornica:zrenica 
 Očná zrenica:zrenica 
+Očná zornica:zrenica 
 Krkovica:krkovička 
 Bravčová krkovica:krkovička 
 Hovado:hovädo 
@@ -14177,9 +13998,9 @@ Hallo Northern Sky:HNSKY
 Čák:Čákovci 
 Uzatvárací prístroj:Uzáver 
 Podhlavnica:vankúš 
+Podhlavec:vankúš 
 Podhlavok:vankúš 
 Podhlavník:vankúš 
-Podhlavec:vankúš 
 Autiak:automobil 
 Fáro:automobil 
 Búrak:automobil 
@@ -14201,8 +14022,6 @@ Zosimos:Zósimos
 Benickí:Benickovci 
 Smetiak:smetník 
 Popelnica:popolnica 
-Bratislava nahlas:Bratislava/nahlas 
-B/n:Bratislava/nahlas 
 Chladiaca látka:chladivo 
 Chladiace médium:Chladivo 
 Kotlový výparník:Výparník 
@@ -14211,26 +14030,26 @@ Zmluva o medzinárodnom obchode s ohrozenými druhmi voľne žijúcich živočí
 Wikipédia:Portál:Wikipédia:Wikiportál 
 Párky:párok 
 Theodosiúpolis:Theodosiopolis 
-Theodosioupolis:Theodosiopolis 
 Arménia:Arménsko 
+Theodosioupolis:Theodosiopolis 
 Fanúšek:fanúšik 
 Fanúšička:fanúšik 
 Milid:Melid 
 Arslantepe:Melid 
 Meliddu:Melid 
 Aslantepe:Melid 
-Melidu:Melid 
 Arslan-Tepe:Melid 
+Melidu:Melid 
 Meliténa:Malatya 
+Melitény:Malatya 
 Malatíja:Malatya 
 Malatia:Malatya 
 Melitena:Malatya 
-Melitény:Malatya 
 Hejtman:hajtman 
 Štát Izrael:Izrael 
 Ecuádor:Ekvádor 
-Ekvador:Ekvádor 
 Ekuador:Ekvádor 
+Ekvador:Ekvádor 
 Galilejská Kána:Kána 
 Menidžment:manažment 
 Dvoklíčnolistové rastliny:dvojklíčnolistové 
@@ -14240,30 +14059,30 @@ Menežer:manažér
 Dvojklíčnolistové rastliny:dvojklíčnolistové 
 Kaktusovité:opunciovité 
 Magnoliales:magnóliotvaré 
-Nymphaeales:leknotvaré 
-Amborellales:amborelotvaré 
 Arecaceae:arekotvaré 
+Amborellales:amborelotvaré 
+Nymphaeales:leknotvaré 
 Nymphaeaceae:leknovité 
 Arecales:arekotvaré 
 Dvojdeložné:dvojklíčnolistové 
 Dvoklíčnolistová rastlina:dvojklíčnolistové 
 Jednodeložné:jednoklíčnolistové 
-Jednoklíčnolisté rastliny:jednoklíčnolistové 
 Dvojklíčne rastliny:dvojklíčnolistové 
+Jednoklíčnolisté rastliny:jednoklíčnolistové 
 Dvojklíčnolisté rastliny:dvojklíčnolistové 
 Dvojklíčnolistová rastlina:dvojklíčnolistové 
 Hit (hudba):Šláger 
-Fyziater:Fyziatria 
 Fyziatrička:Fyziatria 
+Fyziater:Fyziatria 
 Symphalangus:Siamang 
-Gibon siamang:Siamang 
 Symphalangus syndactylus:Siamang 
+Gibon siamang:Siamang 
 Gibon amang:Siamang 
 Hylobates syndactylus:Siamang 
 Ordinačná miestnosť:ambulancia 
+Ordinovanie:ordinácia 
 Ordinačka:ambulancia 
 Ošetrovňa:ambulancia 
-Ordinovanie:ordinácia 
 GLOBSEC:Globsec 
 Kordillery Južnej Ameriky:Andy 
 Vzdušina:vzdušnina 
@@ -14271,15 +14090,15 @@ Kartezianizmus:Karteziánstvo
 Strojové zariadenie:stroj 
 Bulimia nervosa:Bulímia 
 Saskačevan:Saskatchewan 
-Artičok:artičoka 
 Artičóka:artičoka 
+Artičok:artičoka 
 Srdcovky:srdcovka 
 Očná jamka:očnica 
 Árpádovci:Arpádovci 
 Staroverectvo:Staroverstvo 
 Hliv:hliva 
-Hlivec:hliva 
 Hlivka:hliva 
+Hlivec:hliva 
 Gliva:hliva 
 Siamang zrastoprstý:siamang 
 Suchý vzduch:Vzduch 
@@ -14305,23 +14124,23 @@ Dvojklolisté rastliny:dvojklíčnolistové
 Jednomaternicové rastliny:jednoklíčnolistové 
 Jednoklolisté rastliny:jednoklíčnolistové 
 Špecifická entalpia:entalpia 
-Gibony:gibonovité 
 Gibonobližné:gibonovité 
-Hylobatini:gibonovité 
+Gibony:gibonovité 
 Hylobatina:gibonovité 
-Malí ľudoopi:gibonovité 
+Hylobatini:gibonovité 
 Hylobatoidea:gibonovité 
 Malé ľudoopy:gibonovité 
+Malí ľudoopi:gibonovité 
 Hylobates:gibonovité 
 Krátkokrídlovce:Žeriavotvaré 
 Primates:primáty 
 Plesiadapiformes:plesiadapoidy 
 Dvojruké:štvorruké 
-Štvorrukí:štvorruké 
 Quadrumana:štvorruké 
 Pollicata:štvorruké 
-Bimanus:štvorruké 
+Štvorrukí:štvorruké 
 Bimana:štvorruké 
+Bimanus:štvorruké 
 Erecta:štvorruké 
 Inermis:štvorruké 
 Opice vlastné:opica 
@@ -14332,12 +14151,12 @@ Okapia pruhovaná:okapia
 Okápia pásavá:okapia 
 Tripous:Tripus 
 Nechetnatce:primáty 
-T-bunka:T-lymfocyt 
-T bunka:T-lymfocyt 
 T lymfocyt:T-lymfocyt 
+T bunka:T-lymfocyt 
+T-bunka:T-lymfocyt 
 Bunka T:T-lymfocyt 
-B lymfocyt:B-lymfocyt 
 B-bunka:B-lymfocyt 
+B lymfocyt:B-lymfocyt 
 B bunka:B-lymfocyt 
 Rovnostársky liberalizmus:liberalizmus 
 Liberál:liberalizmus 
@@ -14348,21 +14167,21 @@ Har-Magedon:Harmagedon
 Hatti:Chatti 
 Ḫatti:Chatti 
 Hettiti:Chetiti 
-Hetiti:Chetiti 
 Hethiti:Chetiti 
 Hetejci:Chetiti 
-Synovia Hetovi:Chetiti 
 Chetejci:Chetiti 
-Chetovi synovia:Chetiti 
+Hetiti:Chetiti 
+Synovia Hetovi:Chetiti 
 Chattuša:Chattušaš 
+Chetovi synovia:Chetiti 
 Vombat:vombatovité 
 Paremiologický útvar:Parémia 
 Sega Dreamcast:Dreamcast 
 Bičiare:hmatonožce 
 Bičovce:hmatonožce 
 Bičonôžky:hmatonožce 
-Netátal:netata 
 Netáta:netata 
+Netátal:netata 
 Wilhelm-Pieck-Stadt:Guben 
 Hyracoidea:damany 
 Echea:Écheia 
@@ -14375,15 +14194,15 @@ Korutany:Korutánsko
 Chudozubé:slabozubce 
 Chudozubce:slabozubce 
 Chudozubí:slabozubce 
-Bezzubce:slabozubce 
 Bezzubci:slabozubce 
+Bezzubce:slabozubce 
 Bezzubí:slabozubce 
 Živorodé cicavce:živorodé 
 Bójka:Bója 
 Maternicovce:živorodé 
+Kloačnaté:vajcorodce 
 Mamálie:cicavce 
 Savce:cicavce 
-Kloačnaté:vajcorodce 
 Savec:cicavce 
 Ssavce:cicavce 
 Zvieratá:zviera 
@@ -14391,13 +14210,13 @@ Sekvoja mamutia:sekvojovec
 Mamutí strom:sekvojovec 
 Wellingtonia:sekvojovec 
 Sequoiadendron:sekvojovec 
-Rasúlu-lláh:Mohamed 
 Rasúl Alláh:Mohamed 
+Rasúlu-lláh:Mohamed 
 Lavandula:Levanduľa 
 Syringa:Orgován 
 Tse-tse mucha:tse-tse 
-Pichavka:bodavka 
 Glosína:Glossina 
+Pichavka:bodavka 
 Bodalka:bodavka 
 Ovce:ovca 
 Dutorožce:turovité 
@@ -14409,22 +14228,22 @@ Dutorohé:turovité
 Dutorohá zver:turovité 
 Dutorohé prežúvavce:turovité 
 Pižmoň severný:pižmoň 
-Pižmoň dlhosrstý:pižmoň 
 Pižmoň východný:pižmoň 
+Pižmoň dlhosrstý:pižmoň 
 Tur pižmový:pižmoň 
 Ovibos:pižmoň 
 Institut européen d'administration des affaires:INSEAD 
 Šparga:špargľa 
-Špargan:špargľa 
 Šparag:špargľa 
 Špárga:špargľa 
+Špargan:špargľa 
 Špargeľ:špargľa 
 Bovidae:turovité 
 Leko:lyko 
-Ligo:lyko 
 Liko:lyko 
-Onuc:onuca 
+Ligo:lyko 
 Onica:onuca 
+Onuc:onuca 
 Cristiano Spiller:Spiller 
 Melissa Jefferson:Lizzo 
 Melissa Viviane Jefferson:Lizzo 
@@ -14441,15 +14260,14 @@ Sullové proskripcie:Proskripcia
 Mošoň:Mošon 
 Moson:Mošon 
 Borsod:Boršod 
-Talet 30:Talet-30 
 Somogy:Šomoď 
 Csanád:Čanád 
 Čanad:Čanád 
 Čongrad:Čongrád 
 Rimavský komitát:Malohont 
-Malohontianska stolica:Malohont 
 Malohontská župa:Malohont 
 Malohontianska župa:Malohont 
+Malohontianska stolica:Malohont 
 Vašvár:Vasvár 
 Železnohrad:Vasvár 
 Tolňa:Tolna 
@@ -14458,12 +14276,10 @@ Torňa:Turňa
 Turna:Turňa 
 Bebekovci:Bubekovci 
 Vratná adiabata:adiabata 
-TOS-1A Solncepjok:TOS-1 
-TOS-1 Buratino:TOS-1 
 Ailurus styani:Ailurus 
 Sväz:zväz 
-Zpráva:správa 
 Sbor:zbor 
+Zpráva:správa 
 Burma:Mjanmarsko 
 Mjanmar:Mjanmarsko 
 Bambusovité:bambusovaté 
@@ -14504,15 +14320,15 @@ Elektronický list:e-mail
 E-mailová správa:e-mail 
 Emailová správa:e-mail 
 E-poštová správa:e-mail 
-Mailová správa:e-mail 
 Mejlová správa:e-mail 
-Peninsula:polostrov 
+Mailová správa:e-mail 
 Poloostrov:polostrov 
+Peninsula:polostrov 
 Enamelum:sklovina 
 Adamantín:sklovina 
 Glejda:glieda 
-Gléta:glieda 
 Gľejta:glieda 
+Gléta:glieda 
 Nóach:Noe 
 Lamech:Lámech 
 Šem:šém 
@@ -14559,8 +14375,8 @@ Lomítko:lomka
 McDonalds:McDonald's 
 Mapuče:Mapučé 
 Mapuche:mapučé 
-Araukánci:Mapučovia 
 Araukáni:Mapučovia 
+Araukánci:Mapučovia 
 Čé:Mapučovia 
 Molučé:Mapučovia 
 Molučovia:Mapučovia 
@@ -14576,8 +14392,8 @@ Pyľ:peľ
 Akúly:žralokovidné 
 Rastlinopis:botanika 
 Rastlinopisec:botanika 
-Fytológ:botanika 
 Živočíchopis:zoológia 
+Fytológ:botanika 
 Živočíchopisec:zoológia 
 Duálna monarchia:Rakúsko-Uhorsko 
 Mocnárstvo:monarchia 
@@ -14590,8 +14406,8 @@ Tyroly:Tirolsko
 Tiroly:Tirolsko 
 Tirolská zem:Tirolsko 
 Tímea:Timea 
-Malé Šenkvice:Cerové 
 Malé Čaníkovce:Cerové 
+Malé Šenkvice:Cerové 
 Lučba:chémia 
 Plechovica:plechovka 
 AtomicDrinks bv:AtomicDrinks 
@@ -14606,13 +14422,13 @@ Křesťanská a demokratická unie – Československá strana lidová:KDU-ČSL
 Šťaveľ:štiav 
 Šťav:štiav 
 Tupaje:tany 
-Tana:tany 
 Tanotvaré:tany 
+Tana:tany 
 Tupaja:tany 
 Tupaiiformes:tany 
 Tupaioidea:tany 
-Složnokveté:astrovité 
 Zložnokveté:astrovité 
+Složnokveté:astrovité 
 Astrokveté:astrotvaré 
 Úborovité:astrovité 
 Spoluložné:astrovité 
@@ -14635,14 +14451,14 @@ Euprimates:primáty
 Plesne:pleseň 
 Plieseň:pleseň 
 Brontomerus mcintoshi:Brontomerus 
-Elektrický automobil:elektromobil 
 Automobil na elektrický pohon:elektromobil 
+Elektrický automobil:elektromobil 
 E-mobil:elektromobil 
 Emobil:elektromobil 
 Elektrické auto:elektromobil 
 Iravádí:Iravadi 
-Mándalej:Mandalaj 
 Iravadí:Iravadi 
+Mándalej:Mandalaj 
 Ceratophyllales:rožkatcotvaré 
 Talus:stielka 
 Šablóna:KUW:Šablóna:KWT 
