@@ -40,9 +40,9 @@ class Worker:
                 # enter the result into the index queue
                 if page['alt_title'] != None:
                     self.target_queue.put(page)
-                    if self.logging:
+                    if self.logging == True:
                         print("WORKER {}:".format(self.id),
-                              page['title'], page['alt_title'])
+                              page['title'], ':', page['alt_title'])
             # if the queue is empty, wait for a second
             except:
                 time.sleep(1)

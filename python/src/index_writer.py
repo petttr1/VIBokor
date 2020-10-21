@@ -33,7 +33,7 @@ class IndexWriter:
                     # else write the data to a file
                     file.write("""{}:{} \n""".format(
                         entry['title'].strip(' []\n'), entry['alt_title'].strip(' []\n')))
-                    if self.logging:
+                    if self.logging == True:
                         print('INDEX_WRITER:',
                               "Title: {}".format(entry['title']))
                 # if the queue is empty, wait for a second

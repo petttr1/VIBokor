@@ -1,4 +1,10 @@
 # Wiki Alternate Names
+## Usage example
+
+<code shell>
+python main.py --lang eng --wiki_dump ./data/enwiki-test.xml.bz2 --index_file ./data/enwiki-test.json --num_workers 4
+</code>
+
 ## Alternate names for Wiki pages
 ### Problem Description
 
