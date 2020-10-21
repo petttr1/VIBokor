@@ -4,6 +4,7 @@ from python.src.worker import Worker
 from multiprocessing import Pool, Process, Manager, Queue
 import json
 import argparse
+import time
 
 
 def run(args):
@@ -22,6 +23,7 @@ def cleanup_index(line):
 
 
 if __name__ == '__main__':
+    start_time = time.time()
     # handle argument parsing
     parser = argparse.ArgumentParser(
         description='Run the Wiki Alternate name finder tool.')
@@ -34,7 +36,9 @@ if __name__ == '__main__':
     parser.add_argument(
         '--num_workers', help='Number of workers to use. Default = 1.', default=1, required=False, type=int)
     parser.add_argument(
-        '--debug', help='Whether to use debug mode - print woker and index writer logs', default=False, required=False, type=bool)
+        '--debug', help='Whether to use debug mode - print woker and index writer logs', default=False, required=False, action='store_true')
+    parser.add_argument(
+        '--timing', help='Whether to record and print the execution time', default=False, required=False, action='store_true')
     args = parser.parse_args()
 
     # paths to the files
@@ -83,3 +87,7 @@ if __name__ == '__main__':
     # dump the constructed dict as JSON
     with open(index_file, mode='w+', encoding='utf-8') as file:
         json.dump(index_dict, file, ensure_ascii=False)
+    end_time = time.time()
+    if args.timing:
+        print('FINAL TIME OF EXECUTION: {:01.2f} minutes'.format(
+            (end_time - start_time) / 60))
